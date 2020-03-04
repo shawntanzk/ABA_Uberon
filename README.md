@@ -17,7 +17,7 @@ configure rendering as follows:
 ### Example content: 
 
 ![image](https://user-images.githubusercontent.com/112839/75909404-f5ed2280-5e43-11ea-94fa-464141f06f4f.png)
-![image](https://user-images.githubusercontent.com/112839/75909570-41073580-5e44-11ea-9cc4-b494dc4790af.png)
+![image](https://user-images.githubusercontent.com/112839/75911798-08695b00-5e48-11ea-8195-01302f4302f1.png)
 
 Links go straight to the relevant page on the Allen Brain Atlas, e.g. the above link goes to:
 

@@ -1,7 +1,7 @@
 ROBOT = robot
 URIBASE = http://purl.obolibrary.org/obo
 
-all: aba-uberon.owl
+all: aba-uberon.owl.gz
 
 IMP=true # Global parameter to bypass import generation
 MIR=true # Global parameter to bypass mirror generation
@@ -25,7 +25,10 @@ linkouts.owl: tmp.owl ../robot_templates/linkouts.tsv
 	robot template --template ../robot_templates/linkouts.tsv --input $< --prefix=OboInOwl:http://www.geneontology.org/formats/oboInOwl# -o $@
 
 aba-uberon.owl: linkouts.owl
-	robot merge --input $< --input tmp.owl annotate --ontology-iri $(URIBASE)/$@ -o $@
+	robot merge --input $< --input tmp.owl annotate --ontology-iri $(URIBASE)/$@ convert -f ofn -o $@
+
+aba-uberon.owl.gz: aba-uberon.owl
+	gzip $< 
 
 
 

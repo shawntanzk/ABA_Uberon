@@ -6,7 +6,7 @@ For deails of the source files, their origins and their relationships, please se
 
 **Product:**  [src/ontology/aba-uberon.owl.gz](src/ontology/aba-uberon.owl.gz)
 
-### To view in Protege:
+### To view in [Protege](https://protege.stanford.edu/products.php#desktop-protege):
 
 configure rendering as follows: 
 

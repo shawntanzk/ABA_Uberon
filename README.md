@@ -4,7 +4,7 @@ This repository contains an application ontology built by combining ontologised 
 
 For deails of the source files, their origins and their relationships, please see [ABA_Uberon.md](ABA_Uberon.md).
 
-**Product:**  src/ontology/aba-uberon.owl.gz
+**Product:**  (src/ontology/aba-uberon.owl.gz)[src/ontology/aba-uberon.owl.gz]
 
 ### To view in Protege:
 

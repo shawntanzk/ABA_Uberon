@@ -13,7 +13,7 @@ link = Template("http://atlas.brain-map.org/atlas?atlas="
                 "$atlas_id#structure=$structure_id")
 
 seed = {'ID': 'ID',
-        'xref': 'A OboInOwl:xref',
+        'xref': 'A OboInOwl:hasDbXref',
         'prefLabel': 'A skos:prefLabel'}
 
 tab = [seed]

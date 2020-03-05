@@ -4,9 +4,9 @@ This repository contains an application ontology built by combining ontologised 
 
 For deails of the source files, their origins and their relationships, please see [ABA_Uberon.md](ABA_Uberon.md).
 
-**Product:**  [src/ontology/aba-uberon.owl.gz](src/ontology/aba-uberon.owl)
+**Product:**  [aba_uberon.owl](aba_uberon.owl)
 
-### To launch local OLS via Docker
+### To launch local in [OLS](https://www.ebi.ac.uk/ols/index) via [Docker](https://www.docker.com/)
 
 ```
 docker build . -t uberallen-ols

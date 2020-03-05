@@ -5,12 +5,12 @@ ontologies:
 
 ## HCAO
 
-  - id: aba_uberon
+  - id: uberallen
     preferredPrefix: ABA
     title: Allan Brain Atlas Uberon Mashup
     description: >
       Application ontology combining ontologised versions of ABA structureGraphs with Uberon
-    uri: http://purl.obolibrary.org/obo/aba-uberon.owl
+    uri: http://purl.obolibrary.org/obo/aba_uberon.owl
     base_uri:
       - http://purl.obolibrary.org/obo/UBERON_
       - http://purl.obolibrary.org/obo/MBA_
@@ -24,6 +24,7 @@ ontologies:
       - http://purl.obolibrary.org/obo/BFO_0000050
     definition_property:
       - http://purl.obolibrary.org/obo/IAO_0000115
+#    label_property:  http://www.w3.org/2004/02/skos/core#prefLabel
     reasoner: EL
     oboSlims: false
     ontology_purl : file:///opt/ols/ontologies/aba_uberon.owl

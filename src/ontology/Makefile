@@ -51,7 +51,11 @@ aba_uberon.owl: linkouts.owl
 
 # Compress for release to get below GitHub file size restrictions.
 aba-uberon.owl.gz: aba_uberon.owl
-	gzip $< 
+	gzip $<
+
+prepare_release: aba_uberon.owl
+	cp $< ../../.
+
 
 
 

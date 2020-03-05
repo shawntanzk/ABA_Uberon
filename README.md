@@ -4,7 +4,16 @@ This repository contains an application ontology built by combining ontologised 
 
 For deails of the source files, their origins and their relationships, please see [ABA_Uberon.md](ABA_Uberon.md).
 
-**Product:**  [src/ontology/aba-uberon.owl.gz](src/ontology/aba-uberon.owl.gz)
+**Product:**  [src/ontology/aba-uberon.owl.gz](src/ontology/aba-uberon.owl)
+
+### To launch local OLS via Docker
+
+```
+docker build . -t uberallen-ols
+docker run -p 8080:8080 -t uberallen-ols 
+``` 
+
+OLS should now be running at http://localhost:8080
 
 ### To view in [Protege](https://protege.stanford.edu/products.php#desktop-protege):
 

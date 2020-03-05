@@ -12,9 +12,24 @@ mirror/uberon.owl:
 
 # TODO: move to making uberon slice.
 
-# crudely listing dependencies for now - but could switch to using pattern expansion
-tmp.owl: mirror/uberon.owl
-	robot merge --input sources/allen-dhba.obo --input sources/allen-dmba.obo --input sources/allen-hba.obo --input sources/allen-mba.obo --input sources/allen-pba.obo --input sources/uberon-bridge-to-aba.obo --input sources/uberon-bridge-to-dhba.obo --input sources/uberon-bridge-to-dmba.obo --input sources/uberon-bridge-to-hba.obo --input sources/uberon-bridge-to-mba.obo --input sources/uberon-bridge-to-pba.obo --input $< annotate --ontology-iri $(URIBASE)/$@ -o $@
+# Merge sources. # crudely listing dependencies for now - but could switch to using pattern expansion
+sources_merged.owl:
+	robot merge --input sources/allen-dhba.obo --input sources/allen-dmba.obo --input sources/allen-hba.obo --input sources/allen-mba.obo --input sources/allen-pba.obo --input sources/uberon-bridge-to-aba.obo --input sources/uberon-bridge-to-dhba.obo --input sources/uberon-bridge-to-dmba.obo --input sources/uberon-bridge-to-hba.obo --input sources/uberon-bridge-to-mba.obo --input sources/uberon-bridge-to-pba.obo annotate --ontology-iri $(URIBASE)/$@ -o $@
+
+
+# Generate seed for pulling relevant subset of Uberon
+terms.txt: sources_merged.owl
+	$(ROBOT) query --use-graphs true -f csv -i $< --query ../sparql/terms.sparql $@
+
+# Generate slice of uberon.
+# Using BOT for now - but this could potentially be more minimal
+
+uberon_slice.owl: mirror/uberon.owl terms.txt
+	$(ROBOT) extract --method BOT -i mirror/uberon.owl -T terms.txt -o $@
+
+
+tmp.owl: uberon_slice.owl sources_merged.owl
+	robot merge --input uberon_slice.owl --input sources_merged.owl annotate --ontology-iri $(URIBASE)/$@ -o $@
 
 # Make a json file for use in geneating ROBOT template
 tmp.json: tmp.owl

@@ -19,18 +19,24 @@ seed = {'ID': 'ID',
 tab = [seed]
 
 for n in g['nodes']:
-    if 'meta' in n.keys() and 'basicPropertyValues' in n['meta'].keys():
-        for bpv in n['meta']['basicPropertyValues']:
-            for k, v in mapping.items():
-                if bpv['pred'] == 'http://purl.obolibrary.org/obo/%s#identifier' % k:
-                    for a in v['atlases']:
-                        tab.append({'ID': n['id'],
-                                    'xref': link.substitute(atlas_id=a['id'],
-                                                            structure_id=bpv['val']),
-                                    'prefLabel': ' '.join([n['lbl'],
-                                                           ' (',
-                                                           v['species'],
-                                                           ')'])})
+    if 'type' in n.keys() and n['type'] == 'CLASS':
+        lstat = True
+        if 'meta' in n.keys() and 'basicPropertyValues' in n['meta'].keys():
+            for bpv in n['meta']['basicPropertyValues']:
+                for k, v in mapping.items():
+                    if bpv['pred'] == 'http://purl.obolibrary.org/obo/%s#identifier' % k:
+                        for a in v['atlases']:
+                            tab.append({'ID': n['id'],
+                                        'xref': link.substitute(atlas_id=a['id'],
+                                                                structure_id=bpv['val']),
+                                        'prefLabel': ' '.join([n['lbl'],
+                                                               ' (',
+                                                               v['species'],
+                                                               ')'])})
+                        lstat = False
+        if lstat and 'lbl' in n.keys():
+            tab.append({'ID': n['id'], 'xref': '', 'prefLabel': n['lbl']})
+
 
 r_temp = pd.DataFrame.from_records(tab)
 r_temp.to_csv('../robot_templates/linkouts.tsv', sep='\t', index=False)

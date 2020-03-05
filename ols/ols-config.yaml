@@ -3,8 +3,6 @@
 
 ontologies:
 
-## HCAO
-
   - id: uberallen
     preferredPrefix: ABA
     title: Allan Brain Atlas Uberon Mashup

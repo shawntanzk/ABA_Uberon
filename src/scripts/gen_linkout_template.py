@@ -2,8 +2,14 @@ import json
 from ruamel.yaml import YAML
 from string import Template
 import pandas as pd
+import argparse
 
-f = open('../ontology/tmp.json', 'r')
+parser = argparse.ArgumentParser(description='Process some integers.')
+parser.add_argument('filepath',
+                    help='Path to json version of ontology for input')
+args = parser.parse_args()
+
+f = open(args.filepath, 'r')
 j = json.loads(f.read())
 g = j['graphs'][0]
 conf = open('../config/db_graph_atlas.yaml', 'r')

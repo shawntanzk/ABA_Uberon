@@ -52,11 +52,11 @@ sources/uberon-bridge-to-pba.obo:
 	curl -o sources/uberon-bridge-to-pba.obo "https://raw.githubusercontent.com/obophenotype/uberon/master/src/ontology/bridge/uberon-bridge-to-pba.obo"
 
 all_sources: 
-	make sources/allen-mba.obo sources/allen-dmba.obo sources/allen-hba.obo sources/allen-dhba.obo sources/allen-pba.obo sources/uberon-bridge-to-aba.obo sources/uberon-bridge-to-dhba.obo sources/uberon-bridge-to-dmba.obo sources/uberon-bridge-to-hba.obo sources/uberon-bridge-to-mba.obo sources/uberon-bridge-to-pba.obo
+	make sources/allen-dhba.obo sources/allen-dmba.obo sources/allen-hba.obo sources/allen-mba.obo sources/allen-pba.obo sources/uberon-bridge-to-aba.obo sources/uberon-bridge-to-dhba.obo sources/uberon-bridge-to-dmba.obo sources/uberon-bridge-to-hba.obo sources/uberon-bridge-to-mba.obo sources/uberon-bridge-to-pba.obo -B
 
 
 # Merge sources. # crudely listing dependencies for now - but could switch to using pattern expansion
-sources_merged.owl:
+sources_merged.owl: all_sources
 	robot merge --input sources/allen-dhba.obo --input sources/allen-dmba.obo --input sources/allen-hba.obo --input sources/allen-mba.obo --input sources/allen-pba.obo --input sources/uberon-bridge-to-aba.obo --input sources/uberon-bridge-to-dhba.obo --input sources/uberon-bridge-to-dmba.obo --input sources/uberon-bridge-to-hba.obo --input sources/uberon-bridge-to-mba.obo --input sources/uberon-bridge-to-pba.obo annotate --ontology-iri $(URIBASE)/$@ -o $@
 
 
@@ -68,7 +68,7 @@ terms.txt: sources_merged.owl
 # Using BOT for now - but this could potentially be more minimal
 
 uberon_slice.owl: mirror/uberon.owl terms.txt
-	$(ROBOT) extract --method BOT -i mirror/uberon.owl -T terms.txt remove --axioms disjoint -o $@
+	$(ROBOT) extract --method BOT -i mirror/uberon.owl --term-file terms.txt remove --axioms disjoint -o $@
 
 
 # merge uberon + sources, reason & relax (EC -> SC)

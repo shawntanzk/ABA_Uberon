@@ -1,5 +1,8 @@
 ROBOT = robot
 URIBASE = http://purl.obolibrary.org/obo
+ONT=                        ABA_Uberon
+ONTBASE=                    $(URIBASE)/$(ONT)
+
 
 all: aba_uberon.owl report.xlsx
 
@@ -12,6 +15,27 @@ mirror/uberon.owl:
 
 # TODO: move to making uberon slice.
 
+# Download sources
+# Should be replaced by making these files instead of downloading from uberon in future
+
+.PHONY: all_sources
+all_source: sources/allen-mba.obo sources/allen-dmba.obo sources/allen-hba.obo sources/allen-dhba.obo sources/allen-pba.obo 
+
+sources/allen-mba.obo: 
+	curl -o sources/allen-mba.obo "https://raw.githubusercontent.com/obophenotype/uberon/master/source-ontologies/allen-mba.obo" 
+
+sources/allen-dmba.obo: 
+	curl -o sources/allen-dmba.obo "https://raw.githubusercontent.com/obophenotype/uberon/master/source-ontologies/allen-dmba.obo"
+
+sources/allen-hba.obo: 
+	curl -o sources/allen-hba.obo "https://raw.githubusercontent.com/obophenotype/uberon/master/source-ontologies/allen-hba.obo"
+
+sources/allen-dhba.obo: 
+	curl -o sources/allen-dhba.obo "https://raw.githubusercontent.com/obophenotype/uberon/master/source-ontologies/allen-dhba.obo"
+
+sources/allen-pba.obo: 
+	curl -o sources/allen-pba.obo "https://raw.githubusercontent.com/obophenotype/uberon/master/source-ontologies/allen-pba.obo"
+	
 # Merge sources. # crudely listing dependencies for now - but could switch to using pattern expansion
 sources_merged.owl:
 	robot merge --input sources/allen-dhba.obo --input sources/allen-dmba.obo --input sources/allen-hba.obo --input sources/allen-mba.obo --input sources/allen-pba.obo --input sources/uberon-bridge-to-aba.obo --input sources/uberon-bridge-to-dhba.obo --input sources/uberon-bridge-to-dmba.obo --input sources/uberon-bridge-to-hba.obo --input sources/uberon-bridge-to-mba.obo --input sources/uberon-bridge-to-pba.obo annotate --ontology-iri $(URIBASE)/$@ -o $@
@@ -31,7 +55,7 @@ uberon_slice.owl: mirror/uberon.owl terms.txt
 # merge uberon + sources, reason & relax (EC -> SC)
 
 tmp.owl: uberon_slice.owl sources_merged.owl
-	robot merge --input uberon_slice.owl --input sources_merged.owl reason relax annotate --ontology-iri $(URIBASE)/$@ -o $@
+	robot merge --input uberon_slice.owl --input sources_merged.owl relax annotate --ontology-iri $(URIBASE)/$@ -o $@
 
 # Make a json file for use in geneating ROBOT template
 tmp.json: tmp.owl

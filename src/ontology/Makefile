@@ -4,7 +4,7 @@ ONT=                        ABA_Uberon
 ONTBASE=                    $(URIBASE)/$(ONT)
 
 
-all: aba_uberon.owl report.xlsx
+all: all_sources aba_uberon.owl report.xlsx
 
 IMP=true # Global parameter to bypass import generation
 MIR=true # Global parameter to bypass mirror generation
@@ -17,9 +17,6 @@ mirror/uberon.owl:
 
 # Download sources
 # Should be replaced by making these files instead of downloading from uberon in future
-
-.PHONY: all_sources
-all_source: sources/allen-mba.obo sources/allen-dmba.obo sources/allen-hba.obo sources/allen-dhba.obo sources/allen-pba.obo 
 
 sources/allen-mba.obo: 
 	curl -o sources/allen-mba.obo "https://raw.githubusercontent.com/obophenotype/uberon/master/source-ontologies/allen-mba.obo" 
@@ -35,7 +32,29 @@ sources/allen-dhba.obo:
 
 sources/allen-pba.obo: 
 	curl -o sources/allen-pba.obo "https://raw.githubusercontent.com/obophenotype/uberon/master/source-ontologies/allen-pba.obo"
-	
+
+sources/uberon-bridge-to-aba.obo:
+	curl -o sources/uberon-bridge-to-aba.obo "https://raw.githubusercontent.com/obophenotype/uberon/master/src/ontology/bridge/uberon-bridge-to-aba.obo"
+
+sources/uberon-bridge-to-dhba.obo: 
+	curl -o sources/uberon-bridge-to-dhba.obo "https://raw.githubusercontent.com/obophenotype/uberon/master/src/ontology/bridge/uberon-bridge-to-dhba.obo"
+
+sources/uberon-bridge-to-dmba.obo:
+	curl -o sources/uberon-bridge-to-dmba.obo "https://raw.githubusercontent.com/obophenotype/uberon/master/src/ontology/bridge/uberon-bridge-to-dmba.obo"
+
+sources/uberon-bridge-to-hba.obo:
+	curl -o sources/uberon-bridge-to-hba.obo "https://raw.githubusercontent.com/obophenotype/uberon/master/src/ontology/bridge/uberon-bridge-to-hba.obo"
+
+sources/uberon-bridge-to-mba.obo:
+	curl -o sources/uberon-bridge-to-mba.obo "https://raw.githubusercontent.com/obophenotype/uberon/master/src/ontology/bridge/uberon-bridge-to-mba.obo"
+
+sources/uberon-bridge-to-pba.obo:
+	curl -o sources/uberon-bridge-to-pba.obo "https://raw.githubusercontent.com/obophenotype/uberon/master/src/ontology/bridge/uberon-bridge-to-pba.obo"
+
+all_sources: 
+	make sources/allen-mba.obo sources/allen-dmba.obo sources/allen-hba.obo sources/allen-dhba.obo sources/allen-pba.obo sources/uberon-bridge-to-aba.obo sources/uberon-bridge-to-dhba.obo sources/uberon-bridge-to-dmba.obo sources/uberon-bridge-to-hba.obo sources/uberon-bridge-to-mba.obo sources/uberon-bridge-to-pba.obo
+
+
 # Merge sources. # crudely listing dependencies for now - but could switch to using pattern expansion
 sources_merged.owl:
 	robot merge --input sources/allen-dhba.obo --input sources/allen-dmba.obo --input sources/allen-hba.obo --input sources/allen-mba.obo --input sources/allen-pba.obo --input sources/uberon-bridge-to-aba.obo --input sources/uberon-bridge-to-dhba.obo --input sources/uberon-bridge-to-dmba.obo --input sources/uberon-bridge-to-hba.obo --input sources/uberon-bridge-to-mba.obo --input sources/uberon-bridge-to-pba.obo annotate --ontology-iri $(URIBASE)/$@ -o $@

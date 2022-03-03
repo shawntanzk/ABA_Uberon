@@ -3,6 +3,8 @@ URIBASE = http://purl.obolibrary.org/obo
 
 all: dependencies aba_uberon.owl report.xlsx
 
+# Installing depedencies so it can run in ODK container
+
 .PHONY: dependencies
 dependencies:
 	pip install openpyxl

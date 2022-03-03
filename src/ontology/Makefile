@@ -1,7 +1,11 @@
 ROBOT = robot
 URIBASE = http://purl.obolibrary.org/obo
 
-all: aba_uberon.owl report.xlsx
+all: dependencies aba_uberon.owl report.xlsx
+
+.PHONY: dependencies
+dependencies:
+	pip install openpyxl
 
 IMP=true # Global parameter to bypass import generation
 MIR=true # Global parameter to bypass mirror generation
@@ -59,13 +63,13 @@ sources_merged.owl: all_sources
 
 # Generate seed for pulling relevant subset of Uberon
 terms.txt: sources_merged.owl
-	$(ROBOT) query --use-graphs true -f tsv -i $< --query ../sparql/terms.sparql $@
+	$(ROBOT) query --use-graphs true -f csv -i $< --query ../sparql/terms.sparql $@
 
 # Generate slice of uberon, removing disjoints
 # Using BOT for now - but this could potentially be more minimal
 
 uberon_slice.owl: mirror/uberon.owl terms.txt
-	$(ROBOT) extract --method BOT -i mirror/uberon.owl --term-file terms.txt remove --axioms disjoint -o $@
+	$(ROBOT) extract --method BOT --input mirror/uberon.owl --term-file terms.txt --force true remove --axioms disjoint --output $@
 
 
 # merge uberon + sources, reason & relax (EC -> SC)

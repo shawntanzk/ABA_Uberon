@@ -1,10 +1,7 @@
 ROBOT = robot
 URIBASE = http://purl.obolibrary.org/obo
-ONT=                        ABA_Uberon
-ONTBASE=                    $(URIBASE)/$(ONT)
 
-
-all: all_sources aba_uberon.owl report.xlsx
+all: aba_uberon.owl report.xlsx
 
 IMP=true # Global parameter to bypass import generation
 MIR=true # Global parameter to bypass mirror generation

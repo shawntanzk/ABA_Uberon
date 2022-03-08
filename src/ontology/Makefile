@@ -1,9 +1,9 @@
 JOBS = 1 17 10 16 8
 
 ROBOT = robot
-URIBASE = http://purl.obolibrary.org/obo
-
 LINKML = linkml-data2owl
+
+URIBASE = http://purl.obolibrary.org/obo
 
 STRUCTURE_GRAPHS = $(patsubst %, sources/%.json, $(JOBS))
 ALL_GRAPH_ONTOLOGIES = $(patsubst sources/%.json,sources/%.ofn,$(STRUCTURE_GRAPHS))

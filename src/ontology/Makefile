@@ -7,12 +7,10 @@ LINKML = linkml-data2owl
 
 STRUCTURE_GRAPHS = $(patsubst %, sources/%.json, $(JOBS))
 ALL_GRAPH_ONTOLOGIES = $(patsubst sources/%.json,sources/%.ofn,$(STRUCTURE_GRAPHS))
-#ALL_TEMPLATES = $(patsubst sources/%.json,../linkml/data/template_%.tsv,$(STRUCTURE_GRAPHS))
 
 all: dependencies $(ALL_GRAPH_ONTOLOGIES) aba_uberon.owl report.xlsx
 
 # Installing depedencies so it can run in ODK container
-
 .PHONY: dependencies
 dependencies:
 	pip install -r ../../requirements.txt

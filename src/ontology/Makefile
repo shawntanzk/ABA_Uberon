@@ -18,23 +18,22 @@ mirror/uberon.owl:
 
 # TODO: move to making uberon slice.
 
-# Download sources
-# Should be replaced by making these files instead of downloading from uberon in future
+#Convert to obo format
 
 sources/allen-mba.obo: 
-	curl -o sources/allen-mba.obo "https://raw.githubusercontent.com/obophenotype/uberon/master/source-ontologies/allen-mba.obo" 
+	$(ROBOT) convert --input sources/1.ofn --output sources/allen-mba.obo
 
 sources/allen-dmba.obo: 
-	curl -o sources/allen-dmba.obo "https://raw.githubusercontent.com/obophenotype/uberon/master/source-ontologies/allen-dmba.obo"
+	$(ROBOT) convert --input sources/17.ofn --output sources/allen-dmba.obo
 
 sources/allen-hba.obo: 
-	curl -o sources/allen-hba.obo "https://raw.githubusercontent.com/obophenotype/uberon/master/source-ontologies/allen-hba.obo"
+	$(ROBOT) convert --input sources/10.ofn --output sources/allen-hba.obo
 
 sources/allen-dhba.obo: 
-	curl -o sources/allen-dhba.obo "https://raw.githubusercontent.com/obophenotype/uberon/master/source-ontologies/allen-dhba.obo"
+	$(ROBOT) convert --input sources/16.ofn --output sources/allen-dhba.obo
 
 sources/allen-pba.obo: 
-	curl -o sources/allen-pba.obo "https://raw.githubusercontent.com/obophenotype/uberon/master/source-ontologies/allen-pba.obo"
+	$(ROBOT) convert --input sources/8.ofn --output sources/allen-pba.obo
 
 sources/uberon-bridge-to-aba.obo:
 	curl -o sources/uberon-bridge-to-aba.obo "https://raw.githubusercontent.com/obophenotype/uberon/master/src/ontology/bridge/uberon-bridge-to-aba.obo"

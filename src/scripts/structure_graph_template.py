@@ -9,7 +9,7 @@ NAMESPACES = {"1.json": "http://purl.obolibrary.org/obo/MBA_",
               "17.json": "http://purl.obolibrary.org/obo/DMBA_",
               "10.json": "http://purl.obolibrary.org/obo/HBA_",
               "16.json": "http://purl.obolibrary.org/obo/DHBA_",
-              "8.json": "http://purl.obolibrary.org/obo/PHA_"}
+              "8.json": "http://purl.obolibrary.org/obo/PBA_"}
 
 
 def generate_template(graph_json, output):

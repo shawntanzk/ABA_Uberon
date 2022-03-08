@@ -1,13 +1,21 @@
+JOBS = 1 17 10 16 8
+
 ROBOT = robot
 URIBASE = http://purl.obolibrary.org/obo
 
-all: dependencies aba_uberon.owl report.xlsx
+LINKML = linkml-data2owl
+
+STRUCTURE_GRAPHS = $(patsubst %, sources/%.json, $(JOBS))
+ALL_GRAPH_ONTOLOGIES = $(patsubst sources/%.json,sources/%.ofn,$(STRUCTURE_GRAPHS))
+#ALL_TEMPLATES = $(patsubst sources/%.json,../linkml/data/template_%.tsv,$(STRUCTURE_GRAPHS))
+
+all: dependencies $(ALL_GRAPH_ONTOLOGIES) aba_uberon.owl report.xlsx
 
 # Installing depedencies so it can run in ODK container
 
 .PHONY: dependencies
 dependencies:
-	pip install openpyxl
+	pip install -r ../../requirements.txt
 
 IMP=true # Global parameter to bypass import generation
 MIR=true # Global parameter to bypass mirror generation
@@ -17,6 +25,16 @@ mirror/uberon.owl:
 	@if [ $(MIR) = true ] && [ $(IMP) = true ]; then $(ROBOT) convert -I $(URIBASE)/uberon.owl -o $@.tmp.owl && mv $@.tmp.owl $@; fi
 
 # TODO: move to making uberon slice.
+
+sources/%.json:
+	curl -o $@ $(subst %,$(subst sources/,,$@),"http://api.brain-map.org/api/v2/structure_graph_download/%")
+
+../linkml/data/template_%.tsv: sources/%.json
+	python ../scripts/structure_graph_template.py -i $< -o $@
+
+sources/%.ofn: ../linkml/data/template_%.tsv
+	$(LINKML) -C Class -s ../linkml/structure_graph_schema.yaml $< -o $@
+.PRECIOUS: sources/%.ofn
 
 #Convert to obo format
 

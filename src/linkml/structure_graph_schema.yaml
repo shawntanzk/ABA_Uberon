@@ -1,6 +1,5 @@
-id: http://purl.obolibrary.org/obo/MBA
+id: http://purl.obolibrary.org/obo/ABA_Uberon
 name: structure_graph
-default_prefix: http://purl.obolibrary.org/obo/MBA_
 prefixes:
   UBERON: 'http://purl.obolibrary.org/obo/UBERON_'
 

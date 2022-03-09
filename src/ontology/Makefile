@@ -76,6 +76,7 @@ uberon_slice.owl: mirror/uberon.owl terms.txt
 
 
 # merge uberon + sources, reason & relax (EC -> SC)
+# have removed reason
 
 tmp.owl: uberon_slice.owl sources_merged.owl
 	robot merge --input uberon_slice.owl --input sources_merged.owl relax annotate --ontology-iri $(URIBASE)/$@ -o $@

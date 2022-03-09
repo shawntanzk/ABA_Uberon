@@ -2,12 +2,10 @@
 old_report <- read.table(file = '/Users/shawntan/documents/GitHub/ABA_Uberon/src/ontology/report/old-report.tsv')
 new_report <- read.table(file = '/Users/shawntan/documents/GitHub/ABA_Uberon/src/ontology/report.tsv')
 
-install.packages("sqldf")
+require(dplyr)
 
-require(sqldf)
-
-diff_old_new <- sqldf('SELECT * FROM old_report EXCEPT SELECT * FROM new_report')
-diff_new_old <- sqldf('SELECT * FROM new_report EXCEPT SELECT * FROM old_report')
+diff_old_new <- anti_join(old_report, new_report)
+diff_old_new <- anti_join(new_report, old_report)
 
 write.table(diff_old_new, file='/Users/shawntan/documents/GitHub/ABA_Uberon/src/ontology/report/old-to-new.tsv', quote=FALSE, sep='\t')
 write.table(diff_new_old, file='/Users/shawntan/documents/GitHub/ABA_Uberon/src/ontology/report/new-to-old.tsv', quote=FALSE, sep='\t')

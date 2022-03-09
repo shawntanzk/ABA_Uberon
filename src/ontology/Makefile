@@ -35,22 +35,7 @@ sources/%.ofn: ../linkml/data/template_%.tsv
 	$(LINKML) -C Class -s ../linkml/structure_graph_schema.yaml $< -o $@
 .PRECIOUS: sources/%.ofn
 
-#Convert to obo format
-
-sources/allen-mba.obo: 
-	$(ROBOT) convert --input sources/1.ofn --output sources/allen-mba.obo
-
-sources/allen-dmba.obo: 
-	$(ROBOT) convert --input sources/17.ofn --output sources/allen-dmba.obo
-
-sources/allen-hba.obo: 
-	$(ROBOT) convert --input sources/10.ofn --output sources/allen-hba.obo
-
-sources/allen-dhba.obo: 
-	$(ROBOT) convert --input sources/16.ofn --output sources/allen-dhba.obo
-
-sources/allen-pba.obo: 
-	$(ROBOT) convert --input sources/8.ofn --output sources/allen-pba.obo
+# download bridges
 
 sources/uberon-bridge-to-aba.obo:
 	curl -o sources/uberon-bridge-to-aba.obo "https://raw.githubusercontent.com/obophenotype/uberon/master/src/ontology/bridge/uberon-bridge-to-aba.obo"
@@ -70,13 +55,13 @@ sources/uberon-bridge-to-mba.obo:
 sources/uberon-bridge-to-pba.obo:
 	curl -o sources/uberon-bridge-to-pba.obo "https://raw.githubusercontent.com/obophenotype/uberon/master/src/ontology/bridge/uberon-bridge-to-pba.obo"
 
-all_sources: 
-	make sources/allen-dhba.obo sources/allen-dmba.obo sources/allen-hba.obo sources/allen-mba.obo sources/allen-pba.obo sources/uberon-bridge-to-aba.obo sources/uberon-bridge-to-dhba.obo sources/uberon-bridge-to-dmba.obo sources/uberon-bridge-to-hba.obo sources/uberon-bridge-to-mba.obo sources/uberon-bridge-to-pba.obo -B
+all_bridges: 
+	make sources/uberon-bridge-to-aba.obo sources/uberon-bridge-to-dhba.obo sources/uberon-bridge-to-dmba.obo sources/uberon-bridge-to-hba.obo sources/uberon-bridge-to-mba.obo sources/uberon-bridge-to-pba.obo -B
 
 
 # Merge sources. # crudely listing dependencies for now - but could switch to using pattern expansion
-sources_merged.owl: all_sources
-	robot merge --input sources/allen-dhba.obo --input sources/allen-dmba.obo --input sources/allen-hba.obo --input sources/allen-mba.obo --input sources/allen-pba.obo --input sources/uberon-bridge-to-aba.obo --input sources/uberon-bridge-to-dhba.obo --input sources/uberon-bridge-to-dmba.obo --input sources/uberon-bridge-to-hba.obo --input sources/uberon-bridge-to-mba.obo --input sources/uberon-bridge-to-pba.obo annotate --ontology-iri $(URIBASE)/$@ -o $@
+sources_merged.owl: all_bridges 
+	robot merge --input sources/1.ofn --input sources/17.ofn --input sources/10.ofn --input sources/16.ofn --input sources/8.ofn --input sources/uberon-bridge-to-aba.obo --input sources/uberon-bridge-to-dhba.obo --input sources/uberon-bridge-to-dmba.obo --input sources/uberon-bridge-to-hba.obo --input sources/uberon-bridge-to-mba.obo --input sources/uberon-bridge-to-pba.obo annotate --ontology-iri $(URIBASE)/$@ -o $@
 
 
 # Generate seed for pulling relevant subset of Uberon

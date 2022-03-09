@@ -1,3 +1,5 @@
+### This makefile requires python3 & pip3 mapped as such
+
 JOBS = 1 17 10 16 8
 
 ROBOT = robot

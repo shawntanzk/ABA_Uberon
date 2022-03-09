@@ -1,5 +1,5 @@
 # Import reports
-old_report <- read.table(file = '/Users/shawntan/documents/GitHub/ABA_Uberon/src/ontology/old-report.tsv')
+old_report <- read.table(file = '/Users/shawntan/documents/GitHub/ABA_Uberon/src/ontology/report/old-report.tsv')
 new_report <- read.table(file = '/Users/shawntan/documents/GitHub/ABA_Uberon/src/ontology/report.tsv')
 
 install.packages("sqldf")

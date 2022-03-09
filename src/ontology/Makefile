@@ -8,12 +8,13 @@ URIBASE = http://purl.obolibrary.org/obo
 STRUCTURE_GRAPHS = $(patsubst %, sources/%.json, $(JOBS))
 ALL_GRAPH_ONTOLOGIES = $(patsubst sources/%.json,sources/%.ofn,$(STRUCTURE_GRAPHS))
 
+
 all: dependencies $(ALL_GRAPH_ONTOLOGIES) aba_uberon.owl report.xlsx
 
 # Installing depedencies so it can run in ODK container
 .PHONY: dependencies
 dependencies:
-	pip install -r ../../requirements.txt
+	pip3 install -r ../../requirements.txt
 
 IMP=true # Global parameter to bypass import generation
 MIR=true # Global parameter to bypass mirror generation
@@ -28,7 +29,7 @@ sources/%.json:
 	curl -o $@ $(subst %,$(subst sources/,,$@),"http://api.brain-map.org/api/v2/structure_graph_download/%")
 
 ../linkml/data/template_%.tsv: sources/%.json
-	python ../scripts/structure_graph_template.py -i $< -o $@
+	python3 ../scripts/structure_graph_template.py -i $< -o $@
 
 sources/%.ofn: ../linkml/data/template_%.tsv
 	$(LINKML) -C Class -s ../linkml/structure_graph_schema.yaml $< -o $@
@@ -101,7 +102,7 @@ tmp.json: tmp.owl
 # Build robot  template - with linkouts and prefLabels
 
 ../robot_templates/linkouts.tsv: tmp.json
-	python ../scripts/gen_linkout_template.py $<
+	python3 ../scripts/gen_linkout_template.py $<
 
 # generate OWL from template
 

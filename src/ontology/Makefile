@@ -63,7 +63,7 @@ all_bridges:
 
 # Merge sources. # crudely listing dependencies for now - but could switch to using pattern expansion
 sources_merged.owl: all_bridges 
-	robot merge --input sources/1.ofn --input sources/17.ofn --input sources/10.ofn --input sources/16.ofn --input sources/8.ofn --input sources/uberon-bridge-to-aba.obo --input sources/uberon-bridge-to-dhba.obo --input sources/uberon-bridge-to-dmba.obo --input sources/uberon-bridge-to-hba.obo --input sources/uberon-bridge-to-mba.obo --input sources/uberon-bridge-to-pba.obo annotate --ontology-iri $(URIBASE)/$@ -o $@
+	robot merge --input sources/1.ofn --input sources/17.ofn --input sources/10.ofn --input sources/16.ofn --input sources/8.ofn --input sources/uberon-bridge-to-aba.obo --input sources/uberon-bridge-to-dhba.obo --input sources/uberon-bridge-to-dmba.obo --input sources/uberon-bridge-to-hba.obo --input sources/uberon-bridge-to-mba.obo --input sources/uberon-bridge-to-pba.obo remove --axioms disjoint annotate --ontology-iri $(URIBASE)/$@ -o $@
 
 
 # Generate seed for pulling relevant subset of Uberon
@@ -78,10 +78,14 @@ uberon_slice.owl: mirror/uberon.owl terms.txt
 
 
 # merge uberon + sources, reason & relax (EC -> SC)
-# have removed reason
+# remove all owl:Nothing - this causes massive amounts of unsats 
 
 tmp.owl: uberon_slice.owl sources_merged.owl
-	robot merge --input uberon_slice.owl --input sources_merged.owl relax annotate --ontology-iri $(URIBASE)/$@ -o $@
+	$(ROBOT) merge --input uberon_slice.owl --input sources_merged.owl \
+  remove --term http://www.w3.org/2002/07/owl#Nothing --select equivalents \
+  reason --annotate-inferred-axioms true \
+  relax \
+  annotate --ontology-iri $(URIBASE)/$@ -o $@
 
 # Make a json file for use in geneating ROBOT template
 tmp.json: tmp.owl

@@ -1,3 +1,5 @@
+### This makefile requires python3 & pip3 mapped as such
+
 JOBS = 1 17 10 16 8
 
 ROBOT = robot
@@ -8,12 +10,13 @@ URIBASE = http://purl.obolibrary.org/obo
 STRUCTURE_GRAPHS = $(patsubst %, sources/%.json, $(JOBS))
 ALL_GRAPH_ONTOLOGIES = $(patsubst sources/%.json,sources/%.ofn,$(STRUCTURE_GRAPHS))
 
+
 all: dependencies $(ALL_GRAPH_ONTOLOGIES) aba_uberon.owl report.xlsx
 
 # Installing depedencies so it can run in ODK container
 .PHONY: dependencies
 dependencies:
-	pip install -r ../../requirements.txt
+	pip3 install -r ../../requirements.txt
 
 IMP=true # Global parameter to bypass import generation
 MIR=true # Global parameter to bypass mirror generation
@@ -28,28 +31,13 @@ sources/%.json:
 	curl -o $@ $(subst %,$(subst sources/,,$@),"http://api.brain-map.org/api/v2/structure_graph_download/%")
 
 ../linkml/data/template_%.tsv: sources/%.json
-	python ../scripts/structure_graph_template.py -i $< -o $@
+	python3 ../scripts/structure_graph_template.py -i $< -o $@
 
 sources/%.ofn: ../linkml/data/template_%.tsv
 	$(LINKML) -C Class -s ../linkml/structure_graph_schema.yaml $< -o $@
 .PRECIOUS: sources/%.ofn
 
-#Convert to obo format
-
-sources/allen-mba.owl:
-	$(ROBOT) convert --input sources/1.ofn --output $@
-
-sources/allen-dmba.owl:
-	$(ROBOT) convert --input sources/17.ofn --output $@
-
-sources/allen-hba.owl:
-	$(ROBOT) convert --input sources/10.ofn --output $@
-
-sources/allen-dhba.owl:
-	$(ROBOT) convert --input sources/16.ofn --output $@
-
-sources/allen-pba.owl:
-	$(ROBOT) convert --input sources/8.ofn --output $@
+# download bridges
 
 sources/uberon-bridge-to-aba.obo:
 	curl -o sources/uberon-bridge-to-aba.obo "https://raw.githubusercontent.com/obophenotype/uberon/master/src/ontology/bridge/uberon-bridge-to-aba.obo"
@@ -69,13 +57,13 @@ sources/uberon-bridge-to-mba.obo:
 sources/uberon-bridge-to-pba.obo:
 	curl -o sources/uberon-bridge-to-pba.obo "https://raw.githubusercontent.com/obophenotype/uberon/master/src/ontology/bridge/uberon-bridge-to-pba.obo"
 
-all_sources: 
-	make sources/allen-dhba.owl sources/allen-dmba.owl sources/allen-hba.owl sources/allen-mba.owl sources/allen-pba.owl sources/uberon-bridge-to-aba.obo sources/uberon-bridge-to-dhba.obo sources/uberon-bridge-to-dmba.obo sources/uberon-bridge-to-hba.obo sources/uberon-bridge-to-mba.obo sources/uberon-bridge-to-pba.obo -B
+all_bridges:
+	make sources/uberon-bridge-to-aba.obo sources/uberon-bridge-to-dhba.obo sources/uberon-bridge-to-dmba.obo sources/uberon-bridge-to-hba.obo sources/uberon-bridge-to-mba.obo sources/uberon-bridge-to-pba.obo -B
 
 
 # Merge sources. # crudely listing dependencies for now - but could switch to using pattern expansion
-sources_merged.owl: all_sources
-	robot merge --input sources/allen-dhba.owl --input sources/allen-dmba.owl --input sources/allen-hba.owl --input sources/allen-mba.owl --input sources/allen-pba.owl --input sources/uberon-bridge-to-aba.obo --input sources/uberon-bridge-to-dhba.obo --input sources/uberon-bridge-to-dmba.obo --input sources/uberon-bridge-to-hba.obo --input sources/uberon-bridge-to-mba.obo --input sources/uberon-bridge-to-pba.obo annotate --ontology-iri $(URIBASE)/$@ -o $@
+sources_merged.owl: all_bridges
+	robot merge --input sources/1.ofn --input sources/17.ofn --input sources/10.ofn --input sources/16.ofn --input sources/8.ofn --input sources/uberon-bridge-to-aba.obo --input sources/uberon-bridge-to-dhba.obo --input sources/uberon-bridge-to-dmba.obo --input sources/uberon-bridge-to-hba.obo --input sources/uberon-bridge-to-mba.obo --input sources/uberon-bridge-to-pba.obo annotate --ontology-iri $(URIBASE)/$@ -o $@
 
 
 # Generate seed for pulling relevant subset of Uberon
@@ -101,7 +89,7 @@ tmp.json: tmp.owl
 # Build robot  template - with linkouts and prefLabels
 
 ../robot_templates/linkouts.tsv: tmp.json
-	python ../scripts/gen_linkout_template.py $<
+	python3 ../scripts/gen_linkout_template.py $<
 
 # generate OWL from template
 

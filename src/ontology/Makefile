@@ -57,7 +57,7 @@ sources/uberon-bridge-to-mba.obo:
 sources/uberon-bridge-to-pba.obo:
 	curl -o sources/uberon-bridge-to-pba.obo "https://raw.githubusercontent.com/obophenotype/uberon/master/src/ontology/bridge/uberon-bridge-to-pba.obo"
 
-all_bridges: 
+all_bridges:
 	make sources/uberon-bridge-to-aba.obo sources/uberon-bridge-to-dhba.obo sources/uberon-bridge-to-dmba.obo sources/uberon-bridge-to-hba.obo sources/uberon-bridge-to-mba.obo sources/uberon-bridge-to-pba.obo -B
 
 

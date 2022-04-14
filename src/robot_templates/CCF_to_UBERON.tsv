@@ -1,435 +1,435 @@
-ID	Label	SuperClass	SuperClass Label Source
-ID	A IAO:0000589	SC %	>A rdfs:label A oboInOwl:source
-http://purl.obolibrary.org/obo/MBA_796	dopaminergic A13 group	http://purl.obolibrary.org/obo/UBERON_0036007	A13 dopaminergic cell group
-http://purl.obolibrary.org/obo/DMBA_16124	hippocampus (cortex Ammonis)	http://purl.obolibrary.org/obo/UBERON_0001954	Ammon's horn
-http://purl.obolibrary.org/obo/MBA_375	ammon's horn	http://purl.obolibrary.org/obo/UBERON_0001954	Ammon's horn
-http://purl.obolibrary.org/obo/DMBA_16131	Field CA1	http://purl.obolibrary.org/obo/UBERON_0003881	CA1 field of hippocampus
-http://purl.obolibrary.org/obo/MBA_382	field CA1	http://purl.obolibrary.org/obo/UBERON_0003881	CA1 field of hippocampus
-http://purl.obolibrary.org/obo/DMBA_16136	Field CA2	http://purl.obolibrary.org/obo/UBERON_0003882	CA2 field of hippocampus
-http://purl.obolibrary.org/obo/MBA_423	field CA2	http://purl.obolibrary.org/obo/UBERON_0003882	CA2 field of hippocampus
-http://purl.obolibrary.org/obo/DMBA_16141	Field CA3	http://purl.obolibrary.org/obo/UBERON_0003883	CA3 field of hippocampus
-http://purl.obolibrary.org/obo/MBA_463	field CA3	http://purl.obolibrary.org/obo/UBERON_0003883	CA3 field of hippocampus
-http://purl.obolibrary.org/obo/DMBA_16144	Field CA3, stratum lucidum	http://purl.obolibrary.org/obo/UBERON_0014560	CA3 stratum lucidum
-http://purl.obolibrary.org/obo/MBA_710	abducens nerve	http://purl.obolibrary.org/obo/UBERON_0001646	abducens nerve
-http://purl.obolibrary.org/obo/MBA_568	accessory abducens nucleus	http://purl.obolibrary.org/obo/UBERON_0035976	accessory abducens nucleus
-http://purl.obolibrary.org/obo/DMBA_15957	accessory olfactory bulb	http://purl.obolibrary.org/obo/UBERON_0004069	accessory olfactory bulb
-http://purl.obolibrary.org/obo/MBA_151	accessory olfactory bulb	http://purl.obolibrary.org/obo/UBERON_0004069	accessory olfactory bulb
-http://purl.obolibrary.org/obo/DMBA_ENTITY	DMBA entity	http://purl.obolibrary.org/obo/UBERON_0001062	anatomical entity
-http://purl.obolibrary.org/obo/MBA_ENTITY	MBA entity	http://purl.obolibrary.org/obo/UBERON_0001062	anatomical entity
-http://purl.obolibrary.org/obo/MBA_892	ansa peduncularis	http://purl.obolibrary.org/obo/UBERON_0034896	ansa peduncularis
-http://purl.obolibrary.org/obo/MBA_1017	ansiform lobule	http://purl.obolibrary.org/obo/UBERON_0005348	ansiform lobule
-http://purl.obolibrary.org/obo/MBA_1056	crus 1	http://purl.obolibrary.org/obo/UBERON_0005976	ansiform lobule crus I
-http://purl.obolibrary.org/obo/MBA_1064	crus 2	http://purl.obolibrary.org/obo/UBERON_0005977	ansiform lobule crus II
-http://purl.obolibrary.org/obo/MBA_359	bed nuclei of the stria terminalis, anterior division	http://purl.obolibrary.org/obo/UBERON_0011173	anterior division of bed nuclei of stria terminalis
-http://purl.obolibrary.org/obo/MBA_700	anterior hypothalamic nucleus, anterior part	http://purl.obolibrary.org/obo/UBERON_0014589	anterior nucleus of hypothalamus anterior part
-http://purl.obolibrary.org/obo/MBA_708	anterior hypothalamic nucleus, central part	http://purl.obolibrary.org/obo/UBERON_0014590	anterior nucleus of hypothalamus central part
-http://purl.obolibrary.org/obo/MBA_716	anterior hypothalamic nucleus, dorsal part	http://purl.obolibrary.org/obo/UBERON_0014592	anterior nucleus of hypothalamus dorsal part
-http://purl.obolibrary.org/obo/DMBA_16240	posterior part of anterior hypothalamic nucleus	http://purl.obolibrary.org/obo/UBERON_0014591	anterior nucleus of hypothalamus posterior part
-http://purl.obolibrary.org/obo/MBA_724	anterior hypothalamic nucleus, posterior part	http://purl.obolibrary.org/obo/UBERON_0014591	anterior nucleus of hypothalamus posterior part
-http://purl.obolibrary.org/obo/DMBA_16400	anterior paraventricular nucleus of thalamus	http://purl.obolibrary.org/obo/UBERON_0000434	anterior paraventricular nucleus of thalamus
-http://purl.obolibrary.org/obo/MBA_402	anterolateral visual area	http://purl.obolibrary.org/obo/UBERON_0035894	anterolateral visual area
-http://purl.obolibrary.org/obo/MBA_233	anterolateral visual area, layer 5	http://purl.obolibrary.org/obo/UBERON_0035908	anterolateral visual area, layer 5
-http://purl.obolibrary.org/obo/MBA_394	anteromedial visual area	http://purl.obolibrary.org/obo/UBERON_0035893	anteromedial visual area
-http://purl.obolibrary.org/obo/MBA_433	anteromedial visual area, layer 5	http://purl.obolibrary.org/obo/UBERON_0035913	anteromedial visual area, layer 5
-http://purl.obolibrary.org/obo/MBA_207	area postrema	http://purl.obolibrary.org/obo/UBERON_0002162	area postrema
-http://purl.obolibrary.org/obo/MBA_247	auditory areas	http://purl.obolibrary.org/obo/UBERON_0001393	auditory cortex
-http://purl.obolibrary.org/obo/MBA_329	primary somatosensory area, barrel field	http://purl.obolibrary.org/obo/UBERON_0010415	barrel cortex
-http://purl.obolibrary.org/obo/MBA_8	basic cell groups and regions	http://purl.obolibrary.org/obo/UBERON_0000955	brain
-http://purl.obolibrary.org/obo/MBA_997	root	http://purl.obolibrary.org/obo/UBERON_0000955	brain
-http://purl.obolibrary.org/obo/MBA_343	brain stem	http://purl.obolibrary.org/obo/UBERON_0002298	brainstem
-http://purl.obolibrary.org/obo/DMBA_15675	ventromedial hypothalamic nucleus	http://purl.obolibrary.org/obo/UBERON_0001935	ventromedial nucleus of hypothalamus
-http://purl.obolibrary.org/obo/DMBA_15719	dorsal premammillary nucleus	http://purl.obolibrary.org/obo/UBERON_0007767	dorsal premammillary nucleus
-http://purl.obolibrary.org/obo/DMBA_15729	medial mammillary nucleus	http://purl.obolibrary.org/obo/UBERON_0001939	medial mammillary nucleus
-http://purl.obolibrary.org/obo/DMBA_15734	lateral mammillary nucleus	http://purl.obolibrary.org/obo/UBERON_0001938	lateral mammillary nucleus
-http://purl.obolibrary.org/obo/DMBA_16341	pregeniculate nucleus	http://purl.obolibrary.org/obo/UBERON_0002480	ventral lateral geniculate nucleus
-http://purl.obolibrary.org/obo/DMBA_16388	medial habenular nucleus	http://purl.obolibrary.org/obo/UBERON_0001942	medial habenular nucleus
-http://purl.obolibrary.org/obo/DMBA_16402	centromedian nucleus	http://purl.obolibrary.org/obo/UBERON_0002972	centromedian nucleus of thalamus
-http://purl.obolibrary.org/obo/DMBA_16405	rhomboid nucleus	http://purl.obolibrary.org/obo/UBERON_0002955	rhomboidal nucleus
-http://purl.obolibrary.org/obo/DMBA_16410	paratenial nucleus	http://purl.obolibrary.org/obo/UBERON_0002992	paratenial nucleus
-http://purl.obolibrary.org/obo/DMBA_16416	paracentral nucleus	http://purl.obolibrary.org/obo/UBERON_0001924	paracentral nucleus
-http://purl.obolibrary.org/obo/DMBA_16418	central lateral nucleus	http://purl.obolibrary.org/obo/UBERON_0003036	central lateral nucleus
-http://purl.obolibrary.org/obo/DMBA_16423	ventral nuclei	http://purl.obolibrary.org/obo/UBERON_0002776	ventral nuclear group
-http://purl.obolibrary.org/obo/DMBA_16426	submedius thalamic nucleus	http://purl.obolibrary.org/obo/UBERON_0003031	submedial nucleus of thalamus
-http://purl.obolibrary.org/obo/DMBA_16427	ventral anterior nucleus	http://purl.obolibrary.org/obo/UBERON_0002637	ventral anterior nucleus of thalamus
-http://purl.obolibrary.org/obo/DMBA_16428	ventral lateral nucleus	http://purl.obolibrary.org/obo/UBERON_0001925	ventral lateral nucleus of thalamus
-http://purl.obolibrary.org/obo/DMBA_16429	ventral posteromedial nucleus	http://purl.obolibrary.org/obo/UBERON_0002945	ventral posteromedial nucleus of thalamus
-http://purl.obolibrary.org/obo/DMBA_16430	ventral posterolateral nucleus	http://purl.obolibrary.org/obo/UBERON_0002942	ventral posterolateral nucleus
-http://purl.obolibrary.org/obo/DMBA_16435	lateral posterior nucleus	http://purl.obolibrary.org/obo/UBERON_0002983	lateral posterior nucleus of thalamus
-http://purl.obolibrary.org/obo/DMBA_16436	dorsal lateral geniculate nucleus	http://purl.obolibrary.org/obo/UBERON_0002479	dorsal lateral geniculate nucleus
-http://purl.obolibrary.org/obo/DMBA_16441	posterior paraventricular nucleus	http://purl.obolibrary.org/obo/UBERON_0002708	posterior periventricular nucleus
-http://purl.obolibrary.org/obo/DMBA_16442	parafascicular nucleus	http://purl.obolibrary.org/obo/UBERON_0001922	parafascicular nucleus
-http://purl.obolibrary.org/obo/DMBA_16452	suprageniculate nucleus	http://purl.obolibrary.org/obo/UBERON_0003033	suprageniculate nucleus of thalamus
-http://purl.obolibrary.org/obo/DMBA_16585	medial pretectal nucleus	http://purl.obolibrary.org/obo/UBERON_0034910	medial pretectal nucleus
-http://purl.obolibrary.org/obo/DMBA_16586	principal pretectal nucleus	http://purl.obolibrary.org/obo/UBERON_0002572	principal pretectal nucleus
-http://purl.obolibrary.org/obo/DMBA_16589	olivary pretectal nucleus	http://purl.obolibrary.org/obo/UBERON_0002565	olivary pretectal nucleus
-http://purl.obolibrary.org/obo/DMBA_16590	dorsal terminal nucleus of the accessory optic tract	http://purl.obolibrary.org/obo/UBERON_0013599	dorsal accessory nucleus of optic tract
-http://purl.obolibrary.org/obo/DMBA_16598	intermediate pretectal nucleus	http://purl.obolibrary.org/obo/UBERON_0035562	intermediate pretectal nucleus
-http://purl.obolibrary.org/obo/DMBA_16698	central nucleus of the inferior colliculus	http://purl.obolibrary.org/obo/UBERON_0002563	central nucleus of inferior colliculus
-http://purl.obolibrary.org/obo/MBA_1008	geniculate group, dorsal thalamus	http://purl.obolibrary.org/obo/UBERON_0002704	metathalamus
-http://purl.obolibrary.org/obo/MBA_1061	posterior pretectal nucleus	http://purl.obolibrary.org/obo/UBERON_0006848	posterior pretectal nucleus
-http://purl.obolibrary.org/obo/MBA_1072	medial geniculate complex, dorsal part	http://purl.obolibrary.org/obo/UBERON_0002758	dorsal nucleus of medial geniculate body
-http://purl.obolibrary.org/obo/MBA_1079	medial geniculate complex, ventral part	http://purl.obolibrary.org/obo/UBERON_0002985	ventral nucleus of medial geniculate body
-http://purl.obolibrary.org/obo/MBA_1088	medial geniculate complex, medial part	http://purl.obolibrary.org/obo/UBERON_0002759	magnocellular nucleus of medial geniculate body
-http://purl.obolibrary.org/obo/MBA_118	periventricular hypothalamic nucleus, intermediate part	http://purl.obolibrary.org/obo/UBERON_0002746	intermediate periventricular nucleus
-http://purl.obolibrary.org/obo/MBA_126	periventricular hypothalamic nucleus, posterior part	http://purl.obolibrary.org/obo/UBERON_0002708	posterior periventricular nucleus
-http://purl.obolibrary.org/obo/MBA_133	periventricular hypothalamic nucleus, preoptic part	http://purl.obolibrary.org/obo/UBERON_0002622	preoptic periventricular nucleus
-http://purl.obolibrary.org/obo/MBA_138	lateral group of the dorsal thalamus	http://purl.obolibrary.org/obo/UBERON_0002736	lateral nuclear group of thalamus
-http://purl.obolibrary.org/obo/MBA_149	paraventricular nucleus of the thalamus	http://purl.obolibrary.org/obo/UBERON_0001920	paraventricular nucleus of thalamus
-http://purl.obolibrary.org/obo/MBA_15	parataenial nucleus	http://purl.obolibrary.org/obo/UBERON_0002992	paratenial nucleus
-http://purl.obolibrary.org/obo/MBA_155	lateral dorsal nucleus of thalamus	http://purl.obolibrary.org/obo/UBERON_0002984	lateral dorsal nucleus
-http://purl.obolibrary.org/obo/MBA_170	dorsal part of the lateral geniculate complex	http://purl.obolibrary.org/obo/UBERON_0002479	dorsal lateral geniculate nucleus
-http://purl.obolibrary.org/obo/MBA_178	ventral part of the lateral geniculate complex	http://purl.obolibrary.org/obo/UBERON_0002480	ventral lateral geniculate nucleus
-http://purl.obolibrary.org/obo/MBA_181	nucleus of reunions	http://purl.obolibrary.org/obo/UBERON_0001921	reuniens nucleus
-http://purl.obolibrary.org/obo/MBA_186	lateral habenula	http://purl.obolibrary.org/obo/UBERON_0001941	lateral habenular nucleus
-http://purl.obolibrary.org/obo/MBA_189	rhomboid nucleus	http://purl.obolibrary.org/obo/UBERON_0002955	rhomboidal nucleus
-http://purl.obolibrary.org/obo/MBA_210	lateral mammillary nucleus	http://purl.obolibrary.org/obo/UBERON_0001938	lateral mammillary nucleus
-http://purl.obolibrary.org/obo/MBA_218	lateral posterior nucleus of the thalamus	http://purl.obolibrary.org/obo/UBERON_0002983	lateral posterior nucleus of thalamus
-http://purl.obolibrary.org/obo/MBA_226	lateral preoptic area	http://purl.obolibrary.org/obo/UBERON_0001931	lateral preoptic nucleus
-http://purl.obolibrary.org/obo/MBA_262	reticular nucleus of the thalamus	http://purl.obolibrary.org/obo/UBERON_0001903	thalamic reticular nucleus
-http://purl.obolibrary.org/obo/MBA_286	suprachiasmatic nucleus	http://purl.obolibrary.org/obo/UBERON_0002034	suprachiasmatic nucleus
-http://purl.obolibrary.org/obo/MBA_325	suprageniculate nucleus	http://purl.obolibrary.org/obo/UBERON_0003033	suprageniculate nucleus of thalamus
-http://purl.obolibrary.org/obo/MBA_362	mediodorsal nucleus of thalamus	http://purl.obolibrary.org/obo/UBERON_0002739	medial dorsal nucleus of thalamus
-http://purl.obolibrary.org/obo/MBA_366	submedial nucleus of the thalamus	http://purl.obolibrary.org/obo/UBERON_0003031	submedial nucleus of thalamus
-http://purl.obolibrary.org/obo/MBA_38	paraventricular hypothalamic nucleus	http://purl.obolibrary.org/obo/UBERON_0001930	paraventricular nucleus of hypothalamus
-http://purl.obolibrary.org/obo/MBA_390	supraoptic nucleus	http://purl.obolibrary.org/obo/UBERON_0001929	supraoptic nucleus
-http://purl.obolibrary.org/obo/MBA_406	subparafascicular nucleus	http://purl.obolibrary.org/obo/UBERON_0016641	subparafascicular nucleus
-http://purl.obolibrary.org/obo/MBA_432	nucleus circularis	http://purl.obolibrary.org/obo/UBERON_0035596	circular nucleus of antherior hypothalamic nucleus
-http://purl.obolibrary.org/obo/MBA_452	median preoptic nucleus	http://purl.obolibrary.org/obo/UBERON_0002625	median preoptic nucleus
-http://purl.obolibrary.org/obo/MBA_470	subthalamic nucleus	http://purl.obolibrary.org/obo/UBERON_0001906	subthalamic nucleus
-http://purl.obolibrary.org/obo/MBA_483	medial habenula	http://purl.obolibrary.org/obo/UBERON_0001942	medial habenular nucleus
-http://purl.obolibrary.org/obo/MBA_491	medial mammillary nucleus	http://purl.obolibrary.org/obo/UBERON_0001939	medial mammillary nucleus
-http://purl.obolibrary.org/obo/MBA_51	intralaminar nuclei of the dorsal thalamus	http://purl.obolibrary.org/obo/UBERON_0002733	intralaminar nuclear group
-http://purl.obolibrary.org/obo/MBA_515	medial preoptic nucleus	http://purl.obolibrary.org/obo/UBERON_0002035	medial preoptic nucleus
-http://purl.obolibrary.org/obo/MBA_525	supramammillary nucleus	http://purl.obolibrary.org/obo/UBERON_0001940	supramammillary nucleus
-http://purl.obolibrary.org/obo/MBA_557	tuberomammillary nucleus	http://purl.obolibrary.org/obo/UBERON_0001936	tuberomammillary nucleus
-http://purl.obolibrary.org/obo/MBA_571	midline group of the dorsal thalamus	http://purl.obolibrary.org/obo/UBERON_0002705	midline nuclear group
-http://purl.obolibrary.org/obo/MBA_575	central lateral nucleus of the thalamus	http://purl.obolibrary.org/obo/UBERON_0003036	central lateral nucleus
-http://purl.obolibrary.org/obo/MBA_58	medial terminal nucleus of the accessory optic tract	http://purl.obolibrary.org/obo/UBERON_0013601	medial accessory nucleus of optic tract
-http://purl.obolibrary.org/obo/MBA_599	central medial nucleus of the thalamus	http://purl.obolibrary.org/obo/UBERON_0001923	central medial nucleus
-http://purl.obolibrary.org/obo/MBA_628	nucleus of the optic tract	http://purl.obolibrary.org/obo/UBERON_0002996	nucleus of optic tract
-http://purl.obolibrary.org/obo/MBA_637	ventral group of the dorsal thalamus	http://purl.obolibrary.org/obo/UBERON_0002776	ventral nuclear group
-http://purl.obolibrary.org/obo/MBA_66	lateral terminal nucleus of the accessory optic tract	http://purl.obolibrary.org/obo/UBERON_0013600	lateral accessory nucleus of optic tract
-http://purl.obolibrary.org/obo/MBA_693	ventromedial hypothalamic nucleus	http://purl.obolibrary.org/obo/UBERON_0001935	ventromedial nucleus of hypothalamus
-http://purl.obolibrary.org/obo/MBA_706	olivary pretectal nucleus	http://purl.obolibrary.org/obo/UBERON_0002565	olivary pretectal nucleus
-http://purl.obolibrary.org/obo/MBA_709	ventral posterior complex of the thalamus	http://purl.obolibrary.org/obo/UBERON_0002596	ventral posterior nucleus of thalamus
-http://purl.obolibrary.org/obo/MBA_718	ventral posterolateral nucleus of the thalamus	http://purl.obolibrary.org/obo/UBERON_0002942	ventral posterolateral nucleus
-http://purl.obolibrary.org/obo/MBA_733	ventral posteromedial nucleus of the thalamus	http://purl.obolibrary.org/obo/UBERON_0002945	ventral posteromedial nucleus of thalamus
-http://purl.obolibrary.org/obo/MBA_797	zona incerta	http://purl.obolibrary.org/obo/UBERON_0001907	zona incerta
-http://purl.obolibrary.org/obo/MBA_830	dorsomedial nucleus of the hypothalamus	http://purl.obolibrary.org/obo/UBERON_0001934	dorsomedial nucleus of hypothalamus
-http://purl.obolibrary.org/obo/MBA_907	paracentral nucleus	http://purl.obolibrary.org/obo/UBERON_0001924	paracentral nucleus
-http://purl.obolibrary.org/obo/MBA_930	parafascicular nucleus	http://purl.obolibrary.org/obo/UBERON_0001922	parafascicular nucleus
-http://purl.obolibrary.org/obo/MBA_946	posterior hypothalamic nucleus	http://purl.obolibrary.org/obo/UBERON_0002706	posterior nucleus of hypothalamus
-http://purl.obolibrary.org/obo/MBA_980	dorsal premammillary nucleus	http://purl.obolibrary.org/obo/UBERON_0007767	dorsal premammillary nucleus
-http://purl.obolibrary.org/obo/MBA_1093	pontine reticular nucleus, caudal part	http://purl.obolibrary.org/obo/UBERON_0002963	caudal pontine reticular nucleus
-http://purl.obolibrary.org/obo/MBA_795	periaqueductal gray	http://purl.obolibrary.org/obo/UBERON_0003040	central gray substance of midbrain
-http://purl.obolibrary.org/obo/MBA_811	inferior colliculus, central nucleus	http://purl.obolibrary.org/obo/UBERON_0002563	central nucleus of inferior colliculus
-http://purl.obolibrary.org/obo/MBA_617	mediodorsal nucleus of the thalamus, central part	http://purl.obolibrary.org/obo/UBERON_0035113	central part of mediodorsal nucleus of the thalamus
-http://purl.obolibrary.org/obo/DMBA_17754	cerebellar commissure	http://purl.obolibrary.org/obo/UBERON_0006847	cerebellar commissure
-http://purl.obolibrary.org/obo/MBA_744	cerebellar commissure	http://purl.obolibrary.org/obo/UBERON_0006847	cerebellar commissure
-http://purl.obolibrary.org/obo/DMBA_16920	cerebellar hemisphere	http://purl.obolibrary.org/obo/UBERON_0002245	cerebellar hemisphere
-http://purl.obolibrary.org/obo/MBA_1073	hemispheric regions	http://purl.obolibrary.org/obo/UBERON_0002245	cerebellar hemisphere
-http://purl.obolibrary.org/obo/MBA_752	cerebellar peduncles	http://purl.obolibrary.org/obo/UBERON_0007416	cerebellar peduncle
-http://purl.obolibrary.org/obo/DMBA_16814	cerebellar vermis	http://purl.obolibrary.org/obo/UBERON_0004720	cerebellar vermis
-http://purl.obolibrary.org/obo/MBA_645	vermal regions	http://purl.obolibrary.org/obo/UBERON_0004720	cerebellar vermis
-http://purl.obolibrary.org/obo/MBA_512	cerebellum	http://purl.obolibrary.org/obo/UBERON_0002037	cerebellum
-http://purl.obolibrary.org/obo/DMBA_16932	posterior part of Int	http://purl.obolibrary.org/obo/UBERON_0002613	cerebellum globose nucleus
-http://purl.obolibrary.org/obo/DMBA_16943	paramedian lobule	http://purl.obolibrary.org/obo/UBERON_0005349	paramedian lobule
-http://purl.obolibrary.org/obo/MBA_1025	paramedian lobule	http://purl.obolibrary.org/obo/UBERON_0005349	paramedian lobule
-http://purl.obolibrary.org/obo/MBA_403	medial amygdalar nucleus	http://purl.obolibrary.org/obo/UBERON_0002892	medial amygdaloid nucleus
-http://purl.obolibrary.org/obo/DMBA_15858	ventral striatum	http://purl.obolibrary.org/obo/UBERON_0005403	ventral striatum
-http://purl.obolibrary.org/obo/MBA_493	striatum ventral region	http://purl.obolibrary.org/obo/UBERON_0005403	ventral striatum
-http://purl.obolibrary.org/obo/MBA_924	cerebal peduncle	http://purl.obolibrary.org/obo/UBERON_0002623	cerebral peduncle
-http://purl.obolibrary.org/obo/DMBA_16072	cingulate cortex	http://purl.obolibrary.org/obo/UBERON_0003027	cingulate cortex
-http://purl.obolibrary.org/obo/MBA_940	cingulum bundle	http://purl.obolibrary.org/obo/UBERON_0003961	cingulum of brain
-http://purl.obolibrary.org/obo/MBA_1033	copula pyramidis	http://purl.obolibrary.org/obo/UBERON_0005347	copula pyramidis
-http://purl.obolibrary.org/obo/MBA_1036	corticotectal tract	http://purl.obolibrary.org/obo/UBERON_0002556	corticotectal tract
-http://purl.obolibrary.org/obo/MBA_711	cuneate nucleus	http://purl.obolibrary.org/obo/UBERON_0002045	cuneate nucleus
-http://purl.obolibrary.org/obo/DMBA_16777	cuneiform nucleus	http://purl.obolibrary.org/obo/UBERON_0002696	cuneiform nucleus
-http://purl.obolibrary.org/obo/MBA_616	cuneiform nucleus	http://purl.obolibrary.org/obo/UBERON_0002696	cuneiform nucleus
-http://purl.obolibrary.org/obo/MBA_812	superior cerebellar peduncle decussation	http://purl.obolibrary.org/obo/UBERON_0002588	decussation of superior cerebellar peduncle
-http://purl.obolibrary.org/obo/DMBA_16115	dentate gyrus	http://purl.obolibrary.org/obo/UBERON_0001885	dentate gyrus of hippocampal formation
-http://purl.obolibrary.org/obo/MBA_726	dentate gyrus	http://purl.obolibrary.org/obo/UBERON_0001885	dentate gyrus of hippocampal formation
-http://purl.obolibrary.org/obo/MBA_10702	dentate gyrus, subgranular zone	http://purl.obolibrary.org/obo/UBERON_0009952	dentate gyrus subgranular zone
-http://purl.obolibrary.org/obo/DMBA_16629	nucleus of Darkschewitsch	http://purl.obolibrary.org/obo/UBERON_0002044	ventral nucleus of posterior commissure
-http://purl.obolibrary.org/obo/MBA_587	nucleus of Darkschewitsch	http://purl.obolibrary.org/obo/UBERON_0002044	ventral nucleus of posterior commissure
-http://purl.obolibrary.org/obo/MBA_634	nucleus of the posterior commissure	http://purl.obolibrary.org/obo/UBERON_0002711	nucleus of posterior commissure
-http://purl.obolibrary.org/obo/DMBA_16308	diencephalon	http://purl.obolibrary.org/obo/UBERON_0001894	diencephalon
-http://purl.obolibrary.org/obo/MBA_1129	interbrain	http://purl.obolibrary.org/obo/UBERON_0001894	diencephalon
-http://purl.obolibrary.org/obo/DMBA_16853	Koelliker-Fuse nucleus	http://purl.obolibrary.org/obo/UBERON_0002869	diffuse reticular nucleus
-http://purl.obolibrary.org/obo/MBA_1011	dorsal auditory area	http://purl.obolibrary.org/obo/UBERON_0035885	dorsal auditory area
-http://purl.obolibrary.org/obo/MBA_678	dorsal auditory area, layer 4	http://purl.obolibrary.org/obo/UBERON_0035917	dorsal auditory area, layer 4
-http://purl.obolibrary.org/obo/MBA_547	dorsal longitudinal fascicle	http://purl.obolibrary.org/obo/UBERON_0003045	dorsal longitudinal fasciculus
-http://purl.obolibrary.org/obo/DMBA_16860	dorsal nucleus of the lateral lemniscus	http://purl.obolibrary.org/obo/UBERON_0003006	dorsal nucleus of lateral lemniscus
-http://purl.obolibrary.org/obo/MBA_82	nucleus of the lateral lemniscus, dorsal part	http://purl.obolibrary.org/obo/UBERON_0003006	dorsal nucleus of lateral lemniscus
-http://purl.obolibrary.org/obo/MBA_818	pallidum, dorsal region	http://purl.obolibrary.org/obo/UBERON_0006516	dorsal pallidum
-http://purl.obolibrary.org/obo/MBA_970	paragigantocellular reticular nucleus, dorsal part	http://purl.obolibrary.org/obo/UBERON_0016825	dorsal paragigantocellular nucleus
-http://purl.obolibrary.org/obo/DMBA_16376	thalamus	http://purl.obolibrary.org/obo/UBERON_0001897	dorsal plus ventral thalamus
-http://purl.obolibrary.org/obo/MBA_549	thalamus	http://purl.obolibrary.org/obo/UBERON_0001897	dorsal plus ventral thalamus
-http://purl.obolibrary.org/obo/MBA_872	dorsal nucleus raphe	http://purl.obolibrary.org/obo/UBERON_0002043	dorsal raphe nucleus
-http://purl.obolibrary.org/obo/MBA_825	supraoptic commissures, dorsal	http://purl.obolibrary.org/obo/UBERON_0002697	dorsal supraoptic decussation
-http://purl.obolibrary.org/obo/MBA_926	entorhinal area, medial part, dorsal zone	http://purl.obolibrary.org/obo/UBERON_0018262	dorsal zone of medial entorhinal cortex
-http://purl.obolibrary.org/obo/DMBA_16102	entorhinal cortex	http://purl.obolibrary.org/obo/UBERON_0002728	entorhinal cortex
-http://purl.obolibrary.org/obo/MBA_909	entorhinal area	http://purl.obolibrary.org/obo/UBERON_0002728	entorhinal cortex
-http://purl.obolibrary.org/obo/MBA_958	epithalamus	http://purl.obolibrary.org/obo/UBERON_0001899	epithalamus
-http://purl.obolibrary.org/obo/MBA_1092	external medullary lamina of the thalamus	http://purl.obolibrary.org/obo/UBERON_0014534	external medullary lamina of thalamus
-http://purl.obolibrary.org/obo/MBA_828	inferior colliculus, external nucleus	http://purl.obolibrary.org/obo/UBERON_0002571	external nucleus of inferior colliculus
-http://purl.obolibrary.org/obo/MBA_1000	extrapyramidal fiber systems	http://purl.obolibrary.org/obo/UBERON_0035803	extrapyramidal tract system
-http://purl.obolibrary.org/obo/MBA_798	facial nerve	http://purl.obolibrary.org/obo/UBERON_0001647	facial nerve
-http://purl.obolibrary.org/obo/DMBA_16946	flocculus	http://purl.obolibrary.org/obo/UBERON_0001063	flocculus
-http://purl.obolibrary.org/obo/MBA_1049	flocculus	http://purl.obolibrary.org/obo/UBERON_0001063	flocculus
-http://purl.obolibrary.org/obo/DMBA_15566	forebrain	http://purl.obolibrary.org/obo/UBERON_0001890	forebrain
-http://purl.obolibrary.org/obo/DMBA_126651782	ventricles, hindbrain	http://purl.obolibrary.org/obo/UBERON_0002422	fourth ventricle
-http://purl.obolibrary.org/obo/MBA_145	fourth ventricle	http://purl.obolibrary.org/obo/UBERON_0002422	fourth ventricle
-http://purl.obolibrary.org/obo/MBA_184	frontal pole, cerebral cortex	http://purl.obolibrary.org/obo/UBERON_0002795	frontal pole
-http://purl.obolibrary.org/obo/MBA_998	fundus of striatum	http://purl.obolibrary.org/obo/UBERON_0014605	fundus striati
-http://purl.obolibrary.org/obo/MBA_674	nucleus of the solitary tract, gelatinous part	http://purl.obolibrary.org/obo/UBERON_0009051	gelatinous nucleus of solitary tract
-http://purl.obolibrary.org/obo/MBA_1108	genu of corpus callosum	http://purl.obolibrary.org/obo/UBERON_0015599	genu of corpus callosum
-http://purl.obolibrary.org/obo/MBA_808	glossopharyngeal nerve	http://purl.obolibrary.org/obo/UBERON_0001649	glossopharyngeal nerve
-http://purl.obolibrary.org/obo/MBA_1039	gracile nucleus	http://purl.obolibrary.org/obo/UBERON_0002161	gracile nucleus
-http://purl.obolibrary.org/obo/DMBA_17790	retroflex tract (habenulo-interpeduncular) tract	http://purl.obolibrary.org/obo/UBERON_0002138	habenulo-interpeduncular tract
-http://purl.obolibrary.org/obo/MBA_595	fasciculus retroflexus	http://purl.obolibrary.org/obo/UBERON_0002138	habenulo-interpeduncular tract
-http://purl.obolibrary.org/obo/DMBA_16808	hindbrain	http://purl.obolibrary.org/obo/UBERON_0002028	hindbrain
-http://purl.obolibrary.org/obo/MBA_1065	hindbrain	http://purl.obolibrary.org/obo/UBERON_0002028	hindbrain
-http://purl.obolibrary.org/obo/DMBA_16903	trochlear nucleus	http://purl.obolibrary.org/obo/UBERON_0002722	trochlear nucleus
-http://purl.obolibrary.org/obo/DMBA_17007	ventral tegmental nucleus	http://purl.obolibrary.org/obo/UBERON_0002438	ventral tegmental nucleus
-http://purl.obolibrary.org/obo/MBA_115	trochlear nucleus	http://purl.obolibrary.org/obo/UBERON_0002722	trochlear nucleus
-http://purl.obolibrary.org/obo/MBA_757	ventral tegmental nucleus	http://purl.obolibrary.org/obo/UBERON_0002438	ventral tegmental nucleus
-http://purl.obolibrary.org/obo/MBA_1089	hippocampal formation	http://purl.obolibrary.org/obo/UBERON_0002421	hippocampal formation
-http://purl.obolibrary.org/obo/MBA_1063	hippocampal fissure	http://purl.obolibrary.org/obo/UBERON_0002899	hippocampal sulcus
-http://purl.obolibrary.org/obo/MBA_813	hypoglossal nerve	http://purl.obolibrary.org/obo/UBERON_0001650	hypoglossal nerve
-http://purl.obolibrary.org/obo/MBA_1097	hypothalamus	http://purl.obolibrary.org/obo/UBERON_0001898	hypothalamus
-http://purl.obolibrary.org/obo/DMBA_16692	inferior colliculus	http://purl.obolibrary.org/obo/UBERON_0001946	inferior colliculus
-http://purl.obolibrary.org/obo/MBA_4	inferior colliculus	http://purl.obolibrary.org/obo/UBERON_0001946	inferior colliculus
-http://purl.obolibrary.org/obo/MBA_1113	interanterodorsal nucleus of the thalamus	http://purl.obolibrary.org/obo/UBERON_0035972	interanterodorsal nucleus of the thalamus
-http://purl.obolibrary.org/obo/MBA_27	intergeniculate leaflet of the lateral geniculate complex	http://purl.obolibrary.org/obo/UBERON_0035975	intergeniculate leaflet of the lateral geniculate complex
-http://purl.obolibrary.org/obo/MBA_90	nucleus of the lateral lemniscus, horizontal part	http://purl.obolibrary.org/obo/UBERON_0007710	intermediate nucleus of lateral lemniscus
-http://purl.obolibrary.org/obo/MBA_14	internal medullary lamina of the thalamus	http://purl.obolibrary.org/obo/UBERON_0002762	internal medullary lamina of thalamus
-http://purl.obolibrary.org/obo/MBA_100	interpeduncular nucleus	http://purl.obolibrary.org/obo/UBERON_0002145	interpeduncular nucleus
-http://purl.obolibrary.org/obo/MBA_67	interstitial nucleus of Cajal	http://purl.obolibrary.org/obo/UBERON_0002551	interstitial nucleus of Cajal
-http://purl.obolibrary.org/obo/MBA_124	interventricular foramen	http://purl.obolibrary.org/obo/UBERON_0003993	interventricular foramen of CNS
-http://purl.obolibrary.org/obo/MBA_489	major island of Calleja	http://purl.obolibrary.org/obo/UBERON_0023868	isla magna of Calleja
-http://purl.obolibrary.org/obo/MBA_1019	corticospinal tract, crossed	http://purl.obolibrary.org/obo/UBERON_0002589	lateral corticospinal tract
-http://purl.obolibrary.org/obo/MBA_918	entorhinal area, lateral part	http://purl.obolibrary.org/obo/UBERON_0007225	lateral entorhinal cortex
-http://purl.obolibrary.org/obo/MBA_194	lateral hypothalamic area	http://purl.obolibrary.org/obo/UBERON_0002430	lateral hypothalamic area
-http://purl.obolibrary.org/obo/DMBA_15956	lateral pallium	http://purl.obolibrary.org/obo/UBERON_0014741	lateral pallium
-http://purl.obolibrary.org/obo/DMBA_16852	lateral parabrachial nucleus	http://purl.obolibrary.org/obo/UBERON_0003007	lateral parabrachial nucleus
-http://purl.obolibrary.org/obo/MBA_881	parabrachial nucleus, lateral division	http://purl.obolibrary.org/obo/UBERON_0003007	lateral parabrachial nucleus
-http://purl.obolibrary.org/obo/MBA_978	paragigantocellular reticular nucleus, lateral part	http://purl.obolibrary.org/obo/UBERON_0016824	lateral paragigantocellular nucleus
-http://purl.obolibrary.org/obo/DMBA_15731	lateral part of MM	http://purl.obolibrary.org/obo/UBERON_0002664	lateral part of medial mammillary nucleus
-http://purl.obolibrary.org/obo/MBA_626	mediodorsal nucleus of the thalamus, lateral part	http://purl.obolibrary.org/obo/UBERON_0035114	lateral part of mediodorsal nucleus of the thalamus
-http://purl.obolibrary.org/obo/DMBA_17690	lateral spinal nucleus	http://purl.obolibrary.org/obo/UBERON_0035024	lateral spinal nucleus
-http://purl.obolibrary.org/obo/DMBA_16271	lateral tuberal nucleus	http://purl.obolibrary.org/obo/UBERON_0000435	lateral tuberal nucleus
-http://purl.obolibrary.org/obo/MBA_409	lateral visual area	http://purl.obolibrary.org/obo/UBERON_0035895	lateral visual area
-http://purl.obolibrary.org/obo/MBA_573	lateral visual area, layer 4	http://purl.obolibrary.org/obo/UBERON_0035915	lateral visual area, layer 4
-http://purl.obolibrary.org/obo/MBA_613	lateral visual area, layer 5	http://purl.obolibrary.org/obo/UBERON_0035916	lateral visual area, layer 5
-http://purl.obolibrary.org/obo/MBA_74	lateral visual area, layer 6a	http://purl.obolibrary.org/obo/UBERON_0035918	lateral visual area, layer 6a
-http://purl.obolibrary.org/obo/MBA_290	hypothalamic lateral zone	http://purl.obolibrary.org/obo/UBERON_0002273	lateral zone of hypothalamus
-http://purl.obolibrary.org/obo/DMBA_16940	simple lobule	http://purl.obolibrary.org/obo/UBERON_0005350	lobule simplex
-http://purl.obolibrary.org/obo/MBA_1007	simple lobule	http://purl.obolibrary.org/obo/UBERON_0005350	lobule simplex
-http://purl.obolibrary.org/obo/MBA_636	mediodorsal nucleus of the thalamus, medial part	http://purl.obolibrary.org/obo/UBERON_0002647	magnocellular part of medial dorsal nucleus
-http://purl.obolibrary.org/obo/DMBA_16737	red nucleus, magnocellular part	http://purl.obolibrary.org/obo/UBERON_0002936	magnocellular part of red nucleus
-http://purl.obolibrary.org/obo/MBA_507	main olfactory bulb	http://purl.obolibrary.org/obo/UBERON_0009951	main olfactory bulb
-http://purl.obolibrary.org/obo/DMBA_15723	mammillary area	http://purl.obolibrary.org/obo/UBERON_0002206	mammillary body
-http://purl.obolibrary.org/obo/MBA_331	mammillary body	http://purl.obolibrary.org/obo/UBERON_0002206	mammillary body
-http://purl.obolibrary.org/obo/DMBA_17780	mammillary peduncle	http://purl.obolibrary.org/obo/UBERON_0002720	mammillary peduncle
-http://purl.obolibrary.org/obo/MBA_673	mammillary peduncle	http://purl.obolibrary.org/obo/UBERON_0002720	mammillary peduncle
-http://purl.obolibrary.org/obo/MBA_753	principal mammillary tract	http://purl.obolibrary.org/obo/UBERON_0002723	mammillary princeps fasciculus
-http://purl.obolibrary.org/obo/DMBA_17781	mammillotegmental tract	http://purl.obolibrary.org/obo/UBERON_0006698	mammillotegmental axonal tract
-http://purl.obolibrary.org/obo/MBA_681	mammillotegmental tract	http://purl.obolibrary.org/obo/UBERON_0006698	mammillotegmental axonal tract
-http://purl.obolibrary.org/obo/DMBA_17782	mammillothalamic tract	http://purl.obolibrary.org/obo/UBERON_0006696	mammillothalamic axonal tract
-http://purl.obolibrary.org/obo/MBA_54	medial forebrain bundle	http://purl.obolibrary.org/obo/UBERON_0001910	medial forebrain bundle
-http://purl.obolibrary.org/obo/DMBA_16462	medial geniculate nucleus	http://purl.obolibrary.org/obo/UBERON_0001927	medial geniculate body
-http://purl.obolibrary.org/obo/MBA_475	medial geniculate complex	http://purl.obolibrary.org/obo/UBERON_0001927	medial geniculate body
-http://purl.obolibrary.org/obo/DMBA_17776	medial lemniscus	http://purl.obolibrary.org/obo/UBERON_0003002	medial lemniscus
-http://purl.obolibrary.org/obo/MBA_697	medial lemniscus	http://purl.obolibrary.org/obo/UBERON_0003002	medial lemniscus
-http://purl.obolibrary.org/obo/MBA_62	medial longitudinal fascicle	http://purl.obolibrary.org/obo/UBERON_0002309	medial longitudinal fasciculus
-http://purl.obolibrary.org/obo/MBA_691	nucleus of the solitary tract, medial part	http://purl.obolibrary.org/obo/UBERON_0009052	medial nucleus of solitary tract
-http://purl.obolibrary.org/obo/DMBA_17779	medial olfactory tract	http://purl.obolibrary.org/obo/UBERON_0034734	medial olfactory stria
-http://purl.obolibrary.org/obo/DMBA_16850	medial parabrachial nucleus	http://purl.obolibrary.org/obo/UBERON_0002918	medial parabrachial nucleus
-http://purl.obolibrary.org/obo/MBA_890	parabrachial nucleus, medial division	http://purl.obolibrary.org/obo/UBERON_0002918	medial parabrachial nucleus
-http://purl.obolibrary.org/obo/DMBA_15730	medial part of MM	http://purl.obolibrary.org/obo/UBERON_0002632	medial part of medial mammillary nucleus
-http://purl.obolibrary.org/obo/MBA_732	medial mammillary nucleus, median part	http://purl.obolibrary.org/obo/UBERON_0002632	medial part of medial mammillary nucleus
-http://purl.obolibrary.org/obo/MBA_685	ventral medial nucleus of the thalamus	http://purl.obolibrary.org/obo/UBERON_0002614	medial part of ventral lateral nucleus
-http://purl.obolibrary.org/obo/DMBA_15604	medial preoptic nucleus	http://purl.obolibrary.org/obo/UBERON_0002035	medial preoptic nucleus
-http://purl.obolibrary.org/obo/MBA_523	medial preoptic area	http://purl.obolibrary.org/obo/UBERON_0007769	medial preoptic region
-http://purl.obolibrary.org/obo/MBA_467	hypothalamic medial zone	http://purl.obolibrary.org/obo/UBERON_0002272	medial zone of hypothalamus
-http://purl.obolibrary.org/obo/DMBA_15689	median eminence	http://purl.obolibrary.org/obo/UBERON_0002197	median eminence of neurohypophysis
-http://purl.obolibrary.org/obo/MBA_10671	median eminence	http://purl.obolibrary.org/obo/UBERON_0002197	median eminence of neurohypophysis
-http://purl.obolibrary.org/obo/DMBA_17352	medullary hindbrain (medulla)	http://purl.obolibrary.org/obo/UBERON_0001896	medulla oblongata
-http://purl.obolibrary.org/obo/MBA_354	medulla	http://purl.obolibrary.org/obo/UBERON_0001896	medulla oblongata
-http://purl.obolibrary.org/obo/MBA_460	midbrain trigeminal nucleus	http://purl.obolibrary.org/obo/UBERON_0001718	mesencephalic nucleus of trigeminal nerve
-http://purl.obolibrary.org/obo/DMBA_16650	mesomere 1	http://purl.obolibrary.org/obo/UBERON_0019272	mesomere 1
-http://purl.obolibrary.org/obo/DMBA_16751	mesomere 2 (preisthmus or caudal midbrain)	http://purl.obolibrary.org/obo/UBERON_0019274	mesomere 2
-http://purl.obolibrary.org/obo/DMBA_16649	midbrain	http://purl.obolibrary.org/obo/UBERON_0001891	midbrain
-http://purl.obolibrary.org/obo/MBA_313	midbrain	http://purl.obolibrary.org/obo/UBERON_0001891	midbrain
-http://purl.obolibrary.org/obo/DMBA_126651722	ventricles, midbrain	http://purl.obolibrary.org/obo/UBERON_0002289	midbrain cerebral aqueduct
-http://purl.obolibrary.org/obo/MBA_140	cerebral aqueduct	http://purl.obolibrary.org/obo/UBERON_0002289	midbrain cerebral aqueduct
-http://purl.obolibrary.org/obo/MBA_165	midbrain raphe nuclei	http://purl.obolibrary.org/obo/UBERON_0007412	midbrain raphe nuclei
-http://purl.obolibrary.org/obo/MBA_93	motor root of the trigeminal nerve	http://purl.obolibrary.org/obo/UBERON_0002796	motor root of trigeminal nerve
-http://purl.obolibrary.org/obo/MBA_315	isocortex	http://purl.obolibrary.org/obo/UBERON_0001950	neocortex
-http://purl.obolibrary.org/obo/DMBA_15652	optic fiber layer	http://purl.obolibrary.org/obo/UBERON_0001793	nerve fiber layer of retina
-http://purl.obolibrary.org/obo/MBA_229	sensory root of the trigeminal nerve	http://purl.obolibrary.org/obo/UBERON_0009907	sensory root of trigeminal nerve
-http://purl.obolibrary.org/obo/MBA_794	spinal tract of the trigeminal nerve	http://purl.obolibrary.org/obo/UBERON_0014761	spinal trigeminal tract
-http://purl.obolibrary.org/obo/MBA_885	terminal nerve	http://purl.obolibrary.org/obo/UBERON_0002924	terminal nerve
-http://purl.obolibrary.org/obo/DMBA_15565	neural plate	http://purl.obolibrary.org/obo/UBERON_0003075	neural plate
-http://purl.obolibrary.org/obo/DMBA_15691	neurohypophysis	http://purl.obolibrary.org/obo/UBERON_0002198	neurohypophysis
-http://purl.obolibrary.org/obo/MBA_102	nigrostriatal tract	http://purl.obolibrary.org/obo/UBERON_0014169	nigrostriatal tract
-http://purl.obolibrary.org/obo/MBA_128	midbrain reticular nucleus	http://purl.obolibrary.org/obo/UBERON_0007415	nucleus of midbrain reticular formation
-http://purl.obolibrary.org/obo/MBA_580	nucleus of the brachium of the inferior colliculus	http://purl.obolibrary.org/obo/UBERON_0036012	nucleus of the brachium of the inferior colliculus
-http://purl.obolibrary.org/obo/DMBA_16342	peripeduncular nucleus	http://purl.obolibrary.org/obo/UBERON_0002144	peripeduncular nucleus
-http://purl.obolibrary.org/obo/MBA_832	oculomotor nerve	http://purl.obolibrary.org/obo/UBERON_0001643	oculomotor nerve
-http://purl.obolibrary.org/obo/MBA_35	oculomotor nucleus	http://purl.obolibrary.org/obo/UBERON_0001715	oculomotor nuclear complex
-http://purl.obolibrary.org/obo/MBA_840	olfactory nerve	http://purl.obolibrary.org/obo/UBERON_0001579	olfactory nerve
-http://purl.obolibrary.org/obo/MBA_552	pontine reticular nucleus, ventral part	http://purl.obolibrary.org/obo/UBERON_0002999	oral pontine reticular nucleus
-http://purl.obolibrary.org/obo/MBA_134	pallidotegmental fascicle	http://purl.obolibrary.org/obo/UBERON_0002671	pallidotegmental fasciculus
-http://purl.obolibrary.org/obo/DMBA_15903	pallium	http://purl.obolibrary.org/obo/UBERON_0000203	pallium
-http://purl.obolibrary.org/obo/DMBA_16945	paraflocculus	http://purl.obolibrary.org/obo/UBERON_0005351	paraflocculus
-http://purl.obolibrary.org/obo/MBA_1041	paraflocculus	http://purl.obolibrary.org/obo/UBERON_0005351	paraflocculus
-http://purl.obolibrary.org/obo/DMBA_16186	parasubiculum	http://purl.obolibrary.org/obo/UBERON_0004683	parasubiculum
-http://purl.obolibrary.org/obo/MBA_843	parasubiculum	http://purl.obolibrary.org/obo/UBERON_0004683	parasubiculum
-http://purl.obolibrary.org/obo/MBA_63	paraventricular hypothalamic nucleus, descending division	http://purl.obolibrary.org/obo/UBERON_0014602	paraventricular nucleus of the hypothalamus descending division
-http://purl.obolibrary.org/obo/MBA_439	paraventricular hypothalamic nucleus, descending division, dorsal parvicellular part	http://purl.obolibrary.org/obo/UBERON_0014596	paraventricular nucleus of the hypothalamus descending division - dorsal parvicellular part
-http://purl.obolibrary.org/obo/MBA_447	paraventricular hypothalamic nucleus, descending division, forniceal part	http://purl.obolibrary.org/obo/UBERON_0014598	paraventricular nucleus of the hypothalamus descending division - forniceal part
-http://purl.obolibrary.org/obo/MBA_455	paraventricular hypothalamic nucleus, descending division, lateral parvicellular part	http://purl.obolibrary.org/obo/UBERON_0014597	paraventricular nucleus of the hypothalamus descending division - lateral parvicellular part
-http://purl.obolibrary.org/obo/MBA_464	paraventricular hypothalamic nucleus, descending division, medial parvicellular part, ventral zone	http://purl.obolibrary.org/obo/UBERON_0014595	paraventricular nucleus of the hypothalamus descending division - medial parvicellular part, ventral zone
-http://purl.obolibrary.org/obo/MBA_71	paraventricular hypothalamic nucleus, magnocellular division	http://purl.obolibrary.org/obo/UBERON_0014603	paraventricular nucleus of the hypothalamus magnocellular division
-http://purl.obolibrary.org/obo/MBA_47	paraventricular hypothalamic nucleus, magnocellular division, anterior magnocellular part	http://purl.obolibrary.org/obo/UBERON_0014599	paraventricular nucleus of the hypothalamus magnocellular division - anterior magnocellular part
-http://purl.obolibrary.org/obo/MBA_79	paraventricular hypothalamic nucleus, magnocellular division, medial magnocellular part	http://purl.obolibrary.org/obo/UBERON_0014600	paraventricular nucleus of the hypothalamus magnocellular division - medial magnocellular part
-http://purl.obolibrary.org/obo/MBA_103	paraventricular hypothalamic nucleus, magnocellular division, posterior magnocellular part	http://purl.obolibrary.org/obo/UBERON_0014601	paraventricular nucleus of the hypothalamus magnocellular division - posterior magnocellular part
-http://purl.obolibrary.org/obo/MBA_94	paraventricular hypothalamic nucleus, parvicellular division	http://purl.obolibrary.org/obo/UBERON_0014604	paraventricular nucleus of the hypothalamus parvicellular division
-http://purl.obolibrary.org/obo/MBA_741	ventral posteromedial nucleus of the thalamus, parvicellular part	http://purl.obolibrary.org/obo/UBERON_0003018	parvicellular part of ventral posteromedial nucleus
-http://purl.obolibrary.org/obo/MBA_975	edinger-Westphal nucleus	http://purl.obolibrary.org/obo/UBERON_0002141	parvocellular oculomotor nucleus
-http://purl.obolibrary.org/obo/DMBA_16633	red nucleus, parvicellular part	http://purl.obolibrary.org/obo/UBERON_0002938	parvocellular part of red nucleus
-http://purl.obolibrary.org/obo/MBA_852	parvicellular reticular nucleus	http://purl.obolibrary.org/obo/UBERON_0016633	parvocellular reticular nucleus
-http://purl.obolibrary.org/obo/MBA_365	thalamic peduncles	http://purl.obolibrary.org/obo/UBERON_0022236	peduncle of thalamus
-http://purl.obolibrary.org/obo/MBA_1044	peripeduncular nucleus	http://purl.obolibrary.org/obo/UBERON_0002144	peripeduncular nucleus
-http://purl.obolibrary.org/obo/MBA_922	perirhinal area	http://purl.obolibrary.org/obo/UBERON_0006083	perirhinal cortex
-http://purl.obolibrary.org/obo/MBA_157	periventricular zone	http://purl.obolibrary.org/obo/UBERON_0002271	periventricular zone of hypothalamus
-http://purl.obolibrary.org/obo/MBA_953	pineal body	http://purl.obolibrary.org/obo/UBERON_0001905	pineal body
-http://purl.obolibrary.org/obo/MBA_730	pineal stalk	http://purl.obolibrary.org/obo/UBERON_0011768	pineal gland stalk
-http://purl.obolibrary.org/obo/DMBA_15690	infundibulum	http://purl.obolibrary.org/obo/UBERON_0002434	pituitary stalk
-http://purl.obolibrary.org/obo/MBA_771	pons	http://purl.obolibrary.org/obo/UBERON_0000988	pons
-http://purl.obolibrary.org/obo/DMBA_17787	posterior commissure	http://purl.obolibrary.org/obo/UBERON_0000936	posterior commissure
-http://purl.obolibrary.org/obo/MBA_158	posterior commissure	http://purl.obolibrary.org/obo/UBERON_0000936	posterior commissure
-http://purl.obolibrary.org/obo/MBA_367	bed nuclei of the stria terminalis, posterior division	http://purl.obolibrary.org/obo/UBERON_0011177	posterior division of bed nuclei of stria terminalis
-http://purl.obolibrary.org/obo/MBA_1020	posterior complex of the thalamus	http://purl.obolibrary.org/obo/UBERON_0002709	posterior nuclear complex of thalamus
-http://purl.obolibrary.org/obo/MBA_22	posterior parietal association areas	http://purl.obolibrary.org/obo/UBERON_0035886	posterior parietal association areas
-http://purl.obolibrary.org/obo/MBA_425	posterolateral visual area	http://purl.obolibrary.org/obo/UBERON_0035897	posterolateral visual area
-http://purl.obolibrary.org/obo/MBA_869	posterolateral visual area, layer 4	http://purl.obolibrary.org/obo/UBERON_0035919	posterolateral visual area, layer 4
-http://purl.obolibrary.org/obo/MBA_533	posteromedial visual area	http://purl.obolibrary.org/obo/UBERON_0035900	posteromedial visual area
-http://purl.obolibrary.org/obo/MBA_501	posteromedial visual area, layer 4	http://purl.obolibrary.org/obo/UBERON_0035914	posteromedial visual area, layer 4
-http://purl.obolibrary.org/obo/MBA_257	posteromedial visual area, layer 6a	http://purl.obolibrary.org/obo/UBERON_0035909	posteromedial visual area, layer 6a
-http://purl.obolibrary.org/obo/MBA_174	preoptic commissure	http://purl.obolibrary.org/obo/UBERON_0003936	postoptic commissure
-http://purl.obolibrary.org/obo/MBA_312782628	postrhinal area	http://purl.obolibrary.org/obo/UBERON_0035890	postrhinal area
-http://purl.obolibrary.org/obo/MBA_312782640	postrhinal area, layer 4	http://purl.obolibrary.org/obo/UBERON_0035911	postrhinal area, layer 4
-http://purl.obolibrary.org/obo/MBA_1037	postsubiculum	http://purl.obolibrary.org/obo/UBERON_0035971	postsubiculum
-http://purl.obolibrary.org/obo/MBA_1087	precentral fissure	http://purl.obolibrary.org/obo/UBERON_0014473	precentral fissure of cerebellum
-http://purl.obolibrary.org/obo/MBA_993	secondary motor area	http://purl.obolibrary.org/obo/UBERON_0016634	premotor cortex
-http://purl.obolibrary.org/obo/DMBA_15577	preoptic area	http://purl.obolibrary.org/obo/UBERON_0001928	preoptic area
-http://purl.obolibrary.org/obo/DMBA_16172	presubiculum	http://purl.obolibrary.org/obo/UBERON_0001953	presubiculum
-http://purl.obolibrary.org/obo/MBA_1084	presubiculum	http://purl.obolibrary.org/obo/UBERON_0001953	presubiculum
-http://purl.obolibrary.org/obo/DMBA_16510	pretectum	http://purl.obolibrary.org/obo/UBERON_0001944	pretectal region
-http://purl.obolibrary.org/obo/MBA_1100	pretectal region	http://purl.obolibrary.org/obo/UBERON_0001944	pretectal region
-http://purl.obolibrary.org/obo/MBA_985	primary motor area	http://purl.obolibrary.org/obo/UBERON_0001384	primary motor cortex
-http://purl.obolibrary.org/obo/MBA_322	primary somatosensory area	http://purl.obolibrary.org/obo/UBERON_0008933	primary somatosensory cortex
-http://purl.obolibrary.org/obo/MBA_821	primary visual area, layer 2/3	http://purl.obolibrary.org/obo/UBERON_0035907	primary visual area, layer 2/3
-http://purl.obolibrary.org/obo/MBA_721	primary visual area, layer 4	http://purl.obolibrary.org/obo/UBERON_0035904	primary visual area, layer 4
-http://purl.obolibrary.org/obo/MBA_778	primary visual area, layer 5	http://purl.obolibrary.org/obo/UBERON_0035906	primary visual area, layer 5
-http://purl.obolibrary.org/obo/MBA_33	primary visual area, layer 6a	http://purl.obolibrary.org/obo/UBERON_0035892	primary visual area, layer 6a
-http://purl.obolibrary.org/obo/MBA_385	primary visual area	http://purl.obolibrary.org/obo/UBERON_0002436	primary visual cortex
-http://purl.obolibrary.org/obo/MBA_214	red nucleus	http://purl.obolibrary.org/obo/UBERON_0001947	red nucleus
-http://purl.obolibrary.org/obo/DMBA_16926	cerebellar white matter	http://purl.obolibrary.org/obo/UBERON_0024045	white matter of the cerebellar cortex
-http://purl.obolibrary.org/obo/MBA_514	dorsal column	http://purl.obolibrary.org/obo/UBERON_0005373	spinal cord dorsal column
-http://purl.obolibrary.org/obo/MBA_858	ventral commissure of the spinal cord	http://purl.obolibrary.org/obo/UBERON_0004170	spinal cord ventral commissure
-http://purl.obolibrary.org/obo/MBA_304325711	retina	http://purl.obolibrary.org/obo/UBERON_0000966	retina
-http://purl.obolibrary.org/obo/MBA_173	retrochiasmatic area	http://purl.obolibrary.org/obo/UBERON_0001933	retrochiasmatic area
-http://purl.obolibrary.org/obo/MBA_822	retrohippocampal region	http://purl.obolibrary.org/obo/UBERON_0022230	retrohippocampal region
-http://purl.obolibrary.org/obo/DMBA_16093	retrosplenial cortex	http://purl.obolibrary.org/obo/UBERON_0013531	retrosplenial region
-http://purl.obolibrary.org/obo/MBA_254	retrosplenial area	http://purl.obolibrary.org/obo/UBERON_0013531	retrosplenial region
-http://purl.obolibrary.org/obo/DMBA_16915	rhombomere 1	http://purl.obolibrary.org/obo/UBERON_0005499	rhombomere 1
-http://purl.obolibrary.org/obo/DMBA_17291	r6 roof plate	http://purl.obolibrary.org/obo/UBERON_0005584	rhombomere 6 roof plate
-http://purl.obolibrary.org/obo/DMBA_17737	trochlear nerve root	http://purl.obolibrary.org/obo/UBERON_0002618	root of trochlear nerve
-http://purl.obolibrary.org/obo/DMBA_17748	vagal nerve root	http://purl.obolibrary.org/obo/UBERON_0011213	root of vagus nerve
-http://purl.obolibrary.org/obo/DMBA_16748	rostral linear nucleus	http://purl.obolibrary.org/obo/UBERON_0013734	rostral linear nucleus
-http://purl.obolibrary.org/obo/MBA_197	rostral linear nucleus raphe	http://purl.obolibrary.org/obo/UBERON_0013734	rostral linear nucleus
-http://purl.obolibrary.org/obo/MBA_312782616	rostrolateral area, layer 5	http://purl.obolibrary.org/obo/UBERON_0035920	rostrolateral area, layer 5
-http://purl.obolibrary.org/obo/MBA_417	rostrolateral visual area	http://purl.obolibrary.org/obo/UBERON_0035912	rostrolateral visual area
-http://purl.obolibrary.org/obo/DMBA_15567	secondary prosencephalon	http://purl.obolibrary.org/obo/UBERON_0036218	secondary prosencephalon
-http://purl.obolibrary.org/obo/MBA_378	supplemental somatosensory area	http://purl.obolibrary.org/obo/UBERON_0008934	secondary somatosensory cortex
-http://purl.obolibrary.org/obo/MBA_1131	intermediate nerve	http://purl.obolibrary.org/obo/UBERON_0001699	sensory root of facial nerve
-http://purl.obolibrary.org/obo/DMBA_15780	septofimbrial nucleus	http://purl.obolibrary.org/obo/UBERON_0001878	septofimbrial nucleus
-http://purl.obolibrary.org/obo/MBA_310	septofimbrial nucleus	http://purl.obolibrary.org/obo/UBERON_0001878	septofimbrial nucleus
-http://purl.obolibrary.org/obo/DMBA_16204	septohippocampal nucleus	http://purl.obolibrary.org/obo/UBERON_0007630	septohippocampal nucleus
-http://purl.obolibrary.org/obo/MBA_333	septohippocampal nucleus	http://purl.obolibrary.org/obo/UBERON_0007630	septohippocampal nucleus
-http://purl.obolibrary.org/obo/MBA_453	somatosensory areas	http://purl.obolibrary.org/obo/UBERON_0008930	somatosensory cortex
-http://purl.obolibrary.org/obo/DMBA_17651	spinal cord	http://purl.obolibrary.org/obo/UBERON_0002240	spinal cord
-http://purl.obolibrary.org/obo/DMBA_17797	descending trigeminal tract	http://purl.obolibrary.org/obo/UBERON_0014761	spinal trigeminal tract
-http://purl.obolibrary.org/obo/MBA_871	spinothalamic tract	http://purl.obolibrary.org/obo/UBERON_0007703	spinothalamic tract
-http://purl.obolibrary.org/obo/DMBA_17794	stria medullaris	http://purl.obolibrary.org/obo/UBERON_0006086	stria medullaris
-http://purl.obolibrary.org/obo/MBA_802	stria medullaris	http://purl.obolibrary.org/obo/UBERON_0006086	stria medullaris
-http://purl.obolibrary.org/obo/DMBA_15779	triangular septal nucleus	http://purl.obolibrary.org/obo/UBERON_0002977	triangular septal nucleus
-http://purl.obolibrary.org/obo/DMBA_16044	temporal cortex	http://purl.obolibrary.org/obo/UBERON_0016538	temporal cortex
-http://purl.obolibrary.org/obo/DMBA_16154	taenia tecta	http://purl.obolibrary.org/obo/UBERON_0015800	taenia tectum of brain
-http://purl.obolibrary.org/obo/DMBA_17190	supragenual nucleus	http://purl.obolibrary.org/obo/UBERON_0022424	supragenual nucleus of pontine tegmentum
-http://purl.obolibrary.org/obo/DMBA_17739	trigeminal nerve root	http://purl.obolibrary.org/obo/UBERON_0004673	trigeminal nerve root
-http://purl.obolibrary.org/obo/DMBA_17802	tectospinal tract	http://purl.obolibrary.org/obo/UBERON_0002949	tectospinal tract
-http://purl.obolibrary.org/obo/DMBA_17807	ventral tegmental decussation	http://purl.obolibrary.org/obo/UBERON_0002615	ventral tegmental decussation
-http://purl.obolibrary.org/obo/MBA_101	ventral cochlear nucleus	http://purl.obolibrary.org/obo/UBERON_0002828	ventral cochlear nucleus
-http://purl.obolibrary.org/obo/MBA_116	choroid fissure	http://purl.obolibrary.org/obo/UBERON_0002192	ventricular system choroidal fissure
-http://purl.obolibrary.org/obo/MBA_177	nucleus of Roller	http://purl.obolibrary.org/obo/UBERON_0002881	sublingual nucleus
-http://purl.obolibrary.org/obo/MBA_217	superior vestibular nucleus	http://purl.obolibrary.org/obo/UBERON_0007227	superior vestibular nucleus
-http://purl.obolibrary.org/obo/MBA_342	substantia innominata	http://purl.obolibrary.org/obo/UBERON_0003017	substantia innominata
-http://purl.obolibrary.org/obo/MBA_357	tectothalamic pathway	http://purl.obolibrary.org/obo/UBERON_0035570	tectothalamic tract
-http://purl.obolibrary.org/obo/MBA_397	ventral tegmental decussation	http://purl.obolibrary.org/obo/UBERON_0002615	ventral tegmental decussation
-http://purl.obolibrary.org/obo/MBA_398	superior olivary complex	http://purl.obolibrary.org/obo/UBERON_0002128	superior olivary complex
-http://purl.obolibrary.org/obo/MBA_413	vestibular nerve	http://purl.obolibrary.org/obo/UBERON_0003723	vestibular nerve
-http://purl.obolibrary.org/obo/MBA_462	superior salivatory nucleus	http://purl.obolibrary.org/obo/UBERON_0002149	superior salivatory nucleus
-http://purl.obolibrary.org/obo/MBA_581	triangular nucleus of septum	http://purl.obolibrary.org/obo/UBERON_0002977	triangular septal nucleus
-http://purl.obolibrary.org/obo/MBA_589	taenia tecta	http://purl.obolibrary.org/obo/UBERON_0015800	taenia tectum of brain
-http://purl.obolibrary.org/obo/MBA_701	vestibular nuclei	http://purl.obolibrary.org/obo/UBERON_0002673	vestibular nuclear complex
-http://purl.obolibrary.org/obo/MBA_841	trapezoid body	http://purl.obolibrary.org/obo/UBERON_0002932	trapezoid body
-http://purl.obolibrary.org/obo/MBA_877	tectospinal pathway	http://purl.obolibrary.org/obo/UBERON_0002949	tectospinal tract
-http://purl.obolibrary.org/obo/MBA_941	vestibulospinal pathway	http://purl.obolibrary.org/obo/UBERON_0002768	vestibulospinal tract
-http://purl.obolibrary.org/obo/DMBA_16514	subcommissural organ	http://purl.obolibrary.org/obo/UBERON_0002139	subcommissural organ
-http://purl.obolibrary.org/obo/DMBA_16787	subcuneiform nucleus	http://purl.obolibrary.org/obo/UBERON_0002700	subcuneiform nucleus
-http://purl.obolibrary.org/obo/MBA_338	subfornical organ	http://purl.obolibrary.org/obo/UBERON_0002219	subfornical organ
-http://purl.obolibrary.org/obo/DMBA_16163	subiculum	http://purl.obolibrary.org/obo/UBERON_0002191	subiculum
-http://purl.obolibrary.org/obo/MBA_502	subiculum	http://purl.obolibrary.org/obo/UBERON_0002191	subiculum
-http://purl.obolibrary.org/obo/MBA_347	subparaventricular zone	http://purl.obolibrary.org/obo/UBERON_0007626	subparaventricular zone
-http://purl.obolibrary.org/obo/MBA_374	substantia nigra, compact part	http://purl.obolibrary.org/obo/UBERON_0001965	substantia nigra pars compacta
-http://purl.obolibrary.org/obo/MBA_615	substantia nigra, lateral part	http://purl.obolibrary.org/obo/UBERON_0002995	substantia nigra pars lateralis
-http://purl.obolibrary.org/obo/MBA_381	substantia nigra, reticular part	http://purl.obolibrary.org/obo/UBERON_0001966	substantia nigra pars reticulata
-http://purl.obolibrary.org/obo/MBA_317	subthalamic fascicle	http://purl.obolibrary.org/obo/UBERON_0022256	subthalamic fasciculus
-http://purl.obolibrary.org/obo/MBA_851	superior colliculus, optic layer	http://purl.obolibrary.org/obo/UBERON_0006779	superficial white layer of superior colliculus
-http://purl.obolibrary.org/obo/DMBA_17793	superior cerebellar peduncle	http://purl.obolibrary.org/obo/UBERON_0002150	superior cerebellar peduncle
-http://purl.obolibrary.org/obo/MBA_326	superior cerebelar peduncles	http://purl.obolibrary.org/obo/UBERON_0002150	superior cerebellar peduncle
-http://purl.obolibrary.org/obo/DMBA_16678	colliculus superior	http://purl.obolibrary.org/obo/UBERON_0001945	superior colliculus
-http://purl.obolibrary.org/obo/MBA_842	superior colliculus, superficial gray layer	http://purl.obolibrary.org/obo/UBERON_0006120	superior colliculus superficial gray layer
-http://purl.obolibrary.org/obo/DMBA_15660	suprachiasmatic nucleus	http://purl.obolibrary.org/obo/UBERON_0002034	suprachiasmatic nucleus
-http://purl.obolibrary.org/obo/MBA_341	supramammillary decussation	http://purl.obolibrary.org/obo/UBERON_0002991	supramammillary commissure
-http://purl.obolibrary.org/obo/DMBA_15582	vascular organ of the lamina terminalis	http://purl.obolibrary.org/obo/UBERON_0002689	supraoptic crest
-http://purl.obolibrary.org/obo/MBA_763	vascular organ of the lamina terminalis	http://purl.obolibrary.org/obo/UBERON_0002689	supraoptic crest
-http://purl.obolibrary.org/obo/DMBA_15633	supraoptic nucleus	http://purl.obolibrary.org/obo/UBERON_0001929	supraoptic nucleus
-http://purl.obolibrary.org/obo/DMBA_126651562	ventricles, forebrain	http://purl.obolibrary.org/obo/UBERON_0002285	telencephalic ventricle
-http://purl.obolibrary.org/obo/MBA_81	lateral ventricle	http://purl.obolibrary.org/obo/UBERON_0002285	telencephalic ventricle
-http://purl.obolibrary.org/obo/MBA_567	cerebrum	http://purl.obolibrary.org/obo/UBERON_0001893	telencephalon
-http://purl.obolibrary.org/obo/MBA_129	third ventricle	http://purl.obolibrary.org/obo/UBERON_0002286	third ventricle
-http://purl.obolibrary.org/obo/MBA_1028	corticospinal tract, uncrossed	http://purl.obolibrary.org/obo/UBERON_0002760	ventral corticospinal tract
-http://purl.obolibrary.org/obo/MBA_594	bed nuclei of the stria terminalis, posterior division, transverse nucleus	http://purl.obolibrary.org/obo/UBERON_0011179	transverse nucleus of stria terminalis
-http://purl.obolibrary.org/obo/MBA_901	trigeminal nerve	http://purl.obolibrary.org/obo/UBERON_0001645	trigeminal nerve
-http://purl.obolibrary.org/obo/DMBA_15665	tuber cinereum area	http://purl.obolibrary.org/obo/UBERON_0002620	tuber cinereum
-http://purl.obolibrary.org/obo/MBA_1126	tuberomammillary nucleus, dorsal part	http://purl.obolibrary.org/obo/UBERON_0014593	tuberomammillary nucleus dorsal part
-http://purl.obolibrary.org/obo/MBA_1	tuberomammillary nucleus, ventral part	http://purl.obolibrary.org/obo/UBERON_0014594	tuberomammillary nucleus ventral part
-http://purl.obolibrary.org/obo/MBA_917	vagus nerve	http://purl.obolibrary.org/obo/UBERON_0001759	vagus nerve
-http://purl.obolibrary.org/obo/MBA_99	nucleus of the lateral lemniscus, ventral part	http://purl.obolibrary.org/obo/UBERON_0002604	ventral nucleus of lateral lemniscus
-http://purl.obolibrary.org/obo/DMBA_15844	ventral pallidum	http://purl.obolibrary.org/obo/UBERON_0002778	ventral pallidum
-http://purl.obolibrary.org/obo/MBA_835	pallidum, ventral region	http://purl.obolibrary.org/obo/UBERON_0002778	ventral pallidum
-http://purl.obolibrary.org/obo/DMBA_15904	ventral pallium	http://purl.obolibrary.org/obo/UBERON_0014913	ventral pallium
-http://purl.obolibrary.org/obo/DMBA_15751	subpallium	http://purl.obolibrary.org/obo/UBERON_0000204	ventral part of telencephalon
-http://purl.obolibrary.org/obo/MBA_1004	ventral premammillary nucleus	http://purl.obolibrary.org/obo/UBERON_0007768	ventral premammillary nucleus
-http://purl.obolibrary.org/obo/MBA_833	supraoptic commissures, ventral	http://purl.obolibrary.org/obo/UBERON_0002676	ventral supraoptic decussation
-http://purl.obolibrary.org/obo/MBA_749	ventral tegmental area	http://purl.obolibrary.org/obo/UBERON_0002691	ventral tegmental area
-http://purl.obolibrary.org/obo/MBA_73	ventricular systems	http://purl.obolibrary.org/obo/UBERON_0005281	ventricular system of central nervous system
-http://purl.obolibrary.org/obo/MBA_933	vestibulocochlear nerve	http://purl.obolibrary.org/obo/UBERON_0001648	vestibulocochlear nerve
-http://purl.obolibrary.org/obo/MBA_669	visual areas	http://purl.obolibrary.org/obo/UBERON_0000411	visual cortex
-http://purl.obolibrary.org/obo/MBA_834	superior colliculus, zonal layer	http://purl.obolibrary.org/obo/UBERON_0006780	zonal layer of superior colliculus
+ID	Label	SuperClass	SuperClass Label	 Source
+ID	A IAO:0000589	SC %	>A rdfs:label 	A oboInOwl:source
+http://purl.obolibrary.org/obo/MBA_796	dopaminergic A13 group	http://purl.obolibrary.org/obo/UBERON_0036007	A13 dopaminergic cell group	
+http://purl.obolibrary.org/obo/DMBA_16124	hippocampus (cortex Ammonis)	http://purl.obolibrary.org/obo/UBERON_0001954	Ammon's horn	
+http://purl.obolibrary.org/obo/MBA_375	ammon's horn	http://purl.obolibrary.org/obo/UBERON_0001954	Ammon's horn	
+http://purl.obolibrary.org/obo/DMBA_16131	Field CA1	http://purl.obolibrary.org/obo/UBERON_0003881	CA1 field of hippocampus	
+http://purl.obolibrary.org/obo/MBA_382	field CA1	http://purl.obolibrary.org/obo/UBERON_0003881	CA1 field of hippocampus	
+http://purl.obolibrary.org/obo/DMBA_16136	Field CA2	http://purl.obolibrary.org/obo/UBERON_0003882	CA2 field of hippocampus	
+http://purl.obolibrary.org/obo/MBA_423	field CA2	http://purl.obolibrary.org/obo/UBERON_0003882	CA2 field of hippocampus	
+http://purl.obolibrary.org/obo/DMBA_16141	Field CA3	http://purl.obolibrary.org/obo/UBERON_0003883	CA3 field of hippocampus	
+http://purl.obolibrary.org/obo/MBA_463	field CA3	http://purl.obolibrary.org/obo/UBERON_0003883	CA3 field of hippocampus	
+http://purl.obolibrary.org/obo/DMBA_16144	"Field CA3, stratum lucidum"	http://purl.obolibrary.org/obo/UBERON_0014560	CA3 stratum lucidum	
+http://purl.obolibrary.org/obo/MBA_710	abducens nerve	http://purl.obolibrary.org/obo/UBERON_0001646	abducens nerve	
+http://purl.obolibrary.org/obo/MBA_568	accessory abducens nucleus	http://purl.obolibrary.org/obo/UBERON_0035976	accessory abducens nucleus	
+http://purl.obolibrary.org/obo/DMBA_15957	accessory olfactory bulb	http://purl.obolibrary.org/obo/UBERON_0004069	accessory olfactory bulb	
+http://purl.obolibrary.org/obo/MBA_151	accessory olfactory bulb	http://purl.obolibrary.org/obo/UBERON_0004069	accessory olfactory bulb	
+http://purl.obolibrary.org/obo/DMBA_ENTITY	DMBA entity	http://purl.obolibrary.org/obo/UBERON_0001062	anatomical entity	
+http://purl.obolibrary.org/obo/MBA_ENTITY	MBA entity	http://purl.obolibrary.org/obo/UBERON_0001062	anatomical entity	
+http://purl.obolibrary.org/obo/MBA_892	ansa peduncularis	http://purl.obolibrary.org/obo/UBERON_0034896	ansa peduncularis	
+http://purl.obolibrary.org/obo/MBA_1017	ansiform lobule	http://purl.obolibrary.org/obo/UBERON_0005348	ansiform lobule	
+http://purl.obolibrary.org/obo/MBA_1056	crus 1	http://purl.obolibrary.org/obo/UBERON_0005976	ansiform lobule crus I	
+http://purl.obolibrary.org/obo/MBA_1064	crus 2	http://purl.obolibrary.org/obo/UBERON_0005977	ansiform lobule crus II	
+http://purl.obolibrary.org/obo/MBA_359	"bed nuclei of the stria terminalis, anterior division"	http://purl.obolibrary.org/obo/UBERON_0011173	anterior division of bed nuclei of stria terminalis	
+http://purl.obolibrary.org/obo/MBA_700	"anterior hypothalamic nucleus, anterior part"	http://purl.obolibrary.org/obo/UBERON_0014589	anterior nucleus of hypothalamus anterior part	
+http://purl.obolibrary.org/obo/MBA_708	"anterior hypothalamic nucleus, central part"	http://purl.obolibrary.org/obo/UBERON_0014590	anterior nucleus of hypothalamus central part	
+http://purl.obolibrary.org/obo/MBA_716	"anterior hypothalamic nucleus, dorsal part"	http://purl.obolibrary.org/obo/UBERON_0014592	anterior nucleus of hypothalamus dorsal part	
+http://purl.obolibrary.org/obo/DMBA_16240	posterior part of anterior hypothalamic nucleus	http://purl.obolibrary.org/obo/UBERON_0014591	anterior nucleus of hypothalamus posterior part	
+http://purl.obolibrary.org/obo/MBA_724	"anterior hypothalamic nucleus, posterior part"	http://purl.obolibrary.org/obo/UBERON_0014591	anterior nucleus of hypothalamus posterior part	
+http://purl.obolibrary.org/obo/DMBA_16400	anterior paraventricular nucleus of thalamus	http://purl.obolibrary.org/obo/UBERON_0000434	anterior paraventricular nucleus of thalamus	
+http://purl.obolibrary.org/obo/MBA_402	anterolateral visual area	http://purl.obolibrary.org/obo/UBERON_0035894	anterolateral visual area	
+http://purl.obolibrary.org/obo/MBA_233	"anterolateral visual area, layer 5"	http://purl.obolibrary.org/obo/UBERON_0035908	"anterolateral visual area, layer 5"	
+http://purl.obolibrary.org/obo/MBA_394	anteromedial visual area	http://purl.obolibrary.org/obo/UBERON_0035893	anteromedial visual area	
+http://purl.obolibrary.org/obo/MBA_433	"anteromedial visual area, layer 5"	http://purl.obolibrary.org/obo/UBERON_0035913	"anteromedial visual area, layer 5"	
+http://purl.obolibrary.org/obo/MBA_207	area postrema	http://purl.obolibrary.org/obo/UBERON_0002162	area postrema	
+http://purl.obolibrary.org/obo/MBA_247	auditory areas	http://purl.obolibrary.org/obo/UBERON_0001393	auditory cortex	
+http://purl.obolibrary.org/obo/MBA_329	"primary somatosensory area, barrel field"	http://purl.obolibrary.org/obo/UBERON_0010415	barrel cortex	
+http://purl.obolibrary.org/obo/MBA_8	basic cell groups and regions	http://purl.obolibrary.org/obo/UBERON_0000955	brain	
+http://purl.obolibrary.org/obo/MBA_997	root	http://purl.obolibrary.org/obo/UBERON_0000955	brain	
+http://purl.obolibrary.org/obo/MBA_343	brain stem	http://purl.obolibrary.org/obo/UBERON_0002298	brainstem	
+http://purl.obolibrary.org/obo/DMBA_15675	ventromedial hypothalamic nucleus	http://purl.obolibrary.org/obo/UBERON_0001935	ventromedial nucleus of hypothalamus	
+http://purl.obolibrary.org/obo/DMBA_15719	dorsal premammillary nucleus	http://purl.obolibrary.org/obo/UBERON_0007767	dorsal premammillary nucleus	
+http://purl.obolibrary.org/obo/DMBA_15729	medial mammillary nucleus	http://purl.obolibrary.org/obo/UBERON_0001939	medial mammillary nucleus	
+http://purl.obolibrary.org/obo/DMBA_15734	lateral mammillary nucleus	http://purl.obolibrary.org/obo/UBERON_0001938	lateral mammillary nucleus	
+http://purl.obolibrary.org/obo/DMBA_16341	pregeniculate nucleus	http://purl.obolibrary.org/obo/UBERON_0002480	ventral lateral geniculate nucleus	
+http://purl.obolibrary.org/obo/DMBA_16388	medial habenular nucleus	http://purl.obolibrary.org/obo/UBERON_0001942	medial habenular nucleus	
+http://purl.obolibrary.org/obo/DMBA_16402	centromedian nucleus	http://purl.obolibrary.org/obo/UBERON_0002972	centromedian nucleus of thalamus	
+http://purl.obolibrary.org/obo/DMBA_16405	rhomboid nucleus	http://purl.obolibrary.org/obo/UBERON_0002955	rhomboidal nucleus	
+http://purl.obolibrary.org/obo/DMBA_16410	paratenial nucleus	http://purl.obolibrary.org/obo/UBERON_0002992	paratenial nucleus	
+http://purl.obolibrary.org/obo/DMBA_16416	paracentral nucleus	http://purl.obolibrary.org/obo/UBERON_0001924	paracentral nucleus	
+http://purl.obolibrary.org/obo/DMBA_16418	central lateral nucleus	http://purl.obolibrary.org/obo/UBERON_0003036	central lateral nucleus	
+http://purl.obolibrary.org/obo/DMBA_16423	ventral nuclei	http://purl.obolibrary.org/obo/UBERON_0002776	ventral nuclear group	
+http://purl.obolibrary.org/obo/DMBA_16426	submedius thalamic nucleus	http://purl.obolibrary.org/obo/UBERON_0003031	submedial nucleus of thalamus	
+http://purl.obolibrary.org/obo/DMBA_16427	ventral anterior nucleus	http://purl.obolibrary.org/obo/UBERON_0002637	ventral anterior nucleus of thalamus	
+http://purl.obolibrary.org/obo/DMBA_16428	ventral lateral nucleus	http://purl.obolibrary.org/obo/UBERON_0001925	ventral lateral nucleus of thalamus	
+http://purl.obolibrary.org/obo/DMBA_16429	ventral posteromedial nucleus	http://purl.obolibrary.org/obo/UBERON_0002945	ventral posteromedial nucleus of thalamus	
+http://purl.obolibrary.org/obo/DMBA_16430	ventral posterolateral nucleus	http://purl.obolibrary.org/obo/UBERON_0002942	ventral posterolateral nucleus	
+http://purl.obolibrary.org/obo/DMBA_16435	lateral posterior nucleus	http://purl.obolibrary.org/obo/UBERON_0002983	lateral posterior nucleus of thalamus	
+http://purl.obolibrary.org/obo/DMBA_16436	dorsal lateral geniculate nucleus	http://purl.obolibrary.org/obo/UBERON_0002479	dorsal lateral geniculate nucleus	
+http://purl.obolibrary.org/obo/DMBA_16441	posterior paraventricular nucleus	http://purl.obolibrary.org/obo/UBERON_0002708	posterior periventricular nucleus	
+http://purl.obolibrary.org/obo/DMBA_16442	parafascicular nucleus	http://purl.obolibrary.org/obo/UBERON_0001922	parafascicular nucleus	
+http://purl.obolibrary.org/obo/DMBA_16452	suprageniculate nucleus	http://purl.obolibrary.org/obo/UBERON_0003033	suprageniculate nucleus of thalamus	
+http://purl.obolibrary.org/obo/DMBA_16585	medial pretectal nucleus	http://purl.obolibrary.org/obo/UBERON_0034910	medial pretectal nucleus	
+http://purl.obolibrary.org/obo/DMBA_16586	principal pretectal nucleus	http://purl.obolibrary.org/obo/UBERON_0002572	principal pretectal nucleus	
+http://purl.obolibrary.org/obo/DMBA_16589	olivary pretectal nucleus	http://purl.obolibrary.org/obo/UBERON_0002565	olivary pretectal nucleus	
+http://purl.obolibrary.org/obo/DMBA_16590	dorsal terminal nucleus of the accessory optic tract	http://purl.obolibrary.org/obo/UBERON_0013599	dorsal accessory nucleus of optic tract	
+http://purl.obolibrary.org/obo/DMBA_16598	intermediate pretectal nucleus	http://purl.obolibrary.org/obo/UBERON_0035562	intermediate pretectal nucleus	
+http://purl.obolibrary.org/obo/DMBA_16698	central nucleus of the inferior colliculus	http://purl.obolibrary.org/obo/UBERON_0002563	central nucleus of inferior colliculus	
+http://purl.obolibrary.org/obo/MBA_1008	"geniculate group, dorsal thalamus"	http://purl.obolibrary.org/obo/UBERON_0002704	metathalamus	
+http://purl.obolibrary.org/obo/MBA_1061	posterior pretectal nucleus	http://purl.obolibrary.org/obo/UBERON_0006848	posterior pretectal nucleus	
+http://purl.obolibrary.org/obo/MBA_1072	"medial geniculate complex, dorsal part"	http://purl.obolibrary.org/obo/UBERON_0002758	dorsal nucleus of medial geniculate body	
+http://purl.obolibrary.org/obo/MBA_1079	"medial geniculate complex, ventral part"	http://purl.obolibrary.org/obo/UBERON_0002985	ventral nucleus of medial geniculate body	
+http://purl.obolibrary.org/obo/MBA_1088	"medial geniculate complex, medial part"	http://purl.obolibrary.org/obo/UBERON_0002759	magnocellular nucleus of medial geniculate body	
+http://purl.obolibrary.org/obo/MBA_118	"periventricular hypothalamic nucleus, intermediate part"	http://purl.obolibrary.org/obo/UBERON_0002746	intermediate periventricular nucleus	
+http://purl.obolibrary.org/obo/MBA_126	"periventricular hypothalamic nucleus, posterior part"	http://purl.obolibrary.org/obo/UBERON_0002708	posterior periventricular nucleus	
+http://purl.obolibrary.org/obo/MBA_133	"periventricular hypothalamic nucleus, preoptic part"	http://purl.obolibrary.org/obo/UBERON_0002622	preoptic periventricular nucleus	
+http://purl.obolibrary.org/obo/MBA_138	lateral group of the dorsal thalamus	http://purl.obolibrary.org/obo/UBERON_0002736	lateral nuclear group of thalamus	
+http://purl.obolibrary.org/obo/MBA_149	paraventricular nucleus of the thalamus	http://purl.obolibrary.org/obo/UBERON_0001920	paraventricular nucleus of thalamus	
+http://purl.obolibrary.org/obo/MBA_15	parataenial nucleus	http://purl.obolibrary.org/obo/UBERON_0002992	paratenial nucleus	
+http://purl.obolibrary.org/obo/MBA_155	lateral dorsal nucleus of thalamus	http://purl.obolibrary.org/obo/UBERON_0002984	lateral dorsal nucleus	
+http://purl.obolibrary.org/obo/MBA_170	dorsal part of the lateral geniculate complex	http://purl.obolibrary.org/obo/UBERON_0002479	dorsal lateral geniculate nucleus	
+http://purl.obolibrary.org/obo/MBA_178	ventral part of the lateral geniculate complex	http://purl.obolibrary.org/obo/UBERON_0002480	ventral lateral geniculate nucleus	
+http://purl.obolibrary.org/obo/MBA_181	nucleus of reunions	http://purl.obolibrary.org/obo/UBERON_0001921	reuniens nucleus	
+http://purl.obolibrary.org/obo/MBA_186	lateral habenula	http://purl.obolibrary.org/obo/UBERON_0001941	lateral habenular nucleus	
+http://purl.obolibrary.org/obo/MBA_189	rhomboid nucleus	http://purl.obolibrary.org/obo/UBERON_0002955	rhomboidal nucleus	
+http://purl.obolibrary.org/obo/MBA_210	lateral mammillary nucleus	http://purl.obolibrary.org/obo/UBERON_0001938	lateral mammillary nucleus	
+http://purl.obolibrary.org/obo/MBA_218	lateral posterior nucleus of the thalamus	http://purl.obolibrary.org/obo/UBERON_0002983	lateral posterior nucleus of thalamus	
+http://purl.obolibrary.org/obo/MBA_226	lateral preoptic area	http://purl.obolibrary.org/obo/UBERON_0001931	lateral preoptic nucleus	
+http://purl.obolibrary.org/obo/MBA_262	reticular nucleus of the thalamus	http://purl.obolibrary.org/obo/UBERON_0001903	thalamic reticular nucleus	
+http://purl.obolibrary.org/obo/MBA_286	suprachiasmatic nucleus	http://purl.obolibrary.org/obo/UBERON_0002034	suprachiasmatic nucleus	
+http://purl.obolibrary.org/obo/MBA_325	suprageniculate nucleus	http://purl.obolibrary.org/obo/UBERON_0003033	suprageniculate nucleus of thalamus	
+http://purl.obolibrary.org/obo/MBA_362	mediodorsal nucleus of thalamus	http://purl.obolibrary.org/obo/UBERON_0002739	medial dorsal nucleus of thalamus	
+http://purl.obolibrary.org/obo/MBA_366	submedial nucleus of the thalamus	http://purl.obolibrary.org/obo/UBERON_0003031	submedial nucleus of thalamus	
+http://purl.obolibrary.org/obo/MBA_38	paraventricular hypothalamic nucleus	http://purl.obolibrary.org/obo/UBERON_0001930	paraventricular nucleus of hypothalamus	
+http://purl.obolibrary.org/obo/MBA_390	supraoptic nucleus	http://purl.obolibrary.org/obo/UBERON_0001929	supraoptic nucleus	
+http://purl.obolibrary.org/obo/MBA_406	subparafascicular nucleus	http://purl.obolibrary.org/obo/UBERON_0016641	subparafascicular nucleus	
+http://purl.obolibrary.org/obo/MBA_432	nucleus circularis	http://purl.obolibrary.org/obo/UBERON_0035596	circular nucleus of antherior hypothalamic nucleus	
+http://purl.obolibrary.org/obo/MBA_452	median preoptic nucleus	http://purl.obolibrary.org/obo/UBERON_0002625	median preoptic nucleus	
+http://purl.obolibrary.org/obo/MBA_470	subthalamic nucleus	http://purl.obolibrary.org/obo/UBERON_0001906	subthalamic nucleus	
+http://purl.obolibrary.org/obo/MBA_483	medial habenula	http://purl.obolibrary.org/obo/UBERON_0001942	medial habenular nucleus	
+http://purl.obolibrary.org/obo/MBA_491	medial mammillary nucleus	http://purl.obolibrary.org/obo/UBERON_0001939	medial mammillary nucleus	
+http://purl.obolibrary.org/obo/MBA_51	intralaminar nuclei of the dorsal thalamus	http://purl.obolibrary.org/obo/UBERON_0002733	intralaminar nuclear group	
+http://purl.obolibrary.org/obo/MBA_515	medial preoptic nucleus	http://purl.obolibrary.org/obo/UBERON_0002035	medial preoptic nucleus	
+http://purl.obolibrary.org/obo/MBA_525	supramammillary nucleus	http://purl.obolibrary.org/obo/UBERON_0001940	supramammillary nucleus	
+http://purl.obolibrary.org/obo/MBA_557	tuberomammillary nucleus	http://purl.obolibrary.org/obo/UBERON_0001936	tuberomammillary nucleus	
+http://purl.obolibrary.org/obo/MBA_571	midline group of the dorsal thalamus	http://purl.obolibrary.org/obo/UBERON_0002705	midline nuclear group	
+http://purl.obolibrary.org/obo/MBA_575	central lateral nucleus of the thalamus	http://purl.obolibrary.org/obo/UBERON_0003036	central lateral nucleus	
+http://purl.obolibrary.org/obo/MBA_58	medial terminal nucleus of the accessory optic tract	http://purl.obolibrary.org/obo/UBERON_0013601	medial accessory nucleus of optic tract	
+http://purl.obolibrary.org/obo/MBA_599	central medial nucleus of the thalamus	http://purl.obolibrary.org/obo/UBERON_0001923	central medial nucleus	
+http://purl.obolibrary.org/obo/MBA_628	nucleus of the optic tract	http://purl.obolibrary.org/obo/UBERON_0002996	nucleus of optic tract	
+http://purl.obolibrary.org/obo/MBA_637	ventral group of the dorsal thalamus	http://purl.obolibrary.org/obo/UBERON_0002776	ventral nuclear group	
+http://purl.obolibrary.org/obo/MBA_66	lateral terminal nucleus of the accessory optic tract	http://purl.obolibrary.org/obo/UBERON_0013600	lateral accessory nucleus of optic tract	
+http://purl.obolibrary.org/obo/MBA_693	ventromedial hypothalamic nucleus	http://purl.obolibrary.org/obo/UBERON_0001935	ventromedial nucleus of hypothalamus	
+http://purl.obolibrary.org/obo/MBA_706	olivary pretectal nucleus	http://purl.obolibrary.org/obo/UBERON_0002565	olivary pretectal nucleus	
+http://purl.obolibrary.org/obo/MBA_709	ventral posterior complex of the thalamus	http://purl.obolibrary.org/obo/UBERON_0002596	ventral posterior nucleus of thalamus	
+http://purl.obolibrary.org/obo/MBA_718	ventral posterolateral nucleus of the thalamus	http://purl.obolibrary.org/obo/UBERON_0002942	ventral posterolateral nucleus	
+http://purl.obolibrary.org/obo/MBA_733	ventral posteromedial nucleus of the thalamus	http://purl.obolibrary.org/obo/UBERON_0002945	ventral posteromedial nucleus of thalamus	
+http://purl.obolibrary.org/obo/MBA_797	zona incerta	http://purl.obolibrary.org/obo/UBERON_0001907	zona incerta	
+http://purl.obolibrary.org/obo/MBA_830	dorsomedial nucleus of the hypothalamus	http://purl.obolibrary.org/obo/UBERON_0001934	dorsomedial nucleus of hypothalamus	
+http://purl.obolibrary.org/obo/MBA_907	paracentral nucleus	http://purl.obolibrary.org/obo/UBERON_0001924	paracentral nucleus	
+http://purl.obolibrary.org/obo/MBA_930	parafascicular nucleus	http://purl.obolibrary.org/obo/UBERON_0001922	parafascicular nucleus	
+http://purl.obolibrary.org/obo/MBA_946	posterior hypothalamic nucleus	http://purl.obolibrary.org/obo/UBERON_0002706	posterior nucleus of hypothalamus	
+http://purl.obolibrary.org/obo/MBA_980	dorsal premammillary nucleus	http://purl.obolibrary.org/obo/UBERON_0007767	dorsal premammillary nucleus	
+http://purl.obolibrary.org/obo/MBA_1093	"pontine reticular nucleus, caudal part"	http://purl.obolibrary.org/obo/UBERON_0002963	caudal pontine reticular nucleus	
+http://purl.obolibrary.org/obo/MBA_795	periaqueductal gray	http://purl.obolibrary.org/obo/UBERON_0003040	central gray substance of midbrain	
+http://purl.obolibrary.org/obo/MBA_811	"inferior colliculus, central nucleus"	http://purl.obolibrary.org/obo/UBERON_0002563	central nucleus of inferior colliculus	
+http://purl.obolibrary.org/obo/MBA_617	"mediodorsal nucleus of the thalamus, central part"	http://purl.obolibrary.org/obo/UBERON_0035113	central part of mediodorsal nucleus of the thalamus	
+http://purl.obolibrary.org/obo/DMBA_17754	cerebellar commissure	http://purl.obolibrary.org/obo/UBERON_0006847	cerebellar commissure	
+http://purl.obolibrary.org/obo/MBA_744	cerebellar commissure	http://purl.obolibrary.org/obo/UBERON_0006847	cerebellar commissure	
+http://purl.obolibrary.org/obo/DMBA_16920	cerebellar hemisphere	http://purl.obolibrary.org/obo/UBERON_0002245	cerebellar hemisphere	
+http://purl.obolibrary.org/obo/MBA_1073	hemispheric regions	http://purl.obolibrary.org/obo/UBERON_0002245	cerebellar hemisphere	
+http://purl.obolibrary.org/obo/MBA_752	cerebellar peduncles	http://purl.obolibrary.org/obo/UBERON_0007416	cerebellar peduncle	
+http://purl.obolibrary.org/obo/DMBA_16814	cerebellar vermis	http://purl.obolibrary.org/obo/UBERON_0004720	cerebellar vermis	
+http://purl.obolibrary.org/obo/MBA_645	vermal regions	http://purl.obolibrary.org/obo/UBERON_0004720	cerebellar vermis	
+http://purl.obolibrary.org/obo/MBA_512	cerebellum	http://purl.obolibrary.org/obo/UBERON_0002037	cerebellum	
+http://purl.obolibrary.org/obo/DMBA_16932	posterior part of Int	http://purl.obolibrary.org/obo/UBERON_0002613	cerebellum globose nucleus	
+http://purl.obolibrary.org/obo/DMBA_16943	paramedian lobule	http://purl.obolibrary.org/obo/UBERON_0005349	paramedian lobule	
+http://purl.obolibrary.org/obo/MBA_1025	paramedian lobule	http://purl.obolibrary.org/obo/UBERON_0005349	paramedian lobule	
+http://purl.obolibrary.org/obo/MBA_403	medial amygdalar nucleus	http://purl.obolibrary.org/obo/UBERON_0002892	medial amygdaloid nucleus	
+http://purl.obolibrary.org/obo/DMBA_15858	ventral striatum	http://purl.obolibrary.org/obo/UBERON_0005403	ventral striatum	
+http://purl.obolibrary.org/obo/MBA_493	striatum ventral region	http://purl.obolibrary.org/obo/UBERON_0005403	ventral striatum	
+http://purl.obolibrary.org/obo/MBA_924	cerebal peduncle	http://purl.obolibrary.org/obo/UBERON_0002623	cerebral peduncle	
+http://purl.obolibrary.org/obo/DMBA_16072	cingulate cortex	http://purl.obolibrary.org/obo/UBERON_0003027	cingulate cortex	
+http://purl.obolibrary.org/obo/MBA_940	cingulum bundle	http://purl.obolibrary.org/obo/UBERON_0003961	cingulum of brain	
+http://purl.obolibrary.org/obo/MBA_1033	copula pyramidis	http://purl.obolibrary.org/obo/UBERON_0005347	copula pyramidis	
+http://purl.obolibrary.org/obo/MBA_1036	corticotectal tract	http://purl.obolibrary.org/obo/UBERON_0002556	corticotectal tract	
+http://purl.obolibrary.org/obo/MBA_711	cuneate nucleus	http://purl.obolibrary.org/obo/UBERON_0002045	cuneate nucleus	
+http://purl.obolibrary.org/obo/DMBA_16777	cuneiform nucleus	http://purl.obolibrary.org/obo/UBERON_0002696	cuneiform nucleus	
+http://purl.obolibrary.org/obo/MBA_616	cuneiform nucleus	http://purl.obolibrary.org/obo/UBERON_0002696	cuneiform nucleus	
+http://purl.obolibrary.org/obo/MBA_812	superior cerebellar peduncle decussation	http://purl.obolibrary.org/obo/UBERON_0002588	decussation of superior cerebellar peduncle	
+http://purl.obolibrary.org/obo/DMBA_16115	dentate gyrus	http://purl.obolibrary.org/obo/UBERON_0001885	dentate gyrus of hippocampal formation	
+http://purl.obolibrary.org/obo/MBA_726	dentate gyrus	http://purl.obolibrary.org/obo/UBERON_0001885	dentate gyrus of hippocampal formation	
+http://purl.obolibrary.org/obo/MBA_10702	"dentate gyrus, subgranular zone"	http://purl.obolibrary.org/obo/UBERON_0009952	dentate gyrus subgranular zone	
+http://purl.obolibrary.org/obo/DMBA_16629	nucleus of Darkschewitsch	http://purl.obolibrary.org/obo/UBERON_0002044	ventral nucleus of posterior commissure	
+http://purl.obolibrary.org/obo/MBA_587	nucleus of Darkschewitsch	http://purl.obolibrary.org/obo/UBERON_0002044	ventral nucleus of posterior commissure	
+http://purl.obolibrary.org/obo/MBA_634	nucleus of the posterior commissure	http://purl.obolibrary.org/obo/UBERON_0002711	nucleus of posterior commissure	
+http://purl.obolibrary.org/obo/DMBA_16308	diencephalon	http://purl.obolibrary.org/obo/UBERON_0001894	diencephalon	
+http://purl.obolibrary.org/obo/MBA_1129	interbrain	http://purl.obolibrary.org/obo/UBERON_0001894	diencephalon	
+http://purl.obolibrary.org/obo/DMBA_16853	Koelliker-Fuse nucleus	http://purl.obolibrary.org/obo/UBERON_0002869	diffuse reticular nucleus	
+http://purl.obolibrary.org/obo/MBA_1011	dorsal auditory area	http://purl.obolibrary.org/obo/UBERON_0035885	dorsal auditory area	
+http://purl.obolibrary.org/obo/MBA_678	"dorsal auditory area, layer 4"	http://purl.obolibrary.org/obo/UBERON_0035917	"dorsal auditory area, layer 4"	
+http://purl.obolibrary.org/obo/MBA_547	dorsal longitudinal fascicle	http://purl.obolibrary.org/obo/UBERON_0003045	dorsal longitudinal fasciculus	
+http://purl.obolibrary.org/obo/DMBA_16860	dorsal nucleus of the lateral lemniscus	http://purl.obolibrary.org/obo/UBERON_0003006	dorsal nucleus of lateral lemniscus	
+http://purl.obolibrary.org/obo/MBA_82	"nucleus of the lateral lemniscus, dorsal part"	http://purl.obolibrary.org/obo/UBERON_0003006	dorsal nucleus of lateral lemniscus	
+http://purl.obolibrary.org/obo/MBA_818	"pallidum, dorsal region"	http://purl.obolibrary.org/obo/UBERON_0006516	dorsal pallidum	
+http://purl.obolibrary.org/obo/MBA_970	"paragigantocellular reticular nucleus, dorsal part"	http://purl.obolibrary.org/obo/UBERON_0016825	dorsal paragigantocellular nucleus	
+http://purl.obolibrary.org/obo/DMBA_16376	thalamus	http://purl.obolibrary.org/obo/UBERON_0001897	dorsal plus ventral thalamus	
+http://purl.obolibrary.org/obo/MBA_549	thalamus	http://purl.obolibrary.org/obo/UBERON_0001897	dorsal plus ventral thalamus	
+http://purl.obolibrary.org/obo/MBA_872	dorsal nucleus raphe	http://purl.obolibrary.org/obo/UBERON_0002043	dorsal raphe nucleus	
+http://purl.obolibrary.org/obo/MBA_825	"supraoptic commissures, dorsal"	http://purl.obolibrary.org/obo/UBERON_0002697	dorsal supraoptic decussation	
+http://purl.obolibrary.org/obo/MBA_926	"entorhinal area, medial part, dorsal zone"	http://purl.obolibrary.org/obo/UBERON_0018262	dorsal zone of medial entorhinal cortex	
+http://purl.obolibrary.org/obo/DMBA_16102	entorhinal cortex	http://purl.obolibrary.org/obo/UBERON_0002728	entorhinal cortex	
+http://purl.obolibrary.org/obo/MBA_909	entorhinal area	http://purl.obolibrary.org/obo/UBERON_0002728	entorhinal cortex	
+http://purl.obolibrary.org/obo/MBA_958	epithalamus	http://purl.obolibrary.org/obo/UBERON_0001899	epithalamus	
+http://purl.obolibrary.org/obo/MBA_1092	external medullary lamina of the thalamus	http://purl.obolibrary.org/obo/UBERON_0014534	external medullary lamina of thalamus	
+http://purl.obolibrary.org/obo/MBA_828	"inferior colliculus, external nucleus"	http://purl.obolibrary.org/obo/UBERON_0002571	external nucleus of inferior colliculus	
+http://purl.obolibrary.org/obo/MBA_1000	extrapyramidal fiber systems	http://purl.obolibrary.org/obo/UBERON_0035803	extrapyramidal tract system	
+http://purl.obolibrary.org/obo/MBA_798	facial nerve	http://purl.obolibrary.org/obo/UBERON_0001647	facial nerve	
+http://purl.obolibrary.org/obo/DMBA_16946	flocculus	http://purl.obolibrary.org/obo/UBERON_0001063	flocculus	
+http://purl.obolibrary.org/obo/MBA_1049	flocculus	http://purl.obolibrary.org/obo/UBERON_0001063	flocculus	
+http://purl.obolibrary.org/obo/DMBA_15566	forebrain	http://purl.obolibrary.org/obo/UBERON_0001890	forebrain	
+http://purl.obolibrary.org/obo/DMBA_126651782	"ventricles, hindbrain"	http://purl.obolibrary.org/obo/UBERON_0002422	fourth ventricle	
+http://purl.obolibrary.org/obo/MBA_145	fourth ventricle	http://purl.obolibrary.org/obo/UBERON_0002422	fourth ventricle	
+http://purl.obolibrary.org/obo/MBA_184	"frontal pole, cerebral cortex"	http://purl.obolibrary.org/obo/UBERON_0002795	frontal pole	
+http://purl.obolibrary.org/obo/MBA_998	fundus of striatum	http://purl.obolibrary.org/obo/UBERON_0014605	fundus striati	
+http://purl.obolibrary.org/obo/MBA_674	"nucleus of the solitary tract, gelatinous part"	http://purl.obolibrary.org/obo/UBERON_0009051	gelatinous nucleus of solitary tract	
+http://purl.obolibrary.org/obo/MBA_1108	genu of corpus callosum	http://purl.obolibrary.org/obo/UBERON_0015599	genu of corpus callosum	
+http://purl.obolibrary.org/obo/MBA_808	glossopharyngeal nerve	http://purl.obolibrary.org/obo/UBERON_0001649	glossopharyngeal nerve	
+http://purl.obolibrary.org/obo/MBA_1039	gracile nucleus	http://purl.obolibrary.org/obo/UBERON_0002161	gracile nucleus	
+http://purl.obolibrary.org/obo/DMBA_17790	retroflex tract (habenulo-interpeduncular) tract	http://purl.obolibrary.org/obo/UBERON_0002138	habenulo-interpeduncular tract	
+http://purl.obolibrary.org/obo/MBA_595	fasciculus retroflexus	http://purl.obolibrary.org/obo/UBERON_0002138	habenulo-interpeduncular tract	
+http://purl.obolibrary.org/obo/DMBA_16808	hindbrain	http://purl.obolibrary.org/obo/UBERON_0002028	hindbrain	
+http://purl.obolibrary.org/obo/MBA_1065	hindbrain	http://purl.obolibrary.org/obo/UBERON_0002028	hindbrain	
+http://purl.obolibrary.org/obo/DMBA_16903	trochlear nucleus	http://purl.obolibrary.org/obo/UBERON_0002722	trochlear nucleus	
+http://purl.obolibrary.org/obo/DMBA_17007	ventral tegmental nucleus	http://purl.obolibrary.org/obo/UBERON_0002438	ventral tegmental nucleus	
+http://purl.obolibrary.org/obo/MBA_115	trochlear nucleus	http://purl.obolibrary.org/obo/UBERON_0002722	trochlear nucleus	
+http://purl.obolibrary.org/obo/MBA_757	ventral tegmental nucleus	http://purl.obolibrary.org/obo/UBERON_0002438	ventral tegmental nucleus	
+http://purl.obolibrary.org/obo/MBA_1089	hippocampal formation	http://purl.obolibrary.org/obo/UBERON_0002421	hippocampal formation	
+http://purl.obolibrary.org/obo/MBA_1063	hippocampal fissure	http://purl.obolibrary.org/obo/UBERON_0002899	hippocampal sulcus	
+http://purl.obolibrary.org/obo/MBA_813	hypoglossal nerve	http://purl.obolibrary.org/obo/UBERON_0001650	hypoglossal nerve	
+http://purl.obolibrary.org/obo/MBA_1097	hypothalamus	http://purl.obolibrary.org/obo/UBERON_0001898	hypothalamus	
+http://purl.obolibrary.org/obo/DMBA_16692	inferior colliculus	http://purl.obolibrary.org/obo/UBERON_0001946	inferior colliculus	
+http://purl.obolibrary.org/obo/MBA_4	inferior colliculus	http://purl.obolibrary.org/obo/UBERON_0001946	inferior colliculus	
+http://purl.obolibrary.org/obo/MBA_1113	interanterodorsal nucleus of the thalamus	http://purl.obolibrary.org/obo/UBERON_0035972	interanterodorsal nucleus of the thalamus	
+http://purl.obolibrary.org/obo/MBA_27	intergeniculate leaflet of the lateral geniculate complex	http://purl.obolibrary.org/obo/UBERON_0035975	intergeniculate leaflet of the lateral geniculate complex	
+http://purl.obolibrary.org/obo/MBA_90	"nucleus of the lateral lemniscus, horizontal part"	http://purl.obolibrary.org/obo/UBERON_0007710	intermediate nucleus of lateral lemniscus	
+http://purl.obolibrary.org/obo/MBA_14	internal medullary lamina of the thalamus	http://purl.obolibrary.org/obo/UBERON_0002762	internal medullary lamina of thalamus	
+http://purl.obolibrary.org/obo/MBA_100	interpeduncular nucleus	http://purl.obolibrary.org/obo/UBERON_0002145	interpeduncular nucleus	
+http://purl.obolibrary.org/obo/MBA_67	interstitial nucleus of Cajal	http://purl.obolibrary.org/obo/UBERON_0002551	interstitial nucleus of Cajal	
+http://purl.obolibrary.org/obo/MBA_124	interventricular foramen	http://purl.obolibrary.org/obo/UBERON_0003993	interventricular foramen of CNS	
+http://purl.obolibrary.org/obo/MBA_489	major island of Calleja	http://purl.obolibrary.org/obo/UBERON_0023868	isla magna of Calleja	
+http://purl.obolibrary.org/obo/MBA_1019	"corticospinal tract, crossed"	http://purl.obolibrary.org/obo/UBERON_0002589	lateral corticospinal tract	
+http://purl.obolibrary.org/obo/MBA_918	"entorhinal area, lateral part"	http://purl.obolibrary.org/obo/UBERON_0007225	lateral entorhinal cortex	
+http://purl.obolibrary.org/obo/MBA_194	lateral hypothalamic area	http://purl.obolibrary.org/obo/UBERON_0002430	lateral hypothalamic area	
+http://purl.obolibrary.org/obo/DMBA_15956	lateral pallium	http://purl.obolibrary.org/obo/UBERON_0014741	lateral pallium	
+http://purl.obolibrary.org/obo/DMBA_16852	lateral parabrachial nucleus	http://purl.obolibrary.org/obo/UBERON_0003007	lateral parabrachial nucleus	
+http://purl.obolibrary.org/obo/MBA_881	"parabrachial nucleus, lateral division"	http://purl.obolibrary.org/obo/UBERON_0003007	lateral parabrachial nucleus	
+http://purl.obolibrary.org/obo/MBA_978	"paragigantocellular reticular nucleus, lateral part"	http://purl.obolibrary.org/obo/UBERON_0016824	lateral paragigantocellular nucleus	
+http://purl.obolibrary.org/obo/DMBA_15731	lateral part of MM	http://purl.obolibrary.org/obo/UBERON_0002664	lateral part of medial mammillary nucleus	
+http://purl.obolibrary.org/obo/MBA_626	"mediodorsal nucleus of the thalamus, lateral part"	http://purl.obolibrary.org/obo/UBERON_0035114	lateral part of mediodorsal nucleus of the thalamus	
+http://purl.obolibrary.org/obo/DMBA_17690	lateral spinal nucleus	http://purl.obolibrary.org/obo/UBERON_0035024	lateral spinal nucleus	
+http://purl.obolibrary.org/obo/DMBA_16271	lateral tuberal nucleus	http://purl.obolibrary.org/obo/UBERON_0000435	lateral tuberal nucleus	
+http://purl.obolibrary.org/obo/MBA_409	lateral visual area	http://purl.obolibrary.org/obo/UBERON_0035895	lateral visual area	
+http://purl.obolibrary.org/obo/MBA_573	"lateral visual area, layer 4"	http://purl.obolibrary.org/obo/UBERON_0035915	"lateral visual area, layer 4"	
+http://purl.obolibrary.org/obo/MBA_613	"lateral visual area, layer 5"	http://purl.obolibrary.org/obo/UBERON_0035916	"lateral visual area, layer 5"	
+http://purl.obolibrary.org/obo/MBA_74	"lateral visual area, layer 6a"	http://purl.obolibrary.org/obo/UBERON_0035918	"lateral visual area, layer 6a"	
+http://purl.obolibrary.org/obo/MBA_290	hypothalamic lateral zone	http://purl.obolibrary.org/obo/UBERON_0002273	lateral zone of hypothalamus	
+http://purl.obolibrary.org/obo/DMBA_16940	simple lobule	http://purl.obolibrary.org/obo/UBERON_0005350	lobule simplex	
+http://purl.obolibrary.org/obo/MBA_1007	simple lobule	http://purl.obolibrary.org/obo/UBERON_0005350	lobule simplex	
+http://purl.obolibrary.org/obo/MBA_636	"mediodorsal nucleus of the thalamus, medial part"	http://purl.obolibrary.org/obo/UBERON_0002647	magnocellular part of medial dorsal nucleus	
+http://purl.obolibrary.org/obo/DMBA_16737	"red nucleus, magnocellular part"	http://purl.obolibrary.org/obo/UBERON_0002936	magnocellular part of red nucleus	
+http://purl.obolibrary.org/obo/MBA_507	main olfactory bulb	http://purl.obolibrary.org/obo/UBERON_0009951	main olfactory bulb	
+http://purl.obolibrary.org/obo/DMBA_15723	mammillary area	http://purl.obolibrary.org/obo/UBERON_0002206	mammillary body	
+http://purl.obolibrary.org/obo/MBA_331	mammillary body	http://purl.obolibrary.org/obo/UBERON_0002206	mammillary body	
+http://purl.obolibrary.org/obo/DMBA_17780	mammillary peduncle	http://purl.obolibrary.org/obo/UBERON_0002720	mammillary peduncle	
+http://purl.obolibrary.org/obo/MBA_673	mammillary peduncle	http://purl.obolibrary.org/obo/UBERON_0002720	mammillary peduncle	
+http://purl.obolibrary.org/obo/MBA_753	principal mammillary tract	http://purl.obolibrary.org/obo/UBERON_0002723	mammillary princeps fasciculus	
+http://purl.obolibrary.org/obo/DMBA_17781	mammillotegmental tract	http://purl.obolibrary.org/obo/UBERON_0006698	mammillotegmental axonal tract	
+http://purl.obolibrary.org/obo/MBA_681	mammillotegmental tract	http://purl.obolibrary.org/obo/UBERON_0006698	mammillotegmental axonal tract	
+http://purl.obolibrary.org/obo/DMBA_17782	mammillothalamic tract	http://purl.obolibrary.org/obo/UBERON_0006696	mammillothalamic axonal tract	
+http://purl.obolibrary.org/obo/MBA_54	medial forebrain bundle	http://purl.obolibrary.org/obo/UBERON_0001910	medial forebrain bundle	
+http://purl.obolibrary.org/obo/DMBA_16462	medial geniculate nucleus	http://purl.obolibrary.org/obo/UBERON_0001927	medial geniculate body	
+http://purl.obolibrary.org/obo/MBA_475	medial geniculate complex	http://purl.obolibrary.org/obo/UBERON_0001927	medial geniculate body	
+http://purl.obolibrary.org/obo/DMBA_17776	medial lemniscus	http://purl.obolibrary.org/obo/UBERON_0003002	medial lemniscus	
+http://purl.obolibrary.org/obo/MBA_697	medial lemniscus	http://purl.obolibrary.org/obo/UBERON_0003002	medial lemniscus	
+http://purl.obolibrary.org/obo/MBA_62	medial longitudinal fascicle	http://purl.obolibrary.org/obo/UBERON_0002309	medial longitudinal fasciculus	
+http://purl.obolibrary.org/obo/MBA_691	"nucleus of the solitary tract, medial part"	http://purl.obolibrary.org/obo/UBERON_0009052	medial nucleus of solitary tract	
+http://purl.obolibrary.org/obo/DMBA_17779	medial olfactory tract	http://purl.obolibrary.org/obo/UBERON_0034734	medial olfactory stria	
+http://purl.obolibrary.org/obo/DMBA_16850	medial parabrachial nucleus	http://purl.obolibrary.org/obo/UBERON_0002918	medial parabrachial nucleus	
+http://purl.obolibrary.org/obo/MBA_890	"parabrachial nucleus, medial division"	http://purl.obolibrary.org/obo/UBERON_0002918	medial parabrachial nucleus	
+http://purl.obolibrary.org/obo/DMBA_15730	medial part of MM	http://purl.obolibrary.org/obo/UBERON_0002632	medial part of medial mammillary nucleus	
+http://purl.obolibrary.org/obo/MBA_732	"medial mammillary nucleus, median part"	http://purl.obolibrary.org/obo/UBERON_0002632	medial part of medial mammillary nucleus	
+http://purl.obolibrary.org/obo/MBA_685	ventral medial nucleus of the thalamus	http://purl.obolibrary.org/obo/UBERON_0002614	medial part of ventral lateral nucleus	
+http://purl.obolibrary.org/obo/DMBA_15604	medial preoptic nucleus	http://purl.obolibrary.org/obo/UBERON_0002035	medial preoptic nucleus	
+http://purl.obolibrary.org/obo/MBA_523	medial preoptic area	http://purl.obolibrary.org/obo/UBERON_0007769	medial preoptic region	
+http://purl.obolibrary.org/obo/MBA_467	hypothalamic medial zone	http://purl.obolibrary.org/obo/UBERON_0002272	medial zone of hypothalamus	
+http://purl.obolibrary.org/obo/DMBA_15689	median eminence	http://purl.obolibrary.org/obo/UBERON_0002197	median eminence of neurohypophysis	
+http://purl.obolibrary.org/obo/MBA_10671	median eminence	http://purl.obolibrary.org/obo/UBERON_0002197	median eminence of neurohypophysis	
+http://purl.obolibrary.org/obo/DMBA_17352	medullary hindbrain (medulla)	http://purl.obolibrary.org/obo/UBERON_0001896	medulla oblongata	
+http://purl.obolibrary.org/obo/MBA_354	medulla	http://purl.obolibrary.org/obo/UBERON_0001896	medulla oblongata	
+http://purl.obolibrary.org/obo/MBA_460	midbrain trigeminal nucleus	http://purl.obolibrary.org/obo/UBERON_0001718	mesencephalic nucleus of trigeminal nerve	
+http://purl.obolibrary.org/obo/DMBA_16650	mesomere 1	http://purl.obolibrary.org/obo/UBERON_0019272	mesomere 1	
+http://purl.obolibrary.org/obo/DMBA_16751	mesomere 2 (preisthmus or caudal midbrain)	http://purl.obolibrary.org/obo/UBERON_0019274	mesomere 2	
+http://purl.obolibrary.org/obo/DMBA_16649	midbrain	http://purl.obolibrary.org/obo/UBERON_0001891	midbrain	
+http://purl.obolibrary.org/obo/MBA_313	midbrain	http://purl.obolibrary.org/obo/UBERON_0001891	midbrain	
+http://purl.obolibrary.org/obo/DMBA_126651722	"ventricles, midbrain"	http://purl.obolibrary.org/obo/UBERON_0002289	midbrain cerebral aqueduct	
+http://purl.obolibrary.org/obo/MBA_140	cerebral aqueduct	http://purl.obolibrary.org/obo/UBERON_0002289	midbrain cerebral aqueduct	
+http://purl.obolibrary.org/obo/MBA_165	midbrain raphe nuclei	http://purl.obolibrary.org/obo/UBERON_0007412	midbrain raphe nuclei	
+http://purl.obolibrary.org/obo/MBA_93	motor root of the trigeminal nerve	http://purl.obolibrary.org/obo/UBERON_0002796	motor root of trigeminal nerve	
+http://purl.obolibrary.org/obo/MBA_315	isocortex	http://purl.obolibrary.org/obo/UBERON_0001950	neocortex	
+http://purl.obolibrary.org/obo/DMBA_15652	optic fiber layer	http://purl.obolibrary.org/obo/UBERON_0001793	nerve fiber layer of retina	
+http://purl.obolibrary.org/obo/MBA_229	sensory root of the trigeminal nerve	http://purl.obolibrary.org/obo/UBERON_0009907	sensory root of trigeminal nerve	
+http://purl.obolibrary.org/obo/MBA_794	spinal tract of the trigeminal nerve	http://purl.obolibrary.org/obo/UBERON_0014761	spinal trigeminal tract	
+http://purl.obolibrary.org/obo/MBA_885	terminal nerve	http://purl.obolibrary.org/obo/UBERON_0002924	terminal nerve	
+http://purl.obolibrary.org/obo/DMBA_15565	neural plate	http://purl.obolibrary.org/obo/UBERON_0003075	neural plate	
+http://purl.obolibrary.org/obo/DMBA_15691	neurohypophysis	http://purl.obolibrary.org/obo/UBERON_0002198	neurohypophysis	
+http://purl.obolibrary.org/obo/MBA_102	nigrostriatal tract	http://purl.obolibrary.org/obo/UBERON_0014169	nigrostriatal tract	
+http://purl.obolibrary.org/obo/MBA_128	midbrain reticular nucleus	http://purl.obolibrary.org/obo/UBERON_0007415	nucleus of midbrain reticular formation	
+http://purl.obolibrary.org/obo/MBA_580	nucleus of the brachium of the inferior colliculus	http://purl.obolibrary.org/obo/UBERON_0036012	nucleus of the brachium of the inferior colliculus	
+http://purl.obolibrary.org/obo/DMBA_16342	peripeduncular nucleus	http://purl.obolibrary.org/obo/UBERON_0002144	peripeduncular nucleus	
+http://purl.obolibrary.org/obo/MBA_832	oculomotor nerve	http://purl.obolibrary.org/obo/UBERON_0001643	oculomotor nerve	
+http://purl.obolibrary.org/obo/MBA_35	oculomotor nucleus	http://purl.obolibrary.org/obo/UBERON_0001715	oculomotor nuclear complex	
+http://purl.obolibrary.org/obo/MBA_840	olfactory nerve	http://purl.obolibrary.org/obo/UBERON_0001579	olfactory nerve	
+http://purl.obolibrary.org/obo/MBA_552	"pontine reticular nucleus, ventral part"	http://purl.obolibrary.org/obo/UBERON_0002999	oral pontine reticular nucleus	
+http://purl.obolibrary.org/obo/MBA_134	pallidotegmental fascicle	http://purl.obolibrary.org/obo/UBERON_0002671	pallidotegmental fasciculus	
+http://purl.obolibrary.org/obo/DMBA_15903	pallium	http://purl.obolibrary.org/obo/UBERON_0000203	pallium	
+http://purl.obolibrary.org/obo/DMBA_16945	paraflocculus	http://purl.obolibrary.org/obo/UBERON_0005351	paraflocculus	
+http://purl.obolibrary.org/obo/MBA_1041	paraflocculus	http://purl.obolibrary.org/obo/UBERON_0005351	paraflocculus	
+http://purl.obolibrary.org/obo/DMBA_16186	parasubiculum	http://purl.obolibrary.org/obo/UBERON_0004683	parasubiculum	
+http://purl.obolibrary.org/obo/MBA_843	parasubiculum	http://purl.obolibrary.org/obo/UBERON_0004683	parasubiculum	
+http://purl.obolibrary.org/obo/MBA_63	"paraventricular hypothalamic nucleus, descending division"	http://purl.obolibrary.org/obo/UBERON_0014602	paraventricular nucleus of the hypothalamus descending division	
+http://purl.obolibrary.org/obo/MBA_439	"paraventricular hypothalamic nucleus, descending division, dorsal parvicellular part"	http://purl.obolibrary.org/obo/UBERON_0014596	paraventricular nucleus of the hypothalamus descending division - dorsal parvicellular part	
+http://purl.obolibrary.org/obo/MBA_447	"paraventricular hypothalamic nucleus, descending division, forniceal part"	http://purl.obolibrary.org/obo/UBERON_0014598	paraventricular nucleus of the hypothalamus descending division - forniceal part	
+http://purl.obolibrary.org/obo/MBA_455	"paraventricular hypothalamic nucleus, descending division, lateral parvicellular part"	http://purl.obolibrary.org/obo/UBERON_0014597	paraventricular nucleus of the hypothalamus descending division - lateral parvicellular part	
+http://purl.obolibrary.org/obo/MBA_464	"paraventricular hypothalamic nucleus, descending division, medial parvicellular part, ventral zone"	http://purl.obolibrary.org/obo/UBERON_0014595	"paraventricular nucleus of the hypothalamus descending division - medial parvicellular part, ventral zone"	
+http://purl.obolibrary.org/obo/MBA_71	"paraventricular hypothalamic nucleus, magnocellular division"	http://purl.obolibrary.org/obo/UBERON_0014603	paraventricular nucleus of the hypothalamus magnocellular division	
+http://purl.obolibrary.org/obo/MBA_47	"paraventricular hypothalamic nucleus, magnocellular division, anterior magnocellular part"	http://purl.obolibrary.org/obo/UBERON_0014599	paraventricular nucleus of the hypothalamus magnocellular division - anterior magnocellular part	
+http://purl.obolibrary.org/obo/MBA_79	"paraventricular hypothalamic nucleus, magnocellular division, medial magnocellular part"	http://purl.obolibrary.org/obo/UBERON_0014600	paraventricular nucleus of the hypothalamus magnocellular division - medial magnocellular part	
+http://purl.obolibrary.org/obo/MBA_103	"paraventricular hypothalamic nucleus, magnocellular division, posterior magnocellular part"	http://purl.obolibrary.org/obo/UBERON_0014601	paraventricular nucleus of the hypothalamus magnocellular division - posterior magnocellular part	
+http://purl.obolibrary.org/obo/MBA_94	"paraventricular hypothalamic nucleus, parvicellular division"	http://purl.obolibrary.org/obo/UBERON_0014604	paraventricular nucleus of the hypothalamus parvicellular division	
+http://purl.obolibrary.org/obo/MBA_741	"ventral posteromedial nucleus of the thalamus, parvicellular part"	http://purl.obolibrary.org/obo/UBERON_0003018	parvicellular part of ventral posteromedial nucleus	
+http://purl.obolibrary.org/obo/MBA_975	edinger-Westphal nucleus	http://purl.obolibrary.org/obo/UBERON_0002141	parvocellular oculomotor nucleus	
+http://purl.obolibrary.org/obo/DMBA_16633	"red nucleus, parvicellular part"	http://purl.obolibrary.org/obo/UBERON_0002938	parvocellular part of red nucleus	
+http://purl.obolibrary.org/obo/MBA_852	parvicellular reticular nucleus	http://purl.obolibrary.org/obo/UBERON_0016633	parvocellular reticular nucleus	
+http://purl.obolibrary.org/obo/MBA_365	thalamic peduncles	http://purl.obolibrary.org/obo/UBERON_0022236	peduncle of thalamus	
+http://purl.obolibrary.org/obo/MBA_1044	peripeduncular nucleus	http://purl.obolibrary.org/obo/UBERON_0002144	peripeduncular nucleus	
+http://purl.obolibrary.org/obo/MBA_922	perirhinal area	http://purl.obolibrary.org/obo/UBERON_0006083	perirhinal cortex	
+http://purl.obolibrary.org/obo/MBA_157	periventricular zone	http://purl.obolibrary.org/obo/UBERON_0002271	periventricular zone of hypothalamus	
+http://purl.obolibrary.org/obo/MBA_953	pineal body	http://purl.obolibrary.org/obo/UBERON_0001905	pineal body	
+http://purl.obolibrary.org/obo/MBA_730	pineal stalk	http://purl.obolibrary.org/obo/UBERON_0011768	pineal gland stalk	
+http://purl.obolibrary.org/obo/DMBA_15690	infundibulum	http://purl.obolibrary.org/obo/UBERON_0002434	pituitary stalk	
+http://purl.obolibrary.org/obo/MBA_771	pons	http://purl.obolibrary.org/obo/UBERON_0000988	pons	
+http://purl.obolibrary.org/obo/DMBA_17787	posterior commissure	http://purl.obolibrary.org/obo/UBERON_0000936	posterior commissure	
+http://purl.obolibrary.org/obo/MBA_158	posterior commissure	http://purl.obolibrary.org/obo/UBERON_0000936	posterior commissure	
+http://purl.obolibrary.org/obo/MBA_367	"bed nuclei of the stria terminalis, posterior division"	http://purl.obolibrary.org/obo/UBERON_0011177	posterior division of bed nuclei of stria terminalis	
+http://purl.obolibrary.org/obo/MBA_1020	posterior complex of the thalamus	http://purl.obolibrary.org/obo/UBERON_0002709	posterior nuclear complex of thalamus	
+http://purl.obolibrary.org/obo/MBA_22	posterior parietal association areas	http://purl.obolibrary.org/obo/UBERON_0035886	posterior parietal association areas	
+http://purl.obolibrary.org/obo/MBA_425	posterolateral visual area	http://purl.obolibrary.org/obo/UBERON_0035897	posterolateral visual area	
+http://purl.obolibrary.org/obo/MBA_869	"posterolateral visual area, layer 4"	http://purl.obolibrary.org/obo/UBERON_0035919	"posterolateral visual area, layer 4"	
+http://purl.obolibrary.org/obo/MBA_533	posteromedial visual area	http://purl.obolibrary.org/obo/UBERON_0035900	posteromedial visual area	
+http://purl.obolibrary.org/obo/MBA_501	"posteromedial visual area, layer 4"	http://purl.obolibrary.org/obo/UBERON_0035914	"posteromedial visual area, layer 4"	
+http://purl.obolibrary.org/obo/MBA_257	"posteromedial visual area, layer 6a"	http://purl.obolibrary.org/obo/UBERON_0035909	"posteromedial visual area, layer 6a"	
+http://purl.obolibrary.org/obo/MBA_174	preoptic commissure	http://purl.obolibrary.org/obo/UBERON_0003936	postoptic commissure	
+http://purl.obolibrary.org/obo/MBA_312782628	postrhinal area	http://purl.obolibrary.org/obo/UBERON_0035890	postrhinal area	
+http://purl.obolibrary.org/obo/MBA_312782640	"postrhinal area, layer 4"	http://purl.obolibrary.org/obo/UBERON_0035911	"postrhinal area, layer 4"	
+http://purl.obolibrary.org/obo/MBA_1037	postsubiculum	http://purl.obolibrary.org/obo/UBERON_0035971	postsubiculum	
+http://purl.obolibrary.org/obo/MBA_1087	precentral fissure	http://purl.obolibrary.org/obo/UBERON_0014473	precentral fissure of cerebellum	
+http://purl.obolibrary.org/obo/MBA_993	secondary motor area	http://purl.obolibrary.org/obo/UBERON_0016634	premotor cortex	
+http://purl.obolibrary.org/obo/DMBA_15577	preoptic area	http://purl.obolibrary.org/obo/UBERON_0001928	preoptic area	
+http://purl.obolibrary.org/obo/DMBA_16172	presubiculum	http://purl.obolibrary.org/obo/UBERON_0001953	presubiculum	
+http://purl.obolibrary.org/obo/MBA_1084	presubiculum	http://purl.obolibrary.org/obo/UBERON_0001953	presubiculum	
+http://purl.obolibrary.org/obo/DMBA_16510	pretectum	http://purl.obolibrary.org/obo/UBERON_0001944	pretectal region	
+http://purl.obolibrary.org/obo/MBA_1100	pretectal region	http://purl.obolibrary.org/obo/UBERON_0001944	pretectal region	
+http://purl.obolibrary.org/obo/MBA_985	primary motor area	http://purl.obolibrary.org/obo/UBERON_0001384	primary motor cortex	
+http://purl.obolibrary.org/obo/MBA_322	primary somatosensory area	http://purl.obolibrary.org/obo/UBERON_0008933	primary somatosensory cortex	
+http://purl.obolibrary.org/obo/MBA_821	"primary visual area, layer 2/3"	http://purl.obolibrary.org/obo/UBERON_0035907	"primary visual area, layer 2/3"	
+http://purl.obolibrary.org/obo/MBA_721	"primary visual area, layer 4"	http://purl.obolibrary.org/obo/UBERON_0035904	"primary visual area, layer 4"	
+http://purl.obolibrary.org/obo/MBA_778	"primary visual area, layer 5"	http://purl.obolibrary.org/obo/UBERON_0035906	"primary visual area, layer 5"	
+http://purl.obolibrary.org/obo/MBA_33	"primary visual area, layer 6a"	http://purl.obolibrary.org/obo/UBERON_0035892	"primary visual area, layer 6a"	
+http://purl.obolibrary.org/obo/MBA_385	primary visual area	http://purl.obolibrary.org/obo/UBERON_0002436	primary visual cortex	
+http://purl.obolibrary.org/obo/MBA_214	red nucleus	http://purl.obolibrary.org/obo/UBERON_0001947	red nucleus	
+http://purl.obolibrary.org/obo/DMBA_16926	cerebellar white matter	http://purl.obolibrary.org/obo/UBERON_0024045	white matter of the cerebellar cortex	
+http://purl.obolibrary.org/obo/MBA_514	dorsal column	http://purl.obolibrary.org/obo/UBERON_0005373	spinal cord dorsal column	
+http://purl.obolibrary.org/obo/MBA_858	ventral commissure of the spinal cord	http://purl.obolibrary.org/obo/UBERON_0004170	spinal cord ventral commissure	
+http://purl.obolibrary.org/obo/MBA_304325711	retina	http://purl.obolibrary.org/obo/UBERON_0000966	retina	
+http://purl.obolibrary.org/obo/MBA_173	retrochiasmatic area	http://purl.obolibrary.org/obo/UBERON_0001933	retrochiasmatic area	
+http://purl.obolibrary.org/obo/MBA_822	retrohippocampal region	http://purl.obolibrary.org/obo/UBERON_0022230	retrohippocampal region	
+http://purl.obolibrary.org/obo/DMBA_16093	retrosplenial cortex	http://purl.obolibrary.org/obo/UBERON_0013531	retrosplenial region	
+http://purl.obolibrary.org/obo/MBA_254	retrosplenial area	http://purl.obolibrary.org/obo/UBERON_0013531	retrosplenial region	
+http://purl.obolibrary.org/obo/DMBA_16915	rhombomere 1	http://purl.obolibrary.org/obo/UBERON_0005499	rhombomere 1	
+http://purl.obolibrary.org/obo/DMBA_17291	r6 roof plate	http://purl.obolibrary.org/obo/UBERON_0005584	rhombomere 6 roof plate	
+http://purl.obolibrary.org/obo/DMBA_17737	trochlear nerve root	http://purl.obolibrary.org/obo/UBERON_0002618	root of trochlear nerve	
+http://purl.obolibrary.org/obo/DMBA_17748	vagal nerve root	http://purl.obolibrary.org/obo/UBERON_0011213	root of vagus nerve	
+http://purl.obolibrary.org/obo/DMBA_16748	rostral linear nucleus	http://purl.obolibrary.org/obo/UBERON_0013734	rostral linear nucleus	
+http://purl.obolibrary.org/obo/MBA_197	rostral linear nucleus raphe	http://purl.obolibrary.org/obo/UBERON_0013734	rostral linear nucleus	
+http://purl.obolibrary.org/obo/MBA_312782616	"rostrolateral area, layer 5"	http://purl.obolibrary.org/obo/UBERON_0035920	"rostrolateral area, layer 5"	
+http://purl.obolibrary.org/obo/MBA_417	rostrolateral visual area	http://purl.obolibrary.org/obo/UBERON_0035912	rostrolateral visual area	
+http://purl.obolibrary.org/obo/DMBA_15567	secondary prosencephalon	http://purl.obolibrary.org/obo/UBERON_0036218	secondary prosencephalon	
+http://purl.obolibrary.org/obo/MBA_378	supplemental somatosensory area	http://purl.obolibrary.org/obo/UBERON_0008934	secondary somatosensory cortex	
+http://purl.obolibrary.org/obo/MBA_1131	intermediate nerve	http://purl.obolibrary.org/obo/UBERON_0001699	sensory root of facial nerve	
+http://purl.obolibrary.org/obo/DMBA_15780	septofimbrial nucleus	http://purl.obolibrary.org/obo/UBERON_0001878	septofimbrial nucleus	
+http://purl.obolibrary.org/obo/MBA_310	septofimbrial nucleus	http://purl.obolibrary.org/obo/UBERON_0001878	septofimbrial nucleus	
+http://purl.obolibrary.org/obo/DMBA_16204	septohippocampal nucleus	http://purl.obolibrary.org/obo/UBERON_0007630	septohippocampal nucleus	
+http://purl.obolibrary.org/obo/MBA_333	septohippocampal nucleus	http://purl.obolibrary.org/obo/UBERON_0007630	septohippocampal nucleus	
+http://purl.obolibrary.org/obo/MBA_453	somatosensory areas	http://purl.obolibrary.org/obo/UBERON_0008930	somatosensory cortex	
+http://purl.obolibrary.org/obo/DMBA_17651	spinal cord	http://purl.obolibrary.org/obo/UBERON_0002240	spinal cord	
+http://purl.obolibrary.org/obo/DMBA_17797	descending trigeminal tract	http://purl.obolibrary.org/obo/UBERON_0014761	spinal trigeminal tract	
+http://purl.obolibrary.org/obo/MBA_871	spinothalamic tract	http://purl.obolibrary.org/obo/UBERON_0007703	spinothalamic tract	
+http://purl.obolibrary.org/obo/DMBA_17794	stria medullaris	http://purl.obolibrary.org/obo/UBERON_0006086	stria medullaris	
+http://purl.obolibrary.org/obo/MBA_802	stria medullaris	http://purl.obolibrary.org/obo/UBERON_0006086	stria medullaris	
+http://purl.obolibrary.org/obo/DMBA_15779	triangular septal nucleus	http://purl.obolibrary.org/obo/UBERON_0002977	triangular septal nucleus	
+http://purl.obolibrary.org/obo/DMBA_16044	temporal cortex	http://purl.obolibrary.org/obo/UBERON_0016538	temporal cortex	
+http://purl.obolibrary.org/obo/DMBA_16154	taenia tecta	http://purl.obolibrary.org/obo/UBERON_0015800	taenia tectum of brain	
+http://purl.obolibrary.org/obo/DMBA_17190	supragenual nucleus	http://purl.obolibrary.org/obo/UBERON_0022424	supragenual nucleus of pontine tegmentum	
+http://purl.obolibrary.org/obo/DMBA_17739	trigeminal nerve root	http://purl.obolibrary.org/obo/UBERON_0004673	trigeminal nerve root	
+http://purl.obolibrary.org/obo/DMBA_17802	tectospinal tract	http://purl.obolibrary.org/obo/UBERON_0002949	tectospinal tract	
+http://purl.obolibrary.org/obo/DMBA_17807	ventral tegmental decussation	http://purl.obolibrary.org/obo/UBERON_0002615	ventral tegmental decussation	
+http://purl.obolibrary.org/obo/MBA_101	ventral cochlear nucleus	http://purl.obolibrary.org/obo/UBERON_0002828	ventral cochlear nucleus	
+http://purl.obolibrary.org/obo/MBA_116	choroid fissure	http://purl.obolibrary.org/obo/UBERON_0002192	ventricular system choroidal fissure	
+http://purl.obolibrary.org/obo/MBA_177	nucleus of Roller	http://purl.obolibrary.org/obo/UBERON_0002881	sublingual nucleus	
+http://purl.obolibrary.org/obo/MBA_217	superior vestibular nucleus	http://purl.obolibrary.org/obo/UBERON_0007227	superior vestibular nucleus	
+http://purl.obolibrary.org/obo/MBA_342	substantia innominata	http://purl.obolibrary.org/obo/UBERON_0003017	substantia innominata	
+http://purl.obolibrary.org/obo/MBA_357	tectothalamic pathway	http://purl.obolibrary.org/obo/UBERON_0035570	tectothalamic tract	
+http://purl.obolibrary.org/obo/MBA_397	ventral tegmental decussation	http://purl.obolibrary.org/obo/UBERON_0002615	ventral tegmental decussation	
+http://purl.obolibrary.org/obo/MBA_398	superior olivary complex	http://purl.obolibrary.org/obo/UBERON_0002128	superior olivary complex	
+http://purl.obolibrary.org/obo/MBA_413	vestibular nerve	http://purl.obolibrary.org/obo/UBERON_0003723	vestibular nerve	
+http://purl.obolibrary.org/obo/MBA_462	superior salivatory nucleus	http://purl.obolibrary.org/obo/UBERON_0002149	superior salivatory nucleus	
+http://purl.obolibrary.org/obo/MBA_581	triangular nucleus of septum	http://purl.obolibrary.org/obo/UBERON_0002977	triangular septal nucleus	
+http://purl.obolibrary.org/obo/MBA_589	taenia tecta	http://purl.obolibrary.org/obo/UBERON_0015800	taenia tectum of brain	
+http://purl.obolibrary.org/obo/MBA_701	vestibular nuclei	http://purl.obolibrary.org/obo/UBERON_0002673	vestibular nuclear complex	
+http://purl.obolibrary.org/obo/MBA_841	trapezoid body	http://purl.obolibrary.org/obo/UBERON_0002932	trapezoid body	
+http://purl.obolibrary.org/obo/MBA_877	tectospinal pathway	http://purl.obolibrary.org/obo/UBERON_0002949	tectospinal tract	
+http://purl.obolibrary.org/obo/MBA_941	vestibulospinal pathway	http://purl.obolibrary.org/obo/UBERON_0002768	vestibulospinal tract	
+http://purl.obolibrary.org/obo/DMBA_16514	subcommissural organ	http://purl.obolibrary.org/obo/UBERON_0002139	subcommissural organ	
+http://purl.obolibrary.org/obo/DMBA_16787	subcuneiform nucleus	http://purl.obolibrary.org/obo/UBERON_0002700	subcuneiform nucleus	
+http://purl.obolibrary.org/obo/MBA_338	subfornical organ	http://purl.obolibrary.org/obo/UBERON_0002219	subfornical organ	
+http://purl.obolibrary.org/obo/DMBA_16163	subiculum	http://purl.obolibrary.org/obo/UBERON_0002191	subiculum	
+http://purl.obolibrary.org/obo/MBA_502	subiculum	http://purl.obolibrary.org/obo/UBERON_0002191	subiculum	
+http://purl.obolibrary.org/obo/MBA_347	subparaventricular zone	http://purl.obolibrary.org/obo/UBERON_0007626	subparaventricular zone	
+http://purl.obolibrary.org/obo/MBA_374	"substantia nigra, compact part"	http://purl.obolibrary.org/obo/UBERON_0001965	substantia nigra pars compacta	
+http://purl.obolibrary.org/obo/MBA_615	"substantia nigra, lateral part"	http://purl.obolibrary.org/obo/UBERON_0002995	substantia nigra pars lateralis	
+http://purl.obolibrary.org/obo/MBA_381	"substantia nigra, reticular part"	http://purl.obolibrary.org/obo/UBERON_0001966	substantia nigra pars reticulata	
+http://purl.obolibrary.org/obo/MBA_317	subthalamic fascicle	http://purl.obolibrary.org/obo/UBERON_0022256	subthalamic fasciculus	
+http://purl.obolibrary.org/obo/MBA_851	"superior colliculus, optic layer"	http://purl.obolibrary.org/obo/UBERON_0006779	superficial white layer of superior colliculus	
+http://purl.obolibrary.org/obo/DMBA_17793	superior cerebellar peduncle	http://purl.obolibrary.org/obo/UBERON_0002150	superior cerebellar peduncle	
+http://purl.obolibrary.org/obo/MBA_326	superior cerebelar peduncles	http://purl.obolibrary.org/obo/UBERON_0002150	superior cerebellar peduncle	
+http://purl.obolibrary.org/obo/DMBA_16678	colliculus superior	http://purl.obolibrary.org/obo/UBERON_0001945	superior colliculus	
+http://purl.obolibrary.org/obo/MBA_842	"superior colliculus, superficial gray layer"	http://purl.obolibrary.org/obo/UBERON_0006120	superior colliculus superficial gray layer	
+http://purl.obolibrary.org/obo/DMBA_15660	suprachiasmatic nucleus	http://purl.obolibrary.org/obo/UBERON_0002034	suprachiasmatic nucleus	
+http://purl.obolibrary.org/obo/MBA_341	supramammillary decussation	http://purl.obolibrary.org/obo/UBERON_0002991	supramammillary commissure	
+http://purl.obolibrary.org/obo/DMBA_15582	vascular organ of the lamina terminalis	http://purl.obolibrary.org/obo/UBERON_0002689	supraoptic crest	
+http://purl.obolibrary.org/obo/MBA_763	vascular organ of the lamina terminalis	http://purl.obolibrary.org/obo/UBERON_0002689	supraoptic crest	
+http://purl.obolibrary.org/obo/DMBA_15633	supraoptic nucleus	http://purl.obolibrary.org/obo/UBERON_0001929	supraoptic nucleus	
+http://purl.obolibrary.org/obo/DMBA_126651562	"ventricles, forebrain"	http://purl.obolibrary.org/obo/UBERON_0002285	telencephalic ventricle	
+http://purl.obolibrary.org/obo/MBA_81	lateral ventricle	http://purl.obolibrary.org/obo/UBERON_0002285	telencephalic ventricle	
+http://purl.obolibrary.org/obo/MBA_567	cerebrum	http://purl.obolibrary.org/obo/UBERON_0001893	telencephalon	
+http://purl.obolibrary.org/obo/MBA_129	third ventricle	http://purl.obolibrary.org/obo/UBERON_0002286	third ventricle	
+http://purl.obolibrary.org/obo/MBA_1028	"corticospinal tract, uncrossed"	http://purl.obolibrary.org/obo/UBERON_0002760	ventral corticospinal tract	
+http://purl.obolibrary.org/obo/MBA_594	"bed nuclei of the stria terminalis, posterior division, transverse nucleus"	http://purl.obolibrary.org/obo/UBERON_0011179	transverse nucleus of stria terminalis	
+http://purl.obolibrary.org/obo/MBA_901	trigeminal nerve	http://purl.obolibrary.org/obo/UBERON_0001645	trigeminal nerve	
+http://purl.obolibrary.org/obo/DMBA_15665	tuber cinereum area	http://purl.obolibrary.org/obo/UBERON_0002620	tuber cinereum	
+http://purl.obolibrary.org/obo/MBA_1126	"tuberomammillary nucleus, dorsal part"	http://purl.obolibrary.org/obo/UBERON_0014593	tuberomammillary nucleus dorsal part	
+http://purl.obolibrary.org/obo/MBA_1	"tuberomammillary nucleus, ventral part"	http://purl.obolibrary.org/obo/UBERON_0014594	tuberomammillary nucleus ventral part	
+http://purl.obolibrary.org/obo/MBA_917	vagus nerve	http://purl.obolibrary.org/obo/UBERON_0001759	vagus nerve	
+http://purl.obolibrary.org/obo/MBA_99	"nucleus of the lateral lemniscus, ventral part"	http://purl.obolibrary.org/obo/UBERON_0002604	ventral nucleus of lateral lemniscus	
+http://purl.obolibrary.org/obo/DMBA_15844	ventral pallidum	http://purl.obolibrary.org/obo/UBERON_0002778	ventral pallidum	
+http://purl.obolibrary.org/obo/MBA_835	"pallidum, ventral region"	http://purl.obolibrary.org/obo/UBERON_0002778	ventral pallidum	
+http://purl.obolibrary.org/obo/DMBA_15904	ventral pallium	http://purl.obolibrary.org/obo/UBERON_0014913	ventral pallium	
+http://purl.obolibrary.org/obo/DMBA_15751	subpallium	http://purl.obolibrary.org/obo/UBERON_0000204	ventral part of telencephalon	
+http://purl.obolibrary.org/obo/MBA_1004	ventral premammillary nucleus	http://purl.obolibrary.org/obo/UBERON_0007768	ventral premammillary nucleus	
+http://purl.obolibrary.org/obo/MBA_833	"supraoptic commissures, ventral"	http://purl.obolibrary.org/obo/UBERON_0002676	ventral supraoptic decussation	
+http://purl.obolibrary.org/obo/MBA_749	ventral tegmental area	http://purl.obolibrary.org/obo/UBERON_0002691	ventral tegmental area	
+http://purl.obolibrary.org/obo/MBA_73	ventricular systems	http://purl.obolibrary.org/obo/UBERON_0005281	ventricular system of central nervous system	
+http://purl.obolibrary.org/obo/MBA_933	vestibulocochlear nerve	http://purl.obolibrary.org/obo/UBERON_0001648	vestibulocochlear nerve	
+http://purl.obolibrary.org/obo/MBA_669	visual areas	http://purl.obolibrary.org/obo/UBERON_0000411	visual cortex	
+http://purl.obolibrary.org/obo/MBA_834	"superior colliculus, zonal layer"	http://purl.obolibrary.org/obo/UBERON_0006780	zonal layer of superior colliculus	

@@ -1,5 +1,5 @@
-ID	Label	SuperClass	SuperClass Label
-ID	A IAO:0000589	SC %	>A rdfs:label
+ID	Label	SuperClass	SuperClass Label  Source
+ID	A IAO:0000589	SC %	>A rdfs:label A oboInOwl:source
 http://purl.obolibrary.org/obo/MBA_796	dopaminergic A13 group	http://purl.obolibrary.org/obo/UBERON_0036007	A13 dopaminergic cell group
 http://purl.obolibrary.org/obo/DMBA_16124	hippocampus (cortex Ammonis)	http://purl.obolibrary.org/obo/UBERON_0001954	Ammon's horn
 http://purl.obolibrary.org/obo/MBA_375	ammon's horn	http://purl.obolibrary.org/obo/UBERON_0001954	Ammon's horn

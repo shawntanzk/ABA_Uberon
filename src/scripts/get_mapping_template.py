@@ -10,7 +10,7 @@ ALLOWED_NS = ["http://purl.obolibrary.org/obo/MBA_", "http://purl.obolibrary.org
 
 
 def generate_robot_template(mapping_path: str, output_filepath: str):
-    headers, records = read_csv_to_dict(mapping_path, delimiter="\t", id_column_name="subclass_iri")
+    headers, records = read_csv_to_dict(mapping_path, delimiter="\t", generated_ids=True)
 
     robot_template_seed = {'ID': 'ID',
                            'Label': 'A IAO:0000589',
@@ -20,9 +20,9 @@ def generate_robot_template(mapping_path: str, output_filepath: str):
     dl = [robot_template_seed]
 
     for mapping in records:
-        if records[mapping]["Analysis"] == "OK" and any(ns in mapping for ns in ALLOWED_NS):
+        if records[mapping]["Analysis"] == "OK" and any(ns in records[mapping]["subclass_iri"] for ns in ALLOWED_NS):
             d = dict()
-            d["ID"] = str(mapping).replace("<", "").replace(">", "")
+            d["ID"] = str(records[mapping]["subclass_iri"]).replace("<", "").replace(">", "")
             d["Label"] = records[mapping]["subclass_name"]
             d["SuperClass"] = str(records[mapping]["superclass_iri"]).replace("<", "").replace(">", "")
             d["SuperClass Label"] = records[mapping]["superclass_name_linked"]

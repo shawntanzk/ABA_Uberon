@@ -1,5 +1,5 @@
 ID	Label	Subclass part of	Equivalent	SuperClass Label	Status	Approved by
-ID	A IAO:0000589	SC part_of some %	EC %	>A rdfs:label	A oboInOwl:status	>A oboInOwl:source
+ID	A IAO:0000589	SC part_of some % and (part_of some NCBITaxon:10090)	EC % and (part_of some NCBITaxon:10090)	>A rdfs:label	A oboInOwl:status	>A oboInOwl:source
 http://purl.obolibrary.org/obo/MBA_796	dopaminergic A13 group		http://purl.obolibrary.org/obo/UBERON_0036007	A13 dopaminergic cell group	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_16124	hippocampus (cortex Ammonis)		http://purl.obolibrary.org/obo/UBERON_0001954	Ammon's horn	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_375	ammon's horn		http://purl.obolibrary.org/obo/UBERON_0001954	Ammon's horn	Verified	https://ror.org/03cpe7c52

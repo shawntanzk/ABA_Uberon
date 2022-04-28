@@ -74,16 +74,32 @@ class UniqueIdChecker(StrictChecker):
         id_mapping = dict()
         for line_number in records:
             mapped_id = records[line_number]["ID"]
+            record = {
+                "line": line_number + 1,
+                "sc": records[line_number]["Subclass part of"],
+                "ec": records[line_number]["Equivalent"]
+            }
             if mapped_id in id_mapping:
                 lines = id_mapping[mapped_id]
-                lines.append(str(line_number + 1))
+                lines.append(record)
                 id_mapping[mapped_id] = lines
             else:
-                id_mapping[mapped_id] = [str(line_number + 1)]
+                id_mapping[mapped_id] = [record]
 
         for mapping_id in id_mapping:
             if len(id_mapping[mapping_id]) > 1:
-                self.reports.append("{} exists in multiple lines: {}".format(mapping_id, ", ".join(id_mapping[mapping_id])))
+                records = id_mapping[mapping_id]
+                all_same = True
+                base_record = None
+                for record in records:
+                    if not base_record:
+                        base_record = record
+                    else:
+                        all_same &= (base_record["sc"] == record["sc"] and base_record["ec"] == record["ec"])
+
+                if not all_same:
+                    self.reports.append("{} exists in multiple lines: {} with different mappings."
+                                        .format(mapping_id, ", ".join(str(record["line"]) for record in id_mapping[mapping_id])))
 
     def get_header(self):
         return "=== Unique Id Checks :"

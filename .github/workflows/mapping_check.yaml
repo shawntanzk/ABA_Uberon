@@ -7,6 +7,7 @@ on:
     paths:
       - 'src/robot_templates/CCF_to_UBERON.tsv'
       - '.github/workflows/mapping_check.yaml'
+      - 'src/scripts/mapping_template_validator.py'
   pull_request:
 
   # Allows you to run this workflow manually from the Actions tab

@@ -14,9 +14,11 @@ def generate_robot_template(mapping_path: str, output_filepath: str):
 
     robot_template_seed = {'ID': 'ID',
                            'Label': 'A IAO:0000589',
-                           'SuperClass': 'SC %',
+                           'Subclass part of': 'SC part_of some %',
+                           'Equivalent': 'EC %',
                            'SuperClass Label': '>A rdfs:label',
-                           'Source': 'A oboInOwl:source'
+                           'Status': 'A oboInOwl:status',
+                           'Approved by': '>A oboInOwl:source'
                            }
     dl = [robot_template_seed]
 
@@ -25,9 +27,11 @@ def generate_robot_template(mapping_path: str, output_filepath: str):
             d = dict()
             d["ID"] = str(records[mapping]["subclass_iri"]).replace("<", "").replace(">", "")
             d["Label"] = records[mapping]["subclass_name"]
-            d["SuperClass"] = str(records[mapping]["superclass_iri"]).replace("<", "").replace(">", "")
+            d["Subclass part of"] = str(records[mapping]["superclass_iri"]).replace("<", "").replace(">", "")
+            d["Equivalent"] = ''
             d["SuperClass Label"] = records[mapping]["superclass_name_linked"]
-            d["Source"] = ''
+            d["Status"] = ''
+            d["Approved by"] = ''
             dl.append(d)
     robot_template = pd.DataFrame.from_records(dl)
     robot_template.to_csv(output_filepath, sep="\t", index=False)

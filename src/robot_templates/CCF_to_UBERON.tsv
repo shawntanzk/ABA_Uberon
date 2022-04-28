@@ -1126,7 +1126,6 @@ http://purl.obolibrary.org/obo/DMBA_15994	"basolateral amygdaloid nucleus, anter
 http://purl.obolibrary.org/obo/DMBA_15995	"basolateral amygdaloid nucleus, posterior part"	http://purl.obolibrary.org/obo/UBERON_0002887		basal amygdaloid nucleus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_15996	"basolateral amygdaloid nucleus, ventral part"	http://purl.obolibrary.org/obo/UBERON_0002887		basal amygdaloid nucleus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_15998	amygdalopiriform area		http://purl.obolibrary.org/obo/UBERON_0034989	amygdalopiriform transition area 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/DMBA_15999	posterolateral cortical amygdaloid area		http://purl.obolibrary.org/obo/UBERON_0035001	posteromedial cortical amygdaloid nucleus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_16000	anterior cortical amygdaloid area		http://purl.obolibrary.org/obo/UBERON_0034991	anterior cortical amygdaloid nucleus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_16001	dorsal pallium/isocortex	http://purl.obolibrary.org/obo/UBERON_0001950		neocortex 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_16002	frontal cortex		http://purl.obolibrary.org/obo/UBERON_0001870	frontal cortex 	Verified	https://ror.org/03cpe7c52
@@ -1354,7 +1353,6 @@ http://purl.obolibrary.org/obo/DMBA_17739	trigeminal nerve root		http://purl.obo
 http://purl.obolibrary.org/obo/DMBA_17741	abducens nerve root		http://purl.obolibrary.org/obo/UBERON_0002786	root of abducens nerve 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_17742	facial nerve root		http://purl.obolibrary.org/obo/UBERON_0004674	facial nerve root 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_17747	glossopharyngeal nerve root		http://purl.obolibrary.org/obo/UBERON_0019310	glossopharyngeal nerve root 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/DMBA_17750	hypoglossal nerve root	http://purl.obolibrary.org/obo/UBERON:0001650		hypoglossal nerve 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_17751	anterior commissure		http://purl.obolibrary.org/obo/UBERON_0000935	anterior commissure 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_17753	brachium of inferior colliculus		http://purl.obolibrary.org/obo/UBERON_0003025	brachium of inferior colliculus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_17761	dorsal spinocerebellar tract		http://purl.obolibrary.org/obo/UBERON_0002753	posterior spinocerebellar tract 	Verified	https://ror.org/03cpe7c52

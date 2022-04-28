@@ -168,7 +168,6 @@ http://purl.obolibrary.org/obo/MBA_726	dentate gyrus		http://purl.obolibrary.org
 http://purl.obolibrary.org/obo/MBA_10704	"dentate gyrus, polymorph layer"		http://purl.obolibrary.org/obo/UBERON_0002928	dentate gyrus polymorphic layer	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_10702	"dentate gyrus, subgranular zone"		http://purl.obolibrary.org/obo/UBERON_0009952	dentate gyrus subgranular zone	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_846	dentate nucleus		http://purl.obolibrary.org/obo/UBERON_0002132	dentate nucleus	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/MBA_634	nucleus of the posterior commissure		http://purl.obolibrary.org/obo/UBERON_0006569	diencephalic nucleus	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_16308	diencephalon		http://purl.obolibrary.org/obo/UBERON_0001894	diencephalon	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_1129	interbrain		http://purl.obolibrary.org/obo/UBERON_0001894	diencephalon	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_16853	Koelliker-Fuse nucleus		http://purl.obolibrary.org/obo/UBERON_0002869	diffuse reticular nucleus	Verified	https://ror.org/03cpe7c52
@@ -437,7 +436,6 @@ http://purl.obolibrary.org/obo/DMBA_15909	OB granular layer		http://purl.obolibr
 http://purl.obolibrary.org/obo/MBA_220	"main olfactory bulb, granule layer"		http://purl.obolibrary.org/obo/UBERON_0005378	olfactory bulb granule cell layer	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_15910	OB inner plexiform layer		http://purl.obolibrary.org/obo/UBERON_0005379	olfactory bulb internal plexiform layer	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_228	"main olfactory bulb, inner plexiform layer"		http://purl.obolibrary.org/obo/UBERON_0005379	olfactory bulb internal plexiform layer	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/MBA_212	"main olfactory bulb, glomerular layer"		http://purl.obolibrary.org/obo/UBERON_0023934	olfactory bulb main glomerular layer	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_15912	OB mitral cell layer		http://purl.obolibrary.org/obo/UBERON_0004186	olfactory bulb mitral cell layer	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_1016	olfactory nerve layer of main olfactory bulb		http://purl.obolibrary.org/obo/UBERON_0005978	olfactory bulb outer nerve layer	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_840	olfactory nerve		http://purl.obolibrary.org/obo/UBERON_0001579	olfactory nerve	Verified	https://ror.org/03cpe7c52
@@ -745,7 +743,6 @@ http://purl.obolibrary.org/obo/MBA_933	vestibulocochlear nerve		http://purl.obol
 http://purl.obolibrary.org/obo/MBA_941	vestibulospinal pathway		http://purl.obolibrary.org/obo/UBERON_0002768	vestibulospinal tract	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_669	visual areas		http://purl.obolibrary.org/obo/UBERON_0000411	visual cortex	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_16926	cerebellar white matter		http://purl.obolibrary.org/obo/UBERON_0002317	white matter of cerebellum	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/DMBA_16926	cerebellar white matter		http://purl.obolibrary.org/obo/UBERON_0024045	white matter of the cerebellar cortex	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_797	zona incerta		http://purl.obolibrary.org/obo/UBERON_0001907	zona incerta	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_834	"superior colliculus, zonal layer"		http://purl.obolibrary.org/obo/UBERON_0006780	zonal layer of superior colliculus	Verified	https://ror.org/03cpe7c52
 						
@@ -810,7 +807,6 @@ http://purl.obolibrary.org/obo/MBA_126	"periventricular hypothalamic nucleus, po
 http://purl.obolibrary.org/obo/MBA_127	anteromedial nucleus		http://purl.obolibrary.org/obo/UBERON_0002681	anteromedial nucleus of thalamus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_133	"periventricular hypothalamic nucleus, preoptic part"		http://purl.obolibrary.org/obo/UBERON_0002622	preoptic periventricular nucleus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_138	lateral group of the dorsal thalamus		http://purl.obolibrary.org/obo/UBERON_0002736	lateral nuclear group of thalamus 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/MBA_149	paraventricular nucleus of the thalamus		http://purl.obolibrary.org/obo/UBERON_0002708	posterior periventricular nucleus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_15	parataenial nucleus		http://purl.obolibrary.org/obo/UBERON_0002992	paratenial nucleus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_155	lateral dorsal nucleus of thalamus		http://purl.obolibrary.org/obo/UBERON_0002984	lateral dorsal nucleus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_170	dorsal part of the lateral geniculate complex		http://purl.obolibrary.org/obo/UBERON_0002479	dorsal lateral geniculate nucleus 	Verified	https://ror.org/03cpe7c52
@@ -874,15 +870,12 @@ http://purl.obolibrary.org/obo/MBA_980	dorsal premammillary nucleus		http://purl
 http://purl.obolibrary.org/obo/MBA_989	fastigial nucleus		http://purl.obolibrary.org/obo/UBERON_0002153	fastigial nucleus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_16926	cerebellar white matter		http://purl.obolibrary.org/obo/UBERON_0002317	white matter of cerebellum 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_15652	optic fiber layer		http://purl.obolibrary.org/obo/UBERON_0001793	nerve fiber layer of retina 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/DMBA_17749	accessory nerve root	http://purl.obolibrary.org/obo/UBERON_0002019		accessory XI nerve 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_17759	dorsal column tracts		http://purl.obolibrary.org/obo/UBERON_0005373	spinal cord dorsal column 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_413	vestibular nerve		http://purl.obolibrary.org/obo/UBERON_0003723	vestibular nerve 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/MBA_717	accessory spinal nerve	http://purl.obolibrary.org/obo/UBERON_0002019		accessory XI nerve 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_948	cochlear nerve		http://purl.obolibrary.org/obo/UBERON_0004727	cochlear nerve 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_967	cranial nerves		http://purl.obolibrary.org/obo/UBERON_0001785	cranial nerve 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_752	cerebellar peduncles		http://purl.obolibrary.org/obo/UBERON_0007416	cerebellar peduncle 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_16943	paramedian lobule		http://purl.obolibrary.org/obo/UBERON_0005349	paramedian lobule 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/MBA_912	lingula (I)	http://purl.obolibrary.org/obo/UBERON_0004074		cerebellum vermis lobule I 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_928	culmen		http://purl.obolibrary.org/obo/UBERON_0007763	cerebellum vermis culmen 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_944	folium-tuber vermis (VII)		http://purl.obolibrary.org/obo/UBERON_0004081	cerebellum vermis lobule VII 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_403	medial amygdalar nucleus		http://purl.obolibrary.org/obo/UBERON_0002892	medial amygdaloid nucleus 	Verified	https://ror.org/03cpe7c52
@@ -943,7 +936,6 @@ http://purl.obolibrary.org/obo/MBA_162	laterodorsal tegmental nucleus		http://pu
 http://purl.obolibrary.org/obo/MBA_231	anterior tegmental nucleus		http://purl.obolibrary.org/obo/UBERON_0010036	anterior tegmental nucleus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_350	subceruleus nucleus		http://purl.obolibrary.org/obo/UBERON_0002587	nucleus subceruleus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_612	nucleus of the lateral lemniscus		http://purl.obolibrary.org/obo/UBERON_0006840	nucleus of lateral lemniscus 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/MBA_679	superior central nucleus raphe		http://purl.obolibrary.org/obo/UBERON_003004	median raphe nucleus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_757	ventral tegmental nucleus		http://purl.obolibrary.org/obo/UBERON_0002438	ventral tegmental nucleus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_874	parabigeminal nucleus		http://purl.obolibrary.org/obo/UBERON_0002140	parabigeminal nucleus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_880	dorsal tegmental nucleus		http://purl.obolibrary.org/obo/UBERON_0002143	dorsal tegmental nucleus 	Verified	https://ror.org/03cpe7c52
@@ -951,7 +943,6 @@ http://purl.obolibrary.org/obo/DMBA_15662	anterior hypothalamic nucleus		http://
 http://purl.obolibrary.org/obo/DMBA_16400	anterior paraventricular nucleus of thalamus		http://purl.obolibrary.org/obo/UBERON_0000434	anterior paraventricular nucleus of thalamus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_133	"periventricular hypothalamic nucleus, preoptic part"		http://purl.obolibrary.org/obo/UBERON_0002622	preoptic periventricular nucleus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_263	anteroventral preoptic nucleus		http://purl.obolibrary.org/obo/UBERON_0035974	anteroventral preoptic nucleus 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/MBA_30	"periventricular hypothalamic nucleus, anterior part"	http://purl.obolibrary.org/obo/UBERON_0002622		preoptic periventricular nucleus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_452	median preoptic nucleus		http://purl.obolibrary.org/obo/UBERON_0002625	median preoptic nucleus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_470	subthalamic nucleus		http://purl.obolibrary.org/obo/UBERON_0001906	subthalamic nucleus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_797	zona incerta		http://purl.obolibrary.org/obo/UBERON_0001907	zona incerta 	Verified	https://ror.org/03cpe7c52
@@ -986,7 +977,6 @@ http://purl.obolibrary.org/obo/DMBA_16342	peripeduncular nucleus		http://purl.ob
 http://purl.obolibrary.org/obo/MBA_161	nucleus intercalatus		http://purl.obolibrary.org/obo/UBERON_0002876	nucleus intercalatus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_178	ventral part of the lateral geniculate complex		http://purl.obolibrary.org/obo/UBERON_0002480	ventral lateral geniculate nucleus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_17736	oculomotor nerve root	http://purl.obolibrary.org/obo/UBERON_0001643		oculomotor nerve 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/MBA_908	"anterior commissure, temporal limb"	http://purl.obolibrary.org/obo/UBERON_0003039		anterior commissure anterior part 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_961	piriform area	http://purl.obolibrary.org/obo/UBERON_0004725		piriform cortex 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_16590	dorsal terminal nucleus of the accessory optic tract		http://purl.obolibrary.org/obo/UBERON_0013599	dorsal accessory nucleus of optic tract 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_1061	posterior pretectal nucleus		http://purl.obolibrary.org/obo/UBERON_0006848	posterior pretectal nucleus 	Verified	https://ror.org/03cpe7c52
@@ -999,7 +989,6 @@ http://purl.obolibrary.org/obo/DMBA_16819	periventricular stratum of cerebellar 
 http://purl.obolibrary.org/obo/DMBA_16820	white matter of cerebellar vermis	http://purl.obolibrary.org/obo/UBERON_0002317		white matter of cerebellum 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_16821	intermediate stratum of cerebellar vermis	http://purl.obolibrary.org/obo/UBERON_0004720		cerebellar vermis 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_16822	cerebellar nuclei of CbV	http://purl.obolibrary.org/obo/UBERON_0002130		cerebellar nuclear complex 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/DMBA_16823	medial (fastigial) cerebellar nucleus	http://purl.obolibrary.org/obo/UBERON_0002153		fastigial nucleus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_16828	superficial stratum of cerebellar vermis	http://purl.obolibrary.org/obo/UBERON_0004720		cerebellar vermis 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_16829	cortex of cerebellar vermis	http://purl.obolibrary.org/obo/UBERON_0004720		cerebellar vermis 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_16830	lobule 1 of cerebellar vermis		http://purl.obolibrary.org/obo/UBERON_0004074	cerebellum vermis lobule I 	Verified	https://ror.org/03cpe7c52
@@ -1016,9 +1005,7 @@ http://purl.obolibrary.org/obo/DMBA_16841	Purkinje cell layer of CbVCx	http://pu
 http://purl.obolibrary.org/obo/DMBA_16923	rhombic lip of CbH	http://purl.obolibrary.org/obo/UBERON_0006215		rhombic lip 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_16926	cerebellar white matter		http://purl.obolibrary.org/obo/UBERON_0002317	white matter of cerebellum 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_16928	cerebellar nuclei of CbH	http://purl.obolibrary.org/obo/UBERON_0002130		cerebellar nuclear complex 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/DMBA_16929	intermediate (interpositus) cerebellar nucleus	http://purl.obolibrary.org/obo/UBERON_0004073		cerebellum interpositus nucleus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_16938	superficial stratum of cerebellar hemisphere	http://purl.obolibrary.org/obo/UBERON_0002129		cerebellar cortex 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/DMBA_16939	cortex of cerebellar hemisphere	http://purl.obolibrary.org/obo/UBERON_0002129		cerebellar cortex 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_16941	crus 1 of the ansiform lobule		http://purl.obolibrary.org/obo/UBERON_0005976	ansiform lobule crus I 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_16942	crus 2 of the ansiform lobule		http://purl.obolibrary.org/obo/UBERON_0005977	ansiform lobule crus II 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_16948	Purkinje cell layer of CbHCx	http://purl.obolibrary.org/obo/UBERON_0002979		Purkinje cell layer of cerebellar cortex 	Verified	https://ror.org/03cpe7c52
@@ -1065,7 +1052,6 @@ http://purl.obolibrary.org/obo/DMBA_15757	"lateral septal nucleus, ventral part"
 http://purl.obolibrary.org/obo/DMBA_15760	"lateral septal nucleus, intermedio-ventral part"	http://purl.obolibrary.org/obo/UBERON_0002667		lateral septal nucleus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_15761	septohypothalamic nucleus		http://purl.obolibrary.org/obo/UBERON_0019308	septohypothalamic nucleus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_15763	vertical nucleus of the diagonal band	http://purl.obolibrary.org/obo/UBERON_0001879		nucleus of diagonal band 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/DMBA_15764	medial septal nucleus		<http:/http://purl.obolibrary.org/obo/UBERON_0001877/purl.obolibrary.org/obo/DMBA_15764>	medial septal nucleus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_15769	"lateral septal nucleus, intermediate part, periventricular"	http://purl.obolibrary.org/obo/UBERON_0002667		lateral septal nucleus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_15771	"lateral septal nucleus, intermedio-intermediate part"	http://purl.obolibrary.org/obo/UBERON_0002667		lateral septal nucleus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_15778	"lateral septal nucleus, dorsal part"	http://purl.obolibrary.org/obo/UBERON_0002667		lateral septal nucleus 	Verified	https://ror.org/03cpe7c52
@@ -1123,7 +1109,6 @@ http://purl.obolibrary.org/obo/DMBA_15935	ventral endopiriform nucleus	http://pu
 http://purl.obolibrary.org/obo/DMBA_15940	ventropallial amygdalopiriform area	http://purl.obolibrary.org/obo/UBERON_0034989		amygdalopiriform transition area 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_15944	lateral amygdaloid nucleus		http://purl.obolibrary.org/obo/UBERON_0002886	lateral amygdaloid nucleus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_15945	amygdalohippocampal area		http://purl.obolibrary.org/obo/UBERON_0034673	amygdalohippocampal area 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/DMBA_15947	"basomedial amygdaloid nucleus, anterior part"	http://purl.obolibrary.org/obo/UBERON_0002889		medial part of basal amygdaloid nucleus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_15948	"basomedial amygdaloid nucleus, posterior part"	http://purl.obolibrary.org/obo/UBERON_0002889		medial part of basal amygdaloid nucleus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_15950	posteromedial cortical amygdaloid area		http://purl.obolibrary.org/obo/UBERON_0035001	posteromedial cortical amygdaloid nucleus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_15951	nucleus of the lateral olfactory tract		http://purl.obolibrary.org/obo/UBERON_0002893	nucleus of lateral olfactory tract 	Verified	https://ror.org/03cpe7c52
@@ -1193,7 +1178,6 @@ http://purl.obolibrary.org/obo/DMBA_16161	superficial stratum of TTe	http://purl
 http://purl.obolibrary.org/obo/DMBA_16162	pyramidal layer of taenia tecta	http://purl.obolibrary.org/obo/UBERON_0015800		taenia tectum of brain 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_16171	molecular layer of S	http://purl.obolibrary.org/obo/UBERON_0002191		subiculum 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_16809	prepontine hindbrain	http://purl.obolibrary.org/obo/UBERON_0002028		hindbrain 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/DMBA_16844	parabrachial complex	http://purl.obolibrary.org/obo/UBERON_0007634		parabrachial nucleus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_16848	parabrachial part of the periaqueductal gray	http://purl.obolibrary.org/obo/UBERON_0003040		central gray substance of midbrain 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_16858	isthmic part of the periaqueductal gray	http://purl.obolibrary.org/obo/UBERON_0003040		central gray substance of midbrain 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_16862	parabigeminal nucleus		http://purl.obolibrary.org/obo/UBERON_0002140	parabigeminal nucleus 	Verified	https://ror.org/03cpe7c52
@@ -1275,7 +1259,6 @@ http://purl.obolibrary.org/obo/DMBA_17213	"r4 part of reticulotegmental nucleus,
 http://purl.obolibrary.org/obo/DMBA_17214	"r4 part of reticulotegmental nucleus, core portion"	http://purl.obolibrary.org/obo/UBERON_0002147		reticulotegmental nucleus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_17216	r4 part of pontine raphe cell population	http://purl.obolibrary.org/obo/UBERON_0002047		pontine raphe nucleus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_17218	r4 part of medial pontine nuclei	http://purl.obolibrary.org/obo/UBERON_0002151		pontine nuclear group 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/DMBA_17219	r4 floor plate	http://purl.obolibrary.org/obo/UBERON_0005576		rhombomere 4 floor plate 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_17220	pontomedullary hindbrain	http://purl.obolibrary.org/obo/UBERON_0002028		hindbrain 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_17227	r5 part of dorsal cochlear nucleus	http://purl.obolibrary.org/obo/UBERON_0002829		dorsal cochlear nucleus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_17228	r5 part of posteroventral cochlear nucleus	http://purl.obolibrary.org/obo/UBERON_0002831		posteroventral cochlear nucleus 	Verified	https://ror.org/03cpe7c52
@@ -1370,7 +1353,6 @@ http://purl.obolibrary.org/obo/DMBA_17649	r11 part of nucleus raphe pallidus	htt
 http://purl.obolibrary.org/obo/DMBA_17739	trigeminal nerve root		http://purl.obolibrary.org/obo/UBERON_0004673	trigeminal nerve root 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_17741	abducens nerve root		http://purl.obolibrary.org/obo/UBERON_0002786	root of abducens nerve 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_17742	facial nerve root		http://purl.obolibrary.org/obo/UBERON_0004674	facial nerve root 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/DMBA_17746	vestibulocochlear nerve root	http://purl.obolibrary.org/obo/UBERON_0001648		vestibulocochlear nerve 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_17747	glossopharyngeal nerve root		http://purl.obolibrary.org/obo/UBERON_0019310	glossopharyngeal nerve root 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_17750	hypoglossal nerve root	http://purl.obolibrary.org/obo/UBERON:0001650		hypoglossal nerve 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_17751	anterior commissure		http://purl.obolibrary.org/obo/UBERON_0000935	anterior commissure 	Verified	https://ror.org/03cpe7c52
@@ -1378,12 +1360,10 @@ http://purl.obolibrary.org/obo/DMBA_17753	brachium of inferior colliculus		http:
 http://purl.obolibrary.org/obo/DMBA_17761	dorsal spinocerebellar tract		http://purl.obolibrary.org/obo/UBERON_0002753	posterior spinocerebellar tract 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_17765	external capsule		http://purl.obolibrary.org/obo/UBERON_0004545	external capsule of telencephalon 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_17766	fimbria		http://purl.obolibrary.org/obo/UBERON_0002310	hippocampus fimbria 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/DMBA_17767	fornix tract	http://purl.obolibrary.org/obo/UBERON_0000052		fornix of brain 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_17768	habenular commissure		http://purl.obolibrary.org/obo/UBERON_0001909	habenular commissure 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_17769	hippocampal commissure		http://purl.obolibrary.org/obo/UBERON_0000908	hippocampal commissure 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_17770	internal capsule		http://purl.obolibrary.org/obo/UBERON_0001887	internal capsule of telencephalon 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_17772	inferior cerebellar peduncle		http://purl.obolibrary.org/obo/UBERON_0002163	inferior cerebellar peduncle 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/DMBA_17773	lateral olfactory tract	http://purl.obolibrary.org/obo/UBERON_0002265		olfactory tract 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_17774	lateral lemniscus		http://purl.obolibrary.org/obo/UBERON_0002953	lateral lemniscus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_17777	decussation of medial lemniscus		http://purl.obolibrary.org/obo/UBERON_0002643	decussation of medial lemniscus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_17783	optic chiasm		http://purl.obolibrary.org/obo/UBERON_0000959	optic chiasma 	Verified	https://ror.org/03cpe7c52
@@ -1397,7 +1377,6 @@ http://purl.obolibrary.org/obo/MBA_1005	"primary auditory area, layer 6b"	http:/
 http://purl.obolibrary.org/obo/MBA_1006	"primary somatosensory area, trunk, layer 1"	http://purl.obolibrary.org/obo/UBERON_0008933		primary somatosensory cortex 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_101	ventral cochlear nucleus		http://purl.obolibrary.org/obo/UBERON_0002828	ventral cochlear nucleus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_1016	olfactory nerve layer of main olfactory bulb		http://purl.obolibrary.org/obo/UBERON_0005978	olfactory bulb outer nerve layer 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/MBA_1019	"corticospinal tract, crossed"		http://purl.obolibrary.org/obo/UBERON_0002707	corticospinal tract 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_1022	"globus pallidus, external segment"		http://purl.obolibrary.org/obo/UBERON_0002476	lateral globus pallidus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_1021	"secondary motor area, layer 6a"	http://purl.obolibrary.org/obo/UBERON_0016634		premotor cortex 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_1023	"ventral auditory area, layer 5"	http://purl.obolibrary.org/obo/UBERON_0001393		auditory cortex 	Verified	https://ror.org/03cpe7c52
@@ -1413,7 +1392,6 @@ http://purl.obolibrary.org/obo/MBA_1042	"taenia tecta, dorsal part, layer 2"	htt
 http://purl.obolibrary.org/obo/MBA_1045	ectorhinal area/Layer 6b	http://purl.obolibrary.org/obo/UBERON_0002728		entorhinal cortex 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_1047	"primary somatosensory area, barrel field, layer 4"		http://purl.obolibrary.org/obo/UBERON_0035877	primary somatosensory area barrel field layer 4 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_1048	gigantocellular reticular nucleus		http://purl.obolibrary.org/obo/UBERON_0002155	gigantocellular nucleus 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/MBA_105	"superior olivary complex, medial part"		http://purl.obolibrary.org/obo/UBERON_0002128	superior olivary complex 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_1050	"taenia tecta, dorsal part, layer 3"	http://purl.obolibrary.org/obo/UBERON_0015800		taenia tectum of brain 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_1052	pedunculopontine nucleus		http://purl.obolibrary.org/obo/UBERON_0002142	pedunculopontine tegmental nucleus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_1059	"taenia tecta, dorsal part, layer 4"	http://purl.obolibrary.org/obo/UBERON_0015800		taenia tectum of brain 	Verified	https://ror.org/03cpe7c52
@@ -1432,7 +1410,6 @@ http://purl.obolibrary.org/obo/MBA_10700	"presubiculum, layer 2"	http://purl.obo
 http://purl.obolibrary.org/obo/MBA_10701	"presubiculum, layer 3"	http://purl.obolibrary.org/obo/UBERON_0001953		presubiculum 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_10703	"dentate gyrus, molecular layer"		http://purl.obolibrary.org/obo/UBERON_0004679	dentate gyrus molecular layer 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_10704	"dentate gyrus, polymorph layer"		http://purl.obolibrary.org/obo/UBERON_0002928	dentate gyrus polymorphic layer 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/MBA_1071	rhinal fissure	http://purl.obolibrary.org/obo/UBERON_0002683		rhinal sulcus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_1074	"anterolateral visual area, layer 1"	http://purl.obolibrary.org/obo/UBERON_0035894		anterolateral visual area 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_1075	"taenia tecta, ventral part, layer 2"	http://purl.obolibrary.org/obo/UBERON_0015800		taenia tectum of brain 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_1076	efferent cochleovestibular bundle	http://purl.obolibrary.org/obo/UBERON_0001648		vestibulocochlear nerve 	Verified	https://ror.org/03cpe7c52
@@ -1465,14 +1442,12 @@ http://purl.obolibrary.org/obo/MBA_113	"primary somatosensory area, lower limb, 
 http://purl.obolibrary.org/obo/MBA_1132	"pons, sensory related"	http://purl.obolibrary.org/obo/UBERON_0000988		pons 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_1133	"entorhinal area, medial part, ventral zone, layer 5/6"	http://purl.obolibrary.org/obo/UBERON_0007224		medial entorhinal cortex 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_1139	"nucleus of the lateral olfactory tract, layer 3"	http://purl.obolibrary.org/obo/UBERON_0002893		nucleus of lateral olfactory tract 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/MBA_114	"superior olivary complex, lateral part"	http://purl.obolibrary.org/obo/UBERON_0002128		superior olivary complex 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_115	trochlear nucleus		http://purl.obolibrary.org/obo/UBERON_0002722	trochlear nucleus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_116	choroid fissure		http://purl.obolibrary.org/obo/UBERON_0002192	ventricular system choroidal fissure 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_117	optic chiasm		http://purl.obolibrary.org/obo/UBERON_0000959	optic chiasma 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_119	"agranular insular area, ventral part"	http://purl.obolibrary.org/obo/UBERON_0034893		agranular insular cortex 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_120	"agranular insular area, posterior part, layer 1"	http://purl.obolibrary.org/obo/UBERON_0034893		agranular insular cortex 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_121	"lateral visual area, layer 6b"	http://purl.obolibrary.org/obo/UBERON_0035895		lateral visual area 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/MBA_122	"superior olivary complex, periolivary region"	http://purl.obolibrary.org/obo/UBERON_0002971		periolivary nucleus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_123	koelliker-Fuse subnucleus	http://purl.obolibrary.org/obo/UBERON_0002869		diffuse reticular nucleus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_125	optic tract		http://purl.obolibrary.org/obo/UBERON_0001908	optic tract 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_12993	"somatosensory areas, layer 1"	http://purl.obolibrary.org/obo/UBERON_0008930		somatosensory cortex 	Verified	https://ror.org/03cpe7c52
@@ -1566,7 +1541,6 @@ http://purl.obolibrary.org/obo/MBA_266	"lateral septal nucleus, ventral part"	ht
 http://purl.obolibrary.org/obo/MBA_268	"nucleus of the lateral olfactory tract, pyramidal layer"	http://purl.obolibrary.org/obo/UBERON_0002893		nucleus of lateral olfactory tract 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_269	"posterolateral visual area, layer 2/3"	http://purl.obolibrary.org/obo/UBERON_0035897		posterolateral visual area 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_274	"retrosplenial area, dorsal part, layer 6a"	http://purl.obolibrary.org/obo/UBERON_0013531		retrosplenial region 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/MBA_275	lateral septal complex	http://purl.obolibrary.org/obo/UBERON_0007628		lateral septal complex 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_276	"piriform area, molecular layer"	http://purl.obolibrary.org/obo/UBERON_0004725		piriform cortex 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_277	spinotectal pathway		http://purl.obolibrary.org/obo/UBERON_0002798	spinothalamic tract of pons 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_279	"retrosplenial area, lateral agranular part, layer 6b"	http://purl.obolibrary.org/obo/UBERON_0013531		retrosplenial region 	Verified	https://ror.org/03cpe7c52
@@ -1599,7 +1573,6 @@ http://purl.obolibrary.org/obo/MBA_312782648	"postrhinal area, layer 6a"	http://
 http://purl.obolibrary.org/obo/MBA_312782652	"postrhinal area, layer 6b"	http://purl.obolibrary.org/obo/UBERON_0035890		postrhinal area 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_314	"agranular insular area, posterior part, layer 6a"	http://purl.obolibrary.org/obo/UBERON_0034893		agranular insular cortex 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_318	supragenual nucleus	http://purl.obolibrary.org/obo/UBERON_0022424		supragenual nucleus of pontine tegmentum 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/MBA_319	basomedial amygdalar nucleus	http://purl.obolibrary.org/obo/UBERON_0002889		medial part of basal amygdaloid nucleus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_320	"primary motor area, Layer 1"	http://purl.obolibrary.org/obo/UBERON_0001384		primary motor cortex 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_324	"entorhinal area, medial part, ventral zone, layer 2"	http://purl.obolibrary.org/obo/UBERON_0007224		medial entorhinal cortex 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_327	"basomedial amygdalar nucleus, anterior part"	http://purl.obolibrary.org/obo/UBERON_0002889		medial part of basal amygdaloid nucleus 	Verified	https://ror.org/03cpe7c52
@@ -1662,7 +1635,6 @@ http://purl.obolibrary.org/obo/MBA_430	"retrosplenial area, ventral part, layer 
 http://purl.obolibrary.org/obo/MBA_431	"field CA2, stratum lacunosum-moleculare"		http://purl.obolibrary.org/obo/UBERON_0014558	CA2 stratum lacunosum moleculare 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_434	"retrosplenial area, dorsal part, layer 2/3"	http://purl.obolibrary.org/obo/UBERON_0013531		retrosplenial region 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_435	"medial amygdalar nucleus, posteroventral part"	http://purl.obolibrary.org/obo/UBERON_0002892		medial amygdaloid nucleus 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/MBA_436	columns of the fornix	http://purl.obolibrary.org/obo/UBERON_0004680		body of fornix 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_437	"spinal nucleus of the trigeminal, interpolar part"		http://purl.obolibrary.org/obo/UBERON_0002873	interpolar part of spinal trigeminal nucleus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_438	"field CA2, stratum oriens"		http://purl.obolibrary.org/obo/UBERON_0014551	CA2 stratum oriens 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_440	"orbital area, lateral part, layer 6a"	http://purl.obolibrary.org/obo/UBERON_0004167		orbitofrontal cortex 	Verified	https://ror.org/03cpe7c52
@@ -1734,7 +1706,6 @@ http://purl.obolibrary.org/obo/MBA_546	"bed nuclei of the stria terminalis, ante
 http://purl.obolibrary.org/obo/MBA_550	"entorhinal area, medial part, dorsal zone, layer 5/6"	http://purl.obolibrary.org/obo/UBERON_0007224		medial entorhinal cortex 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_551	"central amygdalar nucleus, lateral part"	http://purl.obolibrary.org/obo/UBERON_0002883		central amygdaloid nucleus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_553	dorsal spinocerebellar tract		http://purl.obolibrary.org/obo/UBERON_0002753	posterior spinocerebellar tract 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/MBA_554	"bed nuclei of the stria terminalis, anterior division, oval nucleus"	http://purl.obolibrary.org/obo/UBERON_0001880		bed nucleus of stria terminalis 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_558	"primary somatosensory area, nose, layer 1"	http://purl.obolibrary.org/obo/UBERON_0008933		primary somatosensory cortex 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_559	"central amygdalar nucleus, medial part"	http://purl.obolibrary.org/obo/UBERON_0002883		central amygdaloid nucleus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_56	nucleus accumbens		http://purl.obolibrary.org/obo/UBERON_0001882	nucleus accumbens 	Verified	https://ror.org/03cpe7c52
@@ -1745,7 +1716,6 @@ http://purl.obolibrary.org/obo/MBA_565	"posteromedial visual area, layer 5"	http
 http://purl.obolibrary.org/obo/MBA_569	"bed nuclei of the stria terminalis, posterior division, dorsal nucleus"	http://purl.obolibrary.org/obo/UBERON_0001880		bed nucleus of stria terminalis 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_574	tegmental reticular nucleus		http://purl.obolibrary.org/obo/UBERON_0002147	reticulotegmental nucleus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_577	"primary somatosensory area, upper limb, layer 4"	http://purl.obolibrary.org/obo/UBERON_0008933		primary somatosensory cortex 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/MBA_578	"bed nuclei of the stria terminalis, posterior division, principal nucleus"	http://purl.obolibrary.org/obo/UBERON_0001880		bed nucleus of stria terminalis 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_579	external capsule		http://purl.obolibrary.org/obo/UBERON_0004545	external capsule of telencephalon 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_581	triangular nucleus of septum		http://purl.obolibrary.org/obo/UBERON_0002977	triangular septal nucleus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_582	"orbital area, medial part, layer 2/3"	http://purl.obolibrary.org/obo/UBERON_0004167		orbitofrontal cortex 	Verified	https://ror.org/03cpe7c52
@@ -1756,7 +1726,6 @@ http://purl.obolibrary.org/obo/MBA_589	taenia tecta		http://purl.obolibrary.org/
 http://purl.obolibrary.org/obo/MBA_590	"retrosplenial area, ventral part, layer 6a"	http://purl.obolibrary.org/obo/UBERON_0014918		retrosplenial granular cortex 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_592	"cortical amygdalar area, posterior part, medial zone, layers 1-2"	http://purl.obolibrary.org/obo/UBERON_0002891		cortical amygdaloid nucleus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_593	"primary visual area, layer 1"	http://purl.obolibrary.org/obo/UBERON_0002436		primary visual cortex 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/MBA_594	"bed nuclei of the stria terminalis, posterior division, transverse nucleus"	http://purl.obolibrary.org/obo/UBERON_0001880		bed nucleus of stria terminalis 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_596	diagonal band nucleus		http://purl.obolibrary.org/obo/UBERON_0001879	nucleus of diagonal band 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_597	"taenia tecta, dorsal part"	http://purl.obolibrary.org/obo/UBERON_0015800		taenia tectum of brain 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_598	"ventral auditory area, layer 6b"	http://purl.obolibrary.org/obo/UBERON_0001393		auditory cortex 	Verified	https://ror.org/03cpe7c52
@@ -1805,7 +1774,6 @@ http://purl.obolibrary.org/obo/MBA_659	"nucleus of the solitary tract, central p
 http://purl.obolibrary.org/obo/MBA_661	facial motor nucleus		http://purl.obolibrary.org/obo/UBERON_0003011	facial motor nucleus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_663	"cortical amygdalar area, posterior part, medial zone"	http://purl.obolibrary.org/obo/UBERON_0002891		cortical amygdaloid nucleus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_664	"entorhinal area, medial part, dorsal zone, layer 3"	http://purl.obolibrary.org/obo/UBERON_0007224		medial entorhinal cortex 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/MBA_665	"lateral olfactory tract, body"	http://purl.obolibrary.org/obo/UBERON_0002265		olfactory tract 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_666	"nucleus of the solitary tract, commissural part"	http://purl.obolibrary.org/obo/UBERON_0009050		nucleus of solitary tract 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_667	"frontal pole, layer 2/3"	http://purl.obolibrary.org/obo/UBERON_0002795		frontal pole 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_670	"primary somatosensory area, trunk, layer 2/3"	http://purl.obolibrary.org/obo/UBERON_0008933		primary somatosensory cortex 	Verified	https://ror.org/03cpe7c52
@@ -1827,7 +1795,6 @@ http://purl.obolibrary.org/obo/MBA_695	cortical plate		http://purl.obolibrary.or
 http://purl.obolibrary.org/obo/MBA_696	"posterior auditory area, layer 1"	http://purl.obolibrary.org/obo/UBERON_0001393		auditory cortex 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_698	olfactory areas		http://purl.obolibrary.org/obo/UBERON_0002894	olfactory cortex 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_699	"agranular insular area, ventral part, layer 6b"	http://purl.obolibrary.org/obo/UBERON_0034893		agranular insular cortex 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/MBA_7	principal sensory nucleus of the trigeminal	http://purl.obolibrary.org/obo/UBERON_0002597		principal sensory nucleus of trigeminal nerve 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_701	vestibular nuclei		http://purl.obolibrary.org/obo/UBERON_0002673	vestibular nuclear complex 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_702	"primary somatosensory area, nose, layer 5"	http://purl.obolibrary.org/obo/UBERON_0008933		primary somatosensory cortex 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_703	cortical subplate		http://purl.obolibrary.org/obo/UBERON_0004035	cortical subplate 	Verified	https://ror.org/03cpe7c52
@@ -1933,7 +1900,7 @@ http://purl.obolibrary.org/obo/MBA_903	external cuneate nucleus		http://purl.obo
 http://purl.obolibrary.org/obo/MBA_904	medial septal complex		http://purl.obolibrary.org/obo/UBERON_0007629	medial septal complex 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_905	"anterolateral visual area, layer 2/3"	http://purl.obolibrary.org/obo/UBERON_0035894		anterolateral visual area 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_906	"retrosplenial area, lateral agranular part, layer 6a"	http://purl.obolibrary.org/obo/UBERON_0013531		retrosplenial region 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/MBA_908	"anterior commissure, temporal limb"	http://purl.obolibrary.org/obo/UBERON_0003043		posterior part of anterior commissure 	Verified	https://ror.org/03cpe7c52
+http://purl.obolibrary.org/obo/MBA_908	"anterior commissure, temporal limb"	http://purl.obolibrary.org/obo/UBERON_0000935		anterior commissure 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_910	"orbital area, medial part, layer 6a"	http://purl.obolibrary.org/obo/UBERON_0004167		orbitofrontal cortex 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_913	"visual areas, layer 4"	http://purl.obolibrary.org/obo/UBERON_0000411		visual cortex 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_915	"parabrachial nucleus, medial division, medial medial part"	http://purl.obolibrary.org/obo/UBERON_0002918		medial parabrachial nucleus 	Verified	https://ror.org/03cpe7c52
@@ -1943,7 +1910,6 @@ http://purl.obolibrary.org/obo/MBA_921	"primary somatosensory area, layer 5"	htt
 http://purl.obolibrary.org/obo/MBA_923	"parabrachial nucleus, medial division, ventral medial part"	http://purl.obolibrary.org/obo/UBERON_0002918		medial parabrachial nucleus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_929	"primary somatosensory area, nose, layer 6b"	http://purl.obolibrary.org/obo/UBERON_0008933		primary somatosensory cortex 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_937	"visual areas, layer 5"	http://purl.obolibrary.org/obo/UBERON_0000411		visual cortex 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/MBA_938	paragigantocellular reticular nucleus	http://purl.obolibrary.org/obo/UBERON_0016635		paragigantocellular nucleus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_939	"nucleus ambiguus, dorsal division"	http://purl.obolibrary.org/obo/UBERON_0001719		nucleus ambiguus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_941	vestibulospinal pathway		http://purl.obolibrary.org/obo/UBERON_0002768	vestibulospinal tract 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_942	endopiriform nucleus		http://purl.obolibrary.org/obo/UBERON_0014284	endopiriform nucleus 	Verified	https://ror.org/03cpe7c52
@@ -1971,8 +1937,6 @@ http://purl.obolibrary.org/obo/MBA_974	"primary somatosensory area, mouth, layer
 http://purl.obolibrary.org/obo/MBA_977	ectorhinal area/Layer 6a	http://purl.obolibrary.org/obo/UBERON_0002728		entorhinal cortex 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_979	"corpus callosum, rostrum"		http://purl.obolibrary.org/obo/UBERON_0015703	rostrum of corpus callosum 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_98	subependymal zone	http://purl.obolibrary.org/obo/UBERON_0004922		postnatal subventricular zone 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/MBA_981	"primary somatosensory area, barrel field, layer 1"	http://purl.obolibrary.org/obo/UBERON_0035873		primary somatosensory area barrel field layer 1 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/MBA_986	"corpus callosum, splenium"	http://purl.obolibrary.org/obo/UBERON_0015708		splenium of the corpus callosum 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_987	"pons, motor related"	http://purl.obolibrary.org/obo/UBERON_0000988		pons 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_988	ectorhinal area/Layer 5	http://purl.obolibrary.org/obo/UBERON_0002728		entorhinal cortex 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_990	"ventral auditory area, layer 4"	http://purl.obolibrary.org/obo/UBERON_0001393		auditory cortex 	Verified	https://ror.org/03cpe7c52
@@ -1980,7 +1944,6 @@ http://purl.obolibrary.org/obo/MBA_994	corticobulbar tract		http://purl.obolibra
 http://purl.obolibrary.org/obo/MBA_995	paramedian reticular nucleus		http://purl.obolibrary.org/obo/UBERON_0007764	paramedian reticular nucleus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_996	"agranular insular area, dorsal part, layer 1"	http://purl.obolibrary.org/obo/UBERON_0034893		agranular insular cortex 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_999	"entorhinal area, lateral part, layer 2/3"	http://purl.obolibrary.org/obo/UBERON_0007225		lateral entorhinal cortex 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/MBA_1028	"corticospinal tract, uncrossed"	http://purl.obolibrary.org/obo/UBERON_0002707		corticospinal tract 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_380	cuneate fascicle		http://purl.obolibrary.org/obo/UBERON_0005832	cuneate fasciculus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_553	dorsal spinocerebellar tract		http://purl.obolibrary.org/obo/UBERON_0002753	posterior spinocerebellar tract 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_784	corticospinal tract		http://purl.obolibrary.org/obo/UBERON_0002707	corticospinal tract 	Verified	https://ror.org/03cpe7c52

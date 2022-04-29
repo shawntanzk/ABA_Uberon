@@ -1247,9 +1247,9 @@ http://purl.obolibrary.org/obo/DMBA_17154	r3 part of medial pontine nuclei	http:
 http://purl.obolibrary.org/obo/DMBA_17155	r3 floor plate		http://purl.obolibrary.org/obo/UBERON_0005573	rhombomere 3 floor plate 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_17162	r4 part of dorsal cochlear nucleus	http://purl.obolibrary.org/obo/UBERON_0002829		dorsal cochlear nucleus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_17163	r4 part of posteroventral cochlear nucleus	http://purl.obolibrary.org/obo/UBERON_0002831		posteroventral cochlear nucleus 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/DMBA_17167	r4 part of lateral vestibular nucleus	<http://purl.obolibrary.org/obo/DMBA_17167>		lateral vestibular nucleus 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/DMBA_17168	r4 part of magnocellular medial vestibular nucleus	<http://purl.obolibrary.org/obo/DMBA_17168>		medial vestibular nucleus 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/DMBA_17169	r4 part of parvocellular medial vestibular nucleus	<http://purl.obolibrary.org/obo/DMBA_17169>		medial vestibular nucleus 	Verified	https://ror.org/03cpe7c52
+http://purl.obolibrary.org/obo/DMBA_17167	r4 part of lateral vestibular nucleus	http://purl.obolibrary.org/obo/UBERON_0007230		lateral vestibular nucleus 	Verified	https://ror.org/03cpe7c52
+http://purl.obolibrary.org/obo/DMBA_17168	r4 part of magnocellular medial vestibular nucleus	http://purl.obolibrary.org/obo/UBERON_0001722		medial vestibular nucleus 	Verified	https://ror.org/03cpe7c52
+http://purl.obolibrary.org/obo/DMBA_17169	r4 part of parvocellular medial vestibular nucleus	http://purl.obolibrary.org/obo/UBERON_0001722		medial vestibular nucleus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_17190	supragenual nucleus		http://purl.obolibrary.org/obo/UBERON_0022424	supragenual nucleus of pontine tegmentum 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_17193	r4 part of ventral lateral lemniscal nucleus	http://purl.obolibrary.org/obo/UBERON_0002604		ventral nucleus of lateral lemniscus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_17206	r4 part of lateral pontine nuclei	http://purl.obolibrary.org/obo/UBERON_0002151		pontine nuclear group 	Verified	https://ror.org/03cpe7c52

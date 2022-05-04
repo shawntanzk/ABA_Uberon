@@ -3,7 +3,8 @@ import pandas as pd
 from relation_validator import read_csv_to_dict
 
 
-CCF_TO_UBERON_MAPPING = os.path.join(os.path.dirname(os.path.realpath(__file__)), "../resources/CCF_to_UBERON working list.csv")
+CCF_TO_UBERON_MAPPING = os.path.join(os.path.dirname(os.path.realpath(__file__)),
+                                     "../bridge/CCF_to_UBERON working list.csv")
 CCF_TO_UBERON_TEMPLATE = os.path.join(os.path.dirname(os.path.realpath(__file__)), "../robot_templates/CCF_to_UBERON.tsv")
 
 ALLOWED_NS = ["http://purl.obolibrary.org/obo/MBA_", "http://purl.obolibrary.org/obo/DMBA_"]

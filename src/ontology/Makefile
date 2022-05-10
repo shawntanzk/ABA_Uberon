@@ -60,6 +60,22 @@ sources/uberon-bridge-to-pba.obo:
 all_bridges:
 	make sources/uberon-bridge-to-aba.obo sources/uberon-bridge-to-dhba.obo sources/uberon-bridge-to-dmba.obo sources/uberon-bridge-to-hba.obo sources/uberon-bridge-to-mba.obo sources/uberon-bridge-to-pba.obo -B
 
+# Make new bridges
+# Not sure if the robot commands can be squashed down - happy for you to rewrite neater hkir
+# Still need to integrate makefile from src/bridge - will leave that to you hkir 
+
+new-bridges/new-uberon-bridge-to-dmba.owl:
+	$(ROBOT) template --input mirror/uberon.owl --template ../robot_templates/dmba_CCF_to_UBERON.tsv --output tmp/sourceless-new-uberon-bridge-to-dmba.owl
+	$(ROBOT) template --input mirror/uberon.owl --template ../robot_templates/dmba_CCF_to_UBERON_source.tsv --output tmp/dmba_CCF_to_UBERON_source.owl
+	$(ROBOT) merge --input tmp/sourceless-new-uberon-bridge-to-dmba.owl --input tmp/dmba_CCF_to_UBERON_source.owl --output new-uberon-bridge-to-dmba.owl
+	
+new-bridges/new-uberon-bridge-to-mba.owl:
+	$(ROBOT) template --input mirror/uberon.owl --template ../robot_templates/mba_CCF_to_UBERON.tsv --output tmp/sourceless-new-uberon-bridge-to-mba.owl
+	$(ROBOT) template --input mirror/uberon.owl --template ../robot_templates/mba_CCF_to_UBERON_source.tsv --output tmp/mba_CCF_to_UBERON_source.owl
+	$(ROBOT) merge --input tmp/sourceless-new-uberon-bridge-to-mba.owl --input tmp/mba_CCF_to_UBERON_source.owl --output new-uberon-bridge-to-mba.owl
+
+new_bridges:
+	make new-bridges/new-uberon-bridge-to-dmba.owl new-bridges/new-uberon-bridge-to-mba.owl
 
 # Merge sources. # crudely listing dependencies for now - but could switch to using pattern expansion
 sources_merged.owl: all_bridges

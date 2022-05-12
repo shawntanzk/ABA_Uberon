@@ -1,6 +1,7 @@
 ### This makefile requires python3 & pip3 mapped as such
 
 JOBS = 1 17 10 16 8
+TARGETS = mba dmba
 
 ROBOT = robot
 LINKML = linkml-data2owl
@@ -9,9 +10,11 @@ URIBASE = http://purl.obolibrary.org/obo
 
 STRUCTURE_GRAPHS = $(patsubst %, sources/%.json, $(JOBS))
 ALL_GRAPH_ONTOLOGIES = $(patsubst sources/%.json,sources/%.ofn,$(STRUCTURE_GRAPHS))
+SOURCE_TEMPLATES = $(patsubst %, ../robot_templates/%_CCF_to_UBERON_source.tsv, $(TARGETS))
+NEW_BRIDGES = $(patsubst %, new-bridges/new-uberon-bridge-to-%.owl, $(TARGETS))
 
 
-all: dependencies $(ALL_GRAPH_ONTOLOGIES) aba_uberon.owl report.xlsx
+all: dependencies $(ALL_GRAPH_ONTOLOGIES) aba_uberon.owl report.xlsx $(NEW_BRIDGES)
 
 # Installing depedencies so it can run in ODK container
 .PHONY: dependencies
@@ -64,18 +67,16 @@ all_bridges:
 # Not sure if the robot commands can be squashed down - happy for you to rewrite neater hkir
 # Still need to integrate makefile from src/bridge - will leave that to you hkir 
 
-new-bridges/new-uberon-bridge-to-dmba.owl:
-	$(ROBOT) template --input mirror/uberon.owl --template ../robot_templates/dmba_CCF_to_UBERON.tsv --output tmp/sourceless-new-uberon-bridge-to-dmba.owl
-	$(ROBOT) template --input mirror/uberon.owl --template ../robot_templates/dmba_CCF_to_UBERON_source.tsv --output tmp/dmba_CCF_to_UBERON_source.owl
-	$(ROBOT) merge --input tmp/sourceless-new-uberon-bridge-to-dmba.owl --input tmp/dmba_CCF_to_UBERON_source.owl --output new-bridges/new-uberon-bridge-to-dmba.owl
-	
-new-bridges/new-uberon-bridge-to-mba.owl:
-	$(ROBOT) template --input mirror/uberon.owl --template ../robot_templates/mba_CCF_to_UBERON.tsv --output tmp/sourceless-new-uberon-bridge-to-mba.owl
-	$(ROBOT) template --input mirror/uberon.owl --template ../robot_templates/mba_CCF_to_UBERON_source.tsv --output tmp/mba_CCF_to_UBERON_source.owl
-	$(ROBOT) merge --input tmp/sourceless-new-uberon-bridge-to-mba.owl --input tmp/mba_CCF_to_UBERON_source.owl --output new-bridges/new-uberon-bridge-to-mba.owl
+%_old_mapping.tsv: sources/legacy/uberon-bridge-to-%.obo
+	$(ROBOT) query --input $< --query ../sparql/bridge_mappings.sparql $@
 
-new_bridges:
-	make new-bridges/new-uberon-bridge-to-dmba.owl new-bridges/new-uberon-bridge-to-mba.owl
+../robot_templates/%_CCF_to_UBERON_source.tsv: %_old_mapping.tsv  ../robot_templates/%_CCF_to_UBERON.tsv
+	python ../scripts/mapping_source_template_generator.py -i1 $< -i2 $(word 2, $^) -o $@
+
+new-bridges/new-uberon-bridge-to-%.owl: ../robot_templates/%_CCF_to_UBERON.tsv ../robot_templates/%_CCF_to_UBERON_source.tsv
+	$(ROBOT) template --input mirror/uberon.owl --template $< --output tmp/sourceless-new-uberon-bridge.owl
+	$(ROBOT) template --input mirror/uberon.owl --template $(word 2, $^) --output tmp/CCF_to_UBERON_source.owl
+	$(ROBOT) merge --input tmp/sourceless-new-uberon-bridge.owl --output tmp/CCF_to_UBERON_source.owl --output $@
 
 # Merge sources. # crudely listing dependencies for now - but could switch to using pattern expansion
 sources_merged.owl: all_bridges

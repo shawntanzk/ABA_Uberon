@@ -5,3 +5,4 @@ src/ontology/.DS_Store
 src/ontology/tmp.owl
 src/ontology/tmp.json
 src/ontology/tmp/*
+src/scripts/__pycache__/*

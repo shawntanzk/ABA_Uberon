@@ -78,6 +78,8 @@ new-bridges/new-uberon-bridge-to-%.owl: ../robot_templates/%_CCF_to_UBERON.tsv .
 	$(ROBOT) template --input mirror/uberon.owl --template $(word 2, $^) --output tmp/CCF_to_UBERON_source.owl
 	$(ROBOT) merge --input tmp/sourceless-new-uberon-bridge.owl --output tmp/CCF_to_UBERON_source.owl --output $@
 
+new_bridges: $(NEW_BRIDGES)
+
 # Merge sources. # crudely listing dependencies for now - but could switch to using pattern expansion
 sources_merged.owl: all_bridges
 	robot merge --input sources/1.ofn --input sources/17.ofn --input sources/10.ofn --input sources/16.ofn --input sources/8.ofn --input sources/uberon-bridge-to-aba.obo --input sources/uberon-bridge-to-dhba.obo --input sources/uberon-bridge-to-dmba.obo --input sources/uberon-bridge-to-hba.obo --input sources/uberon-bridge-to-mba.obo --input sources/uberon-bridge-to-pba.obo annotate --ontology-iri $(URIBASE)/$@ -o $@

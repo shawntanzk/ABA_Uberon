@@ -804,7 +804,6 @@ http://purl.obolibrary.org/obo/MBA_612	nucleus of the lateral lemniscus		http://
 http://purl.obolibrary.org/obo/MBA_612	nucleus of the lateral lemniscus		http://purl.obolibrary.org/obo/UBERON_0006840	nucleus of lateral lemniscus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_612	nucleus of the lateral lemniscus		http://purl.obolibrary.org/obo/UBERON_0006840	nucleus of lateral lemniscus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_613	"lateral visual area, layer 5"		http://purl.obolibrary.org/obo/UBERON_0035916	"lateral visual area, layer 5"	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/MBA_614	tuberal nucleus		http://purl.obolibrary.org/obo/UBERON_0002620	tuber cinereum 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_615	"substantia nigra, lateral part"		http://purl.obolibrary.org/obo/UBERON_0002995	substantia nigra pars lateralis	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_616	cuneiform nucleus		http://purl.obolibrary.org/obo/UBERON_0002696	cuneiform nucleus	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_617	"mediodorsal nucleus of the thalamus, central part"		http://purl.obolibrary.org/obo/UBERON_0035113	central part of mediodorsal nucleus of the thalamus	Verified	https://ror.org/03cpe7c52
@@ -1266,3 +1265,4 @@ http://purl.obolibrary.org/obo/MBA_576	accessory facial motor nucleus		http://pu
 http://purl.obolibrary.org/obo/MBA_640	efferent vestibular nucleus		http://purl.obolibrary.org/obo/UBERON_8440038	efferent vestibular nucleus	Added	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_788	piriform-amygdalar area		http://purl.obolibrary.org/obo/UBERON_8440039	piriform-amygdalar area	Added	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_814	dorsal peduncular area		http://purl.obolibrary.org/obo/UBERON_8440040	dorsal peduncular area	Added	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_614	lateral tuberal nucleus		http://purl.obolibrary.org/obo/UBERON_8440041	tuberal nucleus (sensu Rodentia)	Added	https://orcid.org/0000-0001-7258-9596

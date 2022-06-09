@@ -242,8 +242,6 @@ http://purl.obolibrary.org/obo/DMBA_16172	presubiculum		http://purl.obolibrary.o
 http://purl.obolibrary.org/obo/DMBA_16186	parasubiculum		http://purl.obolibrary.org/obo/UBERON_0004683	parasubiculum	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_16204	septohippocampal nucleus		http://purl.obolibrary.org/obo/UBERON_0007630	septohippocampal nucleus	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_16240	posterior part of anterior hypothalamic nucleus		http://purl.obolibrary.org/obo/UBERON_0014591	anterior nucleus of hypothalamus posterior part	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/DMBA_16271	lateral tuberal nucleus		http://purl.obolibrary.org/obo/UBERON_0000435	lateral tuberal nucleus	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/DMBA_16271	lateral tuberal nucleus		http://purl.obolibrary.org/obo/UBERON_0000435	lateral tuberal nucleus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_16308	diencephalon		http://purl.obolibrary.org/obo/UBERON_0001894	diencephalon	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_16341	pregeniculate nucleus		http://purl.obolibrary.org/obo/UBERON_0002480	ventral lateral geniculate nucleus	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/DMBA_16341	pregeniculate nucleus		http://purl.obolibrary.org/obo/UBERON_0002480	ventral lateral geniculate nucleus 	Verified	https://ror.org/03cpe7c52
@@ -707,3 +705,4 @@ http://purl.obolibrary.org/obo/DMBA_15612	ventrolateral preoptic nucleus		http:/
 http://purl.obolibrary.org/obo/DMBA_16937	noradrenergic cell group A4		http://purl.obolibrary.org/obo/UBERON_8440018	noradrenergic cell group A4	Added	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/DMBA_17052	noradrenergic cell group A7		http://purl.obolibrary.org/obo/UBERON_8440021	noradrenergic cell group A7	Added	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/DMBA_16977	supratrigeminal nucleus		http://purl.obolibrary.org/obo/UBERON_8440036	supratrigeminal nucleus	Added	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/DMBA_16271	lateral tuberal nucleus		http://purl.obolibrary.org/obo/UBEORN_8440041	tuberal nucleus (sensu Rodentia)	Added	https://orcid.org/0000-0001-7258-9596

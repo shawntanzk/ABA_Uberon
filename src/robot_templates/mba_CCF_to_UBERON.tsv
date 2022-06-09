@@ -1247,3 +1247,25 @@ http://purl.obolibrary.org/obo/MBA_997	root		http://purl.obolibrary.org/obo/UBER
 http://purl.obolibrary.org/obo/MBA_998	fundus of striatum		http://purl.obolibrary.org/obo/UBERON_0014605	fundus striati	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_999	"entorhinal area, lateral part, layer 2/3"	http://purl.obolibrary.org/obo/UBERON_0007225		lateral entorhinal cortex 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_ENTITY	MBA entity		http://purl.obolibrary.org/obo/UBERON_0001062	anatomical entity	Verified	https://ror.org/03cpe7c52
+http://purl.obolibrary.org/obo/MBA_30	"periventricular hypothalamic nucleus, anterior part"		http://purl.obolibrary.org/obo/UBERON_8440007	"periventricular hypothalamic nucleus, anterior part"	Added	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_118	"periventricular hypothalamic nucleus, intermediate part"		http://purl.obolibrary.org/obo/UBERON_8440008	"periventricular hypothalamic nucleus, intermediate part"	Added	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_623	cerebral nuclei		http://purl.obolibrary.org/obo/UBERON_8440012	cerebral nuclei	Added	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_982	fasciola cinerea		http://purl.obolibrary.org/obo/UBERON_8440013	fasciola cinerea	Added	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_689	ventrolateral preoptic nucleus		http://purl.obolibrary.org/obo/UBERON_8440014	ventrolateral preoptic nucleus	Added	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_677	visceral area		http://purl.obolibrary.org/obo/UBERON_8440024	visceral area	Added	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_1069	parapyramidal nucleus		http://purl.obolibrary.org/obo/UBERON_8440025	parapyramidal nucleus	Added	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_185	"parapyramidal nucleus, deep part"		http://purl.obolibrary.org/obo/UBERON_8440026	"parapyramidal nucleus, deep part"	Added	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_193	"parapyramidal nucleus, superficial part"		http://purl.obolibrary.org/obo/UBERON_8440027	"parapyramidal nucleus, superficial part"	Added	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_154	Perihypoglossal nuclei		http://purl.obolibrary.org/obo/UBERON_8440028	Perihypoglossal nuclei	Added	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_221	rubroreticular tract		http://purl.obolibrary.org/obo/UBERON_8440029	rubroreticular tract	Added	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_278	striatum-like amygdalar nuclei		http://purl.obolibrary.org/obo/UBERON_8440030	striatum-like amygdalar nuclei	Added	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_428	medial corticohypothalmic tract		http://purl.obolibrary.org/obo/UBERON_8440031	medial corticohypothalmic tract	Added	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_972	prelimbic area		http://purl.obolibrary.org/obo/UBERON_8440032	prelimbic area	Added	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_44	infralimbic area		http://purl.obolibrary.org/obo/UBERON_8440033	infralimbic area	Added	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_490	bulbocerebellar tract		http://purl.obolibrary.org/obo/UBERON_8440034	bulbocerebellar tract	Added	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_358	sublaterodorsal nucleus		http://purl.obolibrary.org/obo/UBERON_8440035	sublaterodorsal nucleus	Added	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_534	supratrigeminal nucleus		http://purl.obolibrary.org/obo/UBERON_8440036	supratrigeminal nucleus	Added	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_576	accessory facial motor nucleus		http://purl.obolibrary.org/obo/UBERON_8440037	accessory facial motor nucleus	Added	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_640	efferent vestibular nucleus		http://purl.obolibrary.org/obo/UBERON_8440038	efferent vestibular nucleus	Added	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_788	piriform-amygdalar area		http://purl.obolibrary.org/obo/UBERON_8440039	piriform-amygdalar area	Added	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_814	dorsal peduncular area		http://purl.obolibrary.org/obo/UBERON_8440040	dorsal peduncular area	Added	https://orcid.org/0000-0001-7258-9596
